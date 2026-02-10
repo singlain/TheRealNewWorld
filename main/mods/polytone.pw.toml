@@ -1,0 +1,13 @@
+filename = 'polytone-1.20-2.3.1-fabric.jar'
+name = 'Polytone'
+side = 'both'
+
+[download]
+hash = '237574e517a97721833ebd83b63fa69af0d4d544c84a263dfdcd39a475428147d65d3d7c908358b4dde00469e80dae40a8559e107526dfe65c05bea72fd2a46b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3qAYkBMB/versions/IsVr24Gg/polytone-1.20-2.3.1-fabric.jar'
+
+[update.modrinth]
+mod-id = '3qAYkBMB'
+version = 'IsVr24Gg'

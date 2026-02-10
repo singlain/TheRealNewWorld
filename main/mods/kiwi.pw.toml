@@ -1,0 +1,13 @@
+filename = 'Kiwi-1.20.1-Fabric-11.8.19.jar'
+name = 'Kiwi 🥝'
+side = 'both'
+
+[download]
+hash = '6ccb7a20695efe980691cc79dc40331cc74824ebe05a568b972da03f1323351e2758f56096323a8b78f77c5b489c814317352df64d9286dc97faca938754a97a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ufdDoWPd/versions/WlxfPLdR/Kiwi-1.20.1-Fabric-11.8.19.jar'
+
+[update.modrinth]
+mod-id = 'ufdDoWPd'
+version = 'WlxfPLdR'

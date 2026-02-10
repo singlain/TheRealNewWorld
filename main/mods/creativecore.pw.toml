@@ -1,0 +1,13 @@
+filename = 'CreativeCore_FABRIC_v2.11.33_mc1.20.1.jar'
+name = 'CreativeCore'
+side = 'both'
+
+[download]
+hash = 'a727a0b6966b5f006ff4e87ce3ab6189984af2bdcd2b3754181272b1837ba98936483fb4569430acf1ff45d60d56beb3e7193ff4b412015a4c40f9c9954b4883'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OsZiaDHq/versions/NHhWpLCK/CreativeCore_FABRIC_v2.11.33_mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'OsZiaDHq'
+version = 'NHhWpLCK'
