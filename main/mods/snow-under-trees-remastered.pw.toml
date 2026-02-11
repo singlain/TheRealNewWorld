@@ -1,13 +1,13 @@
-filename = 'SnowUnderTrees-2.5.0+1.20.1.jar'
-name = 'Snow Under Trees'
-side = 'both'
+name = "Snow Under Trees"
+filename = "SnowUnderTrees-2.5.4+1.20.1.jar"
+side = "both"
 
 [download]
-hash = '4e896d729f97937b9362afbf20a8085babc8a1864048c746837ce0f7b2bee16b5e5f98e89e2cf210237d68120dc0f8267a24e4d857c4c572fc75ff3c7a064e4a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/XVnUIUAQ/versions/3Xhagaop/SnowUnderTrees-2.5.0%2B1.20.1.jar'
+url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/Wm7ocjvH/SnowUnderTrees-2.5.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "5e7ab21900b185284861c1c9e5dbc5733ee04bf9297bc7ce4deff7cbeb9f83df89f6e9b2a67f5a4a3cb80884bbb5d352e4dc6b839a35851740b9abaa97510d97"
 
+[update]
 [update.modrinth]
-mod-id = 'XVnUIUAQ'
-version = '3Xhagaop'
+mod-id = "XVnUIUAQ"
+version = "Wm7ocjvH"

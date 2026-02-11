@@ -1,13 +1,13 @@
-filename = 'sliceanddice-fabric-3.2.3.jar'
-name = 'Create Slice & Dice'
-side = 'both'
+name = "Create Slice & Dice"
+filename = "sliceanddice-fabric-3.3.1.jar"
+side = "both"
 
 [download]
-hash = 'd33f920e773f54226ef1d739bfa3375e8d6d2af4f5ca5f8b4c726d4db8ddec35b31282bfa84f38f635a50f7fafd2b2bd70ca27082b47903c64e7d1e4e21526d0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/GmjmRQ0A/versions/kgYlBrag/sliceanddice-fabric-3.2.3.jar'
+url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar"
+hash-format = "sha512"
+hash = "0afb4988affe98b88122285f956d045f4e345aca25c16dd2c62b0d876f1ff21e0f613f2ab06399634ae32ed196ce888b6c7bb7df06c7e4b4a53713761a0fcc94"
 
+[update]
 [update.modrinth]
-mod-id = 'GmjmRQ0A'
-version = 'kgYlBrag'
+mod-id = "GmjmRQ0A"
+version = "EzpVcwYV"

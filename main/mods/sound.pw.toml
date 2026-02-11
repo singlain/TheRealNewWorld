@@ -1,13 +1,13 @@
-filename = 'Sounds-1.1.5+1.20.1.jar'
-name = 'Sounds'
-side = 'both'
+name = "Sounds"
+filename = "Sounds-2.2.1+1.20.1+fabric.jar"
+side = "both"
 
 [download]
-hash = '5d82499dc043771868850ac2d29c301efb7e9634a49304b80355c943e41d787b08145347c12dbf9115dcf9da88d78b2d71033e167b9199789fda55dd84e27d69'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ZouiUX7t/versions/ZvLhtpTK/Sounds-1.1.5%2B1.20.1.jar'
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/EoAqSkiW/Sounds-2.2.1%2B1.20.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "b2e872a0e402135f7944bc8f8956dc4b6649469722f77ac8eb7ed12ae57d74605fd837f7df08f72d6850ee4e3347f7fca2512c92187072c9dc648fe3a5b8fbf4"
 
+[update]
 [update.modrinth]
-mod-id = 'ZouiUX7t'
-version = 'ZvLhtpTK'
+mod-id = "ZouiUX7t"
+version = "EoAqSkiW"

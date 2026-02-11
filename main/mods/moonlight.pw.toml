@@ -1,13 +1,13 @@
-filename = 'moonlight-1.20-2.12.11-fabric.jar'
-name = 'Moonlight'
-side = 'both'
+name = "Moonlight"
+filename = "moonlight-1.20-2.16.27-fabric.jar"
+side = "both"
 
 [download]
-hash = '0b0d6d4434cd873d0f3085d69ad513a736d8579c397db7c4f1b00970fad044ac24e53d48d9657e8560b4ef0561be20d0f7b75ffbe4339ad8724d33c71f4d5b14'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/exg4mWoo/moonlight-1.20-2.12.11-fabric.jar'
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/5NAhKbX6/moonlight-1.20-2.16.27-fabric.jar"
+hash-format = "sha512"
+hash = "50dc4bf904673550614aa6d796010d58d034ff0922460b2a0f6249f9c061a847d6e2322d39c87c4ed321c9e6df9dddaaa6cd0d585351f149881393d82ba0c036"
 
+[update]
 [update.modrinth]
-mod-id = 'twkfQtEc'
-version = 'exg4mWoo'
+mod-id = "twkfQtEc"
+version = "5NAhKbX6"

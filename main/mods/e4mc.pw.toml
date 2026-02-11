@@ -1,13 +1,13 @@
-filename = 'e4mc_minecraft-5.1.0.jar'
-name = 'e4mc'
-side = 'server'
+name = "e4mc"
+filename = "e4mc-fabric-6.0.5.jar"
+side = "server"
 
 [download]
-hash = 'ddfcae8b8567ff2468e1d34612842d9c766e4747e35195dba05a81cc5a3d6d98fa53590a21597ba822624e660c6a96c503660656c1d35cf9aa1a0da865315dad'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qANg5Jrr/versions/JwZn7YZ0/e4mc_minecraft-5.1.0.jar'
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/BAesrdmo/e4mc-fabric-6.0.5.jar"
+hash-format = "sha512"
+hash = "d6465467913c3f7a75a4188a0b0ff34842f8b6c15b6105c1ff4b67809b3b9d20d4851f594bbdf2d3423768946dbcd59127f9ac175a8d6bc6e99cda0a1f806a9a"
 
+[update]
 [update.modrinth]
-mod-id = 'qANg5Jrr'
-version = 'JwZn7YZ0'
+mod-id = "qANg5Jrr"
+version = "BAesrdmo"

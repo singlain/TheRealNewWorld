@@ -1,13 +1,13 @@
-filename = 'YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar'
-name = 'YetAnotherConfigLib'
-side = 'client'
+name = "YetAnotherConfigLib"
+filename = "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
+side = "client"
 
 [download]
-hash = 'a7f86b8385948589e8951c02e91a57931408e8af2b1bfad9021da26fd4d162682ea39cd50915e4049a74331221de462f0dd76a730e758f2c6c005ff73d87554a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/1eAoo2KR/versions/gQuF6HNa/YetAnotherConfigLib-3.5.0%2B1.20.1-fabric.jar'
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "20f282b3cdaec7c83a96840edb756336677c5816ed943145022f1ce1eafac0c9aa7c621939e15abe6f4309626738bc56d3d1b8434f5175d22e7409108630b02b"
 
+[update]
 [update.modrinth]
-mod-id = '1eAoo2KR'
-version = 'gQuF6HNa'
+mod-id = "1eAoo2KR"
+version = "dvS5DjUA"

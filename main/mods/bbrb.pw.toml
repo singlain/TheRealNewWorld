@@ -1,13 +1,13 @@
-filename = 'betterbiomereblend-1.4.2.jar'
-name = 'Better Biome Reblend'
-side = 'client'
+name = "Better Biome Reblend"
+filename = "betterbiomereblend-1.5.2.jar"
+side = "client"
 
 [download]
-hash = '04f20d54c51329074bd71931c3aefdf0a58d6d0c7806f3fce85800055823eb6620416b8f28a69cc6e6a31658c3146332e71a71c00719ed80319b1ce80180a00c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Xh8hkQmD/versions/qAIsaWTg/betterbiomereblend-1.4.2.jar'
+url = "https://cdn.modrinth.com/data/Xh8hkQmD/versions/xpeedQYy/betterbiomereblend-1.5.2.jar"
+hash-format = "sha512"
+hash = "dbce49826a316611d88761721539e25247960ea1dbe103a4abf6cdbc55885f309d7fe675eba23bee5b2a725d74feaa64608132e9389e003362baf39958dab9fc"
 
+[update]
 [update.modrinth]
-mod-id = 'Xh8hkQmD'
-version = 'qAIsaWTg'
+mod-id = "Xh8hkQmD"
+version = "xpeedQYy"

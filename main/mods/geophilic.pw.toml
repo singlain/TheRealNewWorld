@@ -1,13 +1,13 @@
-filename = 'Geophilic v3.1.1 f15-48.jar'
-name = 'Geophilic'
-side = 'both'
+name = "Geophilic"
+filename = "Geophilic v3.4.6.mod.jar"
+side = "both"
 
 [download]
-hash = 'f4ff5fa66bc51b6340b993e1514ebaf47d5be7268ac253d23a9c20a96c62c15489a227546d582c6016abca2b4741b60bcf448c2a590ca7f51a4d11fffa8baf67'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hl5OLM95/versions/DI57oxoL/Geophilic v3.1.1 f15-48.jar'
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic%20v3.4.6.mod.jar"
+hash-format = "sha512"
+hash = "5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065"
 
+[update]
 [update.modrinth]
-mod-id = 'hl5OLM95'
-version = 'DI57oxoL'
+mod-id = "hl5OLM95"
+version = "Vk4cYx6F"

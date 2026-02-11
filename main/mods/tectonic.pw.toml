@@ -1,13 +1,13 @@
-filename = 'tectonic-fabric-1.20-2.3.5b.jar'
-name = 'Tectonic'
-side = 'server'
+name = "Tectonic"
+filename = "tectonic-3.0.17-fabric-1.20.1.jar"
+side = "server"
 
 [download]
-hash = '02d7cc6d5c4a87012b28db8ce4608dff6dcfa6b97a900abcb21c28abf50676d6b37f5b7350977f04d04946408c6d41c8998158cf1dfdb1e235c95200ad71d0a5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/lWDHr9jE/versions/GxY5oM7Y/tectonic-fabric-1.20-2.3.5b.jar'
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/mz3wlQKd/tectonic-3.0.17-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "9a11047ed0e981bb60c230d00ec5d88bf3968119df808e9c55678cab94f8fa5005cdd916799dfd641e0ad60a1b937b4554c71c19d7b3d0f61b94f5135cbf377a"
 
+[update]
 [update.modrinth]
-mod-id = 'lWDHr9jE'
-version = 'GxY5oM7Y'
+mod-id = "lWDHr9jE"
+version = "mz3wlQKd"

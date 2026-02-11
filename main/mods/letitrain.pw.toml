@@ -1,13 +1,13 @@
-filename = 'letitrain-2.2.1.jar'
-name = 'LetItRain'
-side = 'server'
+name = "LetItRain"
+filename = "letitrain-2.2.2.jar"
+side = "server"
 
 [download]
-hash = '5d3d72523fac72b43b28488a3590c7cb30dcfdf8820e30f7597561f7e647d59ae71214b9493bae7d44c61be3941f31fcc33420e3c297b80b52f00a7c97ad5975'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/eQOTUNkk/versions/P7gQDujk/letitrain-2.2.1.jar'
+url = "https://cdn.modrinth.com/data/eQOTUNkk/versions/X8ogO2O2/letitrain-2.2.2.jar"
+hash-format = "sha512"
+hash = "353989ca8a4dbf1fc172508cf452c76a3a51ea8caab4440efd0ee931030b57876023f330ad9d25a10cef0b8b388ba66475fa591a21605c5629e8f0af8d06a8c0"
 
+[update]
 [update.modrinth]
-mod-id = 'eQOTUNkk'
-version = 'P7gQDujk'
+mod-id = "eQOTUNkk"
+version = "X8ogO2O2"
