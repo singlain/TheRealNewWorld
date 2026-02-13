@@ -1,0 +1,13 @@
+name = "Classic Dirt Menu Background"
+filename = "Dirt Menu Background.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/poszQZFh/versions/qy7aZblv/Dirt%20Menu%20Background.zip"
+hash-format = "sha512"
+hash = "9071dc2aa3fe4428809560d9bd1e3d4b9b3af60b7ff89554cb83d210b81058a5358f869ebce612bfa38ffb938ef5a46e8cc52334557ae8ed96e491d47e8b0e20"
+
+[update]
+[update.modrinth]
+mod-id = "poszQZFh"
+version = "qy7aZblv"
