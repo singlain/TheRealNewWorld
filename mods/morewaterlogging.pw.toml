@@ -1,0 +1,13 @@
+filename = 'morewaterlogging-1.2.0-1.20-1.20.2.jar'
+name = 'More Waterlogging'
+side = 'both'
+
+[download]
+hash = 'be8a0f07c42ff50fe435ad7df431162ed76c204b9f5f615805b2c7ea4d6c124cf7eba0f1dc6b025bce2c1eebae76a9d90e798ad3810ea036a4409787f3be7b2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CJdDBlFe/versions/SvGcBDun/morewaterlogging-1.2.0-1.20-1.20.2.jar'
+
+[update.modrinth]
+mod-id = 'CJdDBlFe'
+version = 'SvGcBDun'

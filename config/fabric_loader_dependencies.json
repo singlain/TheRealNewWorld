@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+        "fabricloader": {
+            "+depends": {
+                "fabricloader": ">=0.15.11"
+            }
+        }
+    }
+}
