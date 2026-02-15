@@ -1,6 +1,6 @@
 name = "The Real New World"
 author = "Singlain"
-version = "0.4.1"
+version = "0.4.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
