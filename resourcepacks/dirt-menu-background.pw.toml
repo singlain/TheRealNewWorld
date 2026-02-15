@@ -1,0 +1,100 @@
+filename = 'Dirt Menu Background.zip'
+name = 'Classic Dirt Menu Background'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.18.2',
+    '1.18.2',
+    '1.19.2',
+    '1.19.2',
+    '1.20.1',
+    '1.20.1',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.5 Pre-Release 1',
+    '1.20.5 Pre-Release 2',
+    '1.20.5 Pre-Release 3',
+    '1.20.5 Pre-Release 4',
+    '1.20.5 rc1',
+    '1.20.5 rc2',
+    '1.20.5 rc3',
+    '1.20.5-pre1',
+    '1.20.5-pre2',
+    '1.20.5-pre3',
+    '1.20.5-pre4',
+    '1.20.5-rc1',
+    '1.20.5-rc2',
+    '1.20.5-rc3',
+    '1.20.6',
+    '1.20.6',
+    '1.20.6 rc1',
+    '1.20.6-rc1',
+    '1.21',
+    '1.21',
+    '1.21 Pre-Release 1',
+    '1.21 Pre-Release 2',
+    '1.21 Pre-Release 3',
+    '1.21 Pre-Release 4',
+    '1.21 rc1',
+    '1.21-pre1',
+    '1.21-pre2',
+    '1.21-pre3',
+    '1.21-pre4',
+    '1.21-rc1',
+    '1.21.1',
+    '1.21.1',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '24w09a',
+    '24w09a',
+    '24w10a',
+    '24w10a',
+    '24w11a',
+    '24w11a',
+    '24w12a',
+    '24w12a',
+    '24w13a',
+    '24w13a',
+    '24w14a',
+    '24w14a',
+    '24w14potato',
+    '24w14potato',
+    '24w18a',
+    '24w18a',
+    '24w19a',
+    '24w19a',
+    '24w19b',
+    '24w19b',
+    '24w20a',
+    '24w20a',
+    '24w21a',
+    '24w21a',
+    '24w21b',
+    '24w21b'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3'
+
+[download]
+hash = '9071dc2aa3fe4428809560d9bd1e3d4b9b3af60b7ff89554cb83d210b81058a5358f869ebce612bfa38ffb938ef5a46e8cc52334557ae8ed96e491d47e8b0e20'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/poszQZFh/versions/qy7aZblv/Dirt Menu Background.zip'
+
+[update.modrinth]
+mod-id = 'poszQZFh'
+version = 'qy7aZblv'
