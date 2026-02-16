@@ -1,17 +1,8 @@
-filename = 'configured-neoforge-1.21.1-2.6.3.jar'
-name = 'Configured'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Configured 2.6.3'
+name = "configured"
+filename = "configured-neoforge-1.21.1-2.6.3-signed.jar"
+side = "both"
 
 [download]
-hash = 'e977d86eec39d49295df4e2c4265d6710ae065e8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
-
-[update.curseforge]
-file-id = 7276577
-project-id = 457570
+url = "https://github.com/MrCrayfish/Configured/releases/download/v1.21.1-2.6.3/configured-neoforge-1.21.1-2.6.3-signed.jar"
+hash-format = "sha256"
+hash = "421ffd2604b5487cbdb284d1eb5d1cb8a7d28f3ff84d5b4bda25e0a579282a15"

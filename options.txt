@@ -13,7 +13,7 @@ bobView:true
 toggleCrouch:false
 toggleSprint:false
 narratorHotkey:false
-resourcePacks:["vanilla","mod_resources","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Chat Reporting Helper.zip","midnightcontrols:bedrock","minecraft:supporteatinganimation","moonlight:merged_pack","tinyskeletons:dynamically_copied_skeleton_textures","file/VanillaTweaks_r760612_MC1.21.x.zip","file/Dirt Menu Background.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/§9RAY's §f3D §6Ladders§8§o§k.zip","file/§3§lC418 Songs Only.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Chat Reporting Helper.zip","midnightcontrols:bedrock","minecraft:supporteatinganimation","moonlight:merged_pack","tinyskeletons:dynamically_copied_skeleton_textures","file/Dirt Menu Background.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/§9RAY's §f3D §6Ladders§8§o§k.zip","file/§3§lC418 Songs Only.zip"]
 incompatibleResourcePacks:[]
 lang:en_us
 tutorialStep:none

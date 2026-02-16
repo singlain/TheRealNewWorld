@@ -1,17 +1,8 @@
-filename = 'framework-neoforge-1.21.1-0.13.11.jar'
-name = 'Framework'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'Framework 0.13.11'
+name = "framework"
+filename = "framework-neoforge-1.21.1-0.13.11-signed.jar"
+side = "both"
 
 [download]
-hash = 'e46eb138fbb13a12f37154fb4ec407d64b326475'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
-
-[update.curseforge]
-file-id = 7530361
-project-id = 549225
+url = "https://github.com/MrCrayfish/Framework/releases/download/v1.21.1-0.13.11/framework-neoforge-1.21.1-0.13.11-signed.jar"
+hash-format = "sha256"
+hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
