@@ -102,7 +102,7 @@ hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "f8e24db287fa0713795bd6b5f29a4d1acc773c6eadfbbbcdebe9a9b917299caf"
+hash = "c20bdb0f84e21217a9ee1ec08cead3ab30efcd8f7cb72435b19641eb5ddda0c8"
 
 [[files]]
 file = "config/dsurround/soundconfig.json"
@@ -267,18 +267,6 @@ hash = "a50ababf2b0d1518a87dfcb5fe996d1793ae3b7820ca06d3e6ce1d37bcc20a42"
 [[files]]
 file = "config/sodium-options.json"
 hash = "36cf9cefd797d1cf374dd7b0afeba73a895d7f031b1dfe2945866b442ff0357e"
-
-[[files]]
-file = "config/sounds/mod_utils.json"
-hash = "8430925ec12d7546e2b6426a5eb7e1f3ca2f617602cfe291e396fefcc4d493a7"
-
-[[files]]
-file = "config/sounds/ui.json"
-hash = "92b25ab075d6022614cf16d171919037bb037a69063a69e0cf36d866a4e549f8"
-
-[[files]]
-file = "config/sounds/world.json"
-hash = "4e6ee9b3e7c759452c3bffb747d4bf1aebb740d1249afab44d7d8029653710b6"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
@@ -494,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "0eae1ef556a83f4d18307900b781729f80eb2431529ee6ea2ff999c78b18a743"
+metafile = true
+
+[[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
 metafile = true
 
 [[files]]
@@ -792,11 +785,6 @@ hash = "cadfa74c50ff09f047982bc58e010438a5f43da525e3235fe6456de0c736c34a"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-cursor.pw.toml"
-hash = "36e98bd26363cff51552d0116df8c1c2541553e82c03994d73ba71cc58e969e7"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "ea2402c1420e3db7484f0ed1da8494848d9530a5ebb5e48f6677f3b8e435912b"
 metafile = true
@@ -869,11 +857,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "2f9cd5db4771ad8f4350f5636a5e4d3ff69c4593a9161951309cd3066bc85ed4"
-metafile = true
-
-[[files]]
-file = "mods/old-loading-progress-bar.pw.toml"
-hash = "bfc3cd96f60cdc3e7ff902968adbe2b50145aa8cca46e9fd06225dc2fa2aca8e"
 metafile = true
 
 [[files]]
@@ -999,11 +982,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7e257091083a4cda4fcdba0a64b3a870abd97a5f2486c45b68e39b00cac3161c"
-metafile = true
-
-[[files]]
-file = "mods/sound.pw.toml"
-hash = "07f93dea0cc61da9180f9fa77f423eed26d7c0be2c9da214a1b33a238c9fb876"
 metafile = true
 
 [[files]]
