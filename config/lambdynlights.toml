@@ -23,7 +23,7 @@ chunk_rebuild_scheduler = "culling"
 	# Enables dynamic lighting of the Warden's sonic boom attack particles.
 	sonic_boom = true
 	# Creeper lighting mode. May be off, simple or fancy.
-	creeper = "simple"
+	creeper = "off"
 	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
 	guardian_laser = true
 

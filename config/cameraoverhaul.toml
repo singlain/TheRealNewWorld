@@ -36,7 +36,7 @@ configVersion = 2
 	cameraSwayFadeOutLength = 0.75
 	# Maximum strength of all screen shaking effects.
 	# Default: 2.5
-	screenShakesMaxIntensity = 2.5
+	screenShakesMaxIntensity = 2.0
 	# Speed at which screen shaking rotations change direction or oscillate.
 	# Default: 6.0
 	screenShakesMaxFrequency = 6.0
@@ -45,10 +45,10 @@ configVersion = 2
 	explosionTrauma = 1.0
 	# A [0..1] value linked to the strength of screen shaking caused by lightning bolt-tied thunder.
 	# Default: 0.05
-	thunderTrauma = 0.05
+	thunderTrauma = 0.025
 	# A [0..1] value linked to the strength of screen shaking caused by any actions that swing the player's arm. Best kept very low.
 	# Default: 0.03
-	handSwingTrauma = 0.03
+	handSwingTrauma = 0.025
 
 [walking]
 
