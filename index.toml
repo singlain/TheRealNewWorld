@@ -225,6 +225,10 @@ file = "config/particlerain.json"
 hash = "4f1064be852187334e3f852875dee238c9c1732b70c81c8cce74fde4dd6d9c70"
 
 [[files]]
+file = "config/paxi/datapacks/Abandoned Villages.zip"
+hash = "a71f3efade3f266d031467172379a30ae0fe27387c1b98d31d32ed204bf78596"
+
+[[files]]
 file = "config/paxi/datapacks/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
 hash = "c0427aa39217e52393a3c42a209f676f5151db0990acf6dcced180406baf803f"
 
@@ -1035,6 +1039,11 @@ hash = "bb98f7fd15e399b2da047090c453b7d1aa3ae5c0cc9e3a5e018eac3c9dc5ab0d"
 metafile = true
 
 [[files]]
+file = "mods/mc-258859.pw.toml"
+hash = "828206ac97ad103ec4e2069555de4a2589dea4f4b02556580486631c7ade1cbe"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "959c6151ffa65633431066dbae60ec67383d5e7951ad9b0aba6e969f3c7093af"
 metafile = true
@@ -1336,7 +1345,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d6286b11b33336658a92cd91339225b4a210c4414287ee1e2437fcedd34e39b8"
+hash = "000d1dc42f0aa36278637b7270a0195fca9e52751f600b32a921f00030397c2c"
 
 [[files]]
 file = "resourcepacks/3d-amethyst.pw.toml"
@@ -1344,13 +1353,13 @@ hash = "451a16beaef3b94295f6918206aaf189748b9194978fb2dc3fe03dab7625a723"
 metafile = true
 
 [[files]]
-file = "resourcepacks/3d-dripstone.pw.toml"
-hash = "a762028169b5b229e0b2f21d3d4c507855ee77081ca7d5a3af4c6c8a4513d33d"
+file = "resourcepacks/3d-sugar-cane.pw.toml"
+hash = "ef67bea1eae2cc1941c6754e0b2289e9148abed4403ed66f47f40b1bfc525b40"
 metafile = true
 
 [[files]]
-file = "resourcepacks/3d-sugar-cane.pw.toml"
-hash = "ef67bea1eae2cc1941c6754e0b2289e9148abed4403ed66f47f40b1bfc525b40"
+file = "resourcepacks/3ddripstone.pw.toml"
+hash = "46a2b96feb7c173094cd826516e91424e5565ccc85995545fd90b6a69c8b976e"
 metafile = true
 
 [[files]]

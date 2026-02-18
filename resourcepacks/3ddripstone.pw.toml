@@ -1,0 +1,13 @@
+name = "3D Dripstone"
+filename = "3d-dripstone_v1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uyDA6H6k/versions/fiUQKZbX/3d-dripstone_v1.0.1.zip"
+hash-format = "sha512"
+hash = "819c62519eb1e85cf4d3a3b84a3993097b829c38053c1002fadeaefe2da2a45a022d6e3bb1ea2d98607023c0958b08ba5a256c640927471707cf3dc18379dea8"
+
+[update]
+[update.modrinth]
+mod-id = "uyDA6H6k"
+version = "fiUQKZbX"
