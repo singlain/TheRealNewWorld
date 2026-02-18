@@ -2,7 +2,7 @@
 	"main_menu": {
 		"bottom_right": [
 			{
-				"text": "The Real New World (0.4.2-beta)",
+				"text": "The Real New World (0.5.0-beta)",
 				"clickEvent": {
 					"action": "open_url",
 					"value": "https://github.com/singlain/TheRealNewWorld"
