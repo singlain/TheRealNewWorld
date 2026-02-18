@@ -26,11 +26,11 @@ hash = "270774d07e1741b38eb9a4a323677e03dd34e8dc6010563358e40cdd89b74525"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "4487b48487a23d63efd3d91ba2d4c385a21eb5b0885016442621353cdd780e94"
+hash = "8e34f98809a79162dd5520d87f0faa429239cff2f483dfac1bfc9c39b5f175a3"
 
 [[files]]
 file = "config/bettercombat/server.json5"
-hash = "7d854cc9776ac114d315ab273b4a76b354f3a79bc21e096056ae33ebd27b8ab7"
+hash = "f732101c34025014648e7ae9f699d0403fbc6021c686c0af263b1ee1751c1c7a"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -54,7 +54,7 @@ hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
-hash = "71604dc14720cd526478c71bedf73225c271dc0b71873823fcc9c142c45632b2"
+hash = "89b3f970b1f6e17c59acf2a26518b5ffe3cc84c315da04b821ee1031129246f2"
 
 [[files]]
 file = "config/capes.json5"
@@ -70,7 +70,7 @@ hash = "1fe848042c11f13db1c0240639bf772053e0622df30738cced8aa1057ef65908"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "73c3960f49f636235ef2720bd4e5707b7fe3c0206f31cde78ce05562abc6c576"
+hash = "6ac440386b14c1c692bdbc803b9594f88fe406acc8b60b5bcc2ddb176554496a"
 
 [[files]]
 file = "config/connector.json"
@@ -102,11 +102,7 @@ hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "c20bdb0f84e21217a9ee1ec08cead3ab30efcd8f7cb72435b19641eb5ddda0c8"
-
-[[files]]
-file = "config/dsurround/soundconfig.json"
-hash = "471374d858c32b7936072d8e5606ff62f5fea455ebc6d83f3a0e394ff8182c97"
+hash = "1425da0144b1320b075a48f2f74b3f020c73c8a88ee5dcf10cd6ac4796d2a19c"
 
 [[files]]
 file = "config/dungeon_difficulty/client_settings.json"
@@ -138,7 +134,7 @@ hash = "b20c000ef0a93cef78b6c2bc2d1a22eaa3181f6c3c0c2b880fff3f766f7d5a3f"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "4754a0558f915f96e0401cba90dfaf76ad662793a58f5e9afcb06bbbff8706a9"
+hash = "53e70c6663930543d084cec11f79081d51bb606d3fec07017108e0cd7597ebd3"
 
 [[files]]
 file = "config/fastbench.cfg"
@@ -182,7 +178,7 @@ hash = "1c3eefaadd4c8ab90d206700ff8565ef5bb73bb4abb0a39c02565a96af3d894c"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "ba36a086b7e2f0b8be9af44f7d18f4714d9b4ce85a8f0bfa510bac109e946255"
+hash = "505020590c2d38330c075b58d51836e77febe7a09dd0e3883560271f30a0722e"
 
 [[files]]
 file = "config/litematica.json"
@@ -227,6 +223,270 @@ hash = "2ec47c9c4e3dec8bde89138b64cbc8b6f8663ace8fc008210904162d2ec98771"
 [[files]]
 file = "config/particlerain.json"
 hash = "4f1064be852187334e3f852875dee238c9c1732b70c81c8cce74fde4dd6d9c70"
+
+[[files]]
+file = "config/paxi/datapacks/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
+hash = "c0427aa39217e52393a3c42a209f676f5151db0990acf6dcced180406baf803f"
+
+[[files]]
+file = "config/paxi/datapacks/bundle/data/minecraft/recipe/bundle.json"
+hash = "19e4bed6f87968000521570f66463fb866ea15f873ac96f807aebe67898efe4a"
+
+[[files]]
+file = "config/paxi/datapacks/bundle/pack.mcmeta"
+hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_boots_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_chestplate_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_chestplate_5.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_helmet_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_leggings_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_leggings_5.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_boots_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_boots_5.json"
+hash = "2279ebeab5adc299c381697b745f4e580aa5b8ccc4aa8b3f9e338c8874f966cd"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_chestplate_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_helmet_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_helmet_5.json"
+hash = "e25615f1881e4d12bb57469e73ef6cdef94952c2ce99e57a29f0b57fde81c0ea"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_leggings_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_boots_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_boots_5.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_chestplate_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_helmet_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_leggings_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_leggings_5.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_boots_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_chestplate_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_chestplate_5.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_helmet_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_helmet_5.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_leggings_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_boots_4.json"
+hash = "86ae77f6f6c14ec98d1ae0e60e279a0f5c79d64e24faf2ea574cf09945addc7a"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_boots_5.json"
+hash = "86ae77f6f6c14ec98d1ae0e60e279a0f5c79d64e24faf2ea574cf09945addc7a"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_helmet_4.json"
+hash = "151cc33d102c377fc0da1f39deb1dbb8f105723b4879b0df5a3b101b9a3acc52"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_helmet_5.json"
+hash = "151cc33d102c377fc0da1f39deb1dbb8f105723b4879b0df5a3b101b9a3acc52"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_boots_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_boots_5.json"
+hash = "9dc2d75c6d8b0f885033e07f1643fa2c65b0d2d8abcd9b7209938d588da9129f"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_chestplate_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_helmet_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_helmet_5.json"
+hash = "cbf9014c82f374bf851a41f24066450738b931f014d59f840c04c52a177a4307"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_leggings_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/taiga_armorer_chestplate_5.json"
+hash = "c318ba91302dd03ded4aeb70e2c5797a4bba8e35a976545a6cf5fa71c8e92ee4"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/taiga_armorer_leggings_5.json"
+hash = "c318ba91302dd03ded4aeb70e2c5797a4bba8e35a976545a6cf5fa71c8e92ee4"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
+hash = "6de7c578669735749132df2259903f2ccf5299d444a22332a48fec20002416a0"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/loot_table/chests/ancient_city.json"
+hash = "df2b17935f798d30f7dfcd7c21256a52df400e4dd7fa7cad9ca629e9c4a72f7b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/loot_table/chests/desert_pyramid.json"
+hash = "33bf7b972945704b8a207100dcf063a4a9f68124048ae7b917c0cbfe47afad24"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/loot_table/chests/jungle_temple.json"
+hash = "76a5db10d45320184615d33e3dfa472e95674807ee1c047d59df12fcbfa149bc"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/loot_table/chests/pillager_outpost.json"
+hash = "107a67ee4c6621e4c7109cce77b2f7d88d92563abc741f5161df783da3ba7377"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/desert_common.json"
+hash = "e8e41376410162d41affafe5b5228e30a19f5e909df1100cd5c5ec69fd2f5195"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/desert_special.json"
+hash = "8008585c222ddc12dfbf21a137cf6e76c811254e7cbc87eb5d99b5d38e21d52c"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/jungle_common.json"
+hash = "fdfa0f64b66a48c04485cf3246433ba0bcbff73e058b51c4584a81233c2c7c42"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/jungle_special.json"
+hash = "537cb0988150538e41202aefe276a613e329ceeec6dcf8c361ad5019d516a402"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/plains_common.json"
+hash = "6826458366dd0f769148d36ed6b1c3670fd71f64369cccee2ae735a8db175a87"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/plains_special.json"
+hash = "c45eddb86e66907c3fe2d53a2912d8d8ca49a196b5a51b8d1cc62e0dc620fad6"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/savanna_common.json"
+hash = "52c50c703619bf6e36ff8ae9f97b42a9e2e4c9f65d4cc03ef1336d49a50ea6b6"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/savanna_special.json"
+hash = "1bf7831de3833efad9c80c9d839fca35305c9dbb3dd2bc4fd3f6d6bfdc4a560a"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/snow_common.json"
+hash = "ae302fbfee8918958a32c5c2502e9d2a2de345e1b0142e3a8197c0ff5d8702c2"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/snow_special.json"
+hash = "deaf788cfa7724914b2a4083973a2c94044990f3e315a95bc0d609fe3a9c2dfe"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/swamp_common.json"
+hash = "be5330eb410a5223b2fed6e9eaea1f7a23b122e49b56a68fc15e5c4188e681fc"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/swamp_special.json"
+hash = "687c5f9419bf24a22bc214382b84ab1f92b55acf807603dac63fc95cced4fa2b"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/taiga_common.json"
+hash = "c0448c6cc326992d4a7f28cec1388f0cd447da7328563fb846865c583597492c"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/taiga_special.json"
+hash = "45033fd329db4a30dd3ccbf3ca18b8e49f24ae93075f9ce0506db2eabde37e22"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/worldgen/structure/on_desert_village_maps.json"
+hash = "726940a8799937fcaac5e47e8800fe06294157f80800839129d95fae5ac67a9e"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/worldgen/structure/on_jungle_explorer_maps.json"
+hash = "2c000ac6df0cffc4889fee7e4aca709c11d41ffc61e19520dd8b0af906863807"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/worldgen/structure/on_plains_village_maps.json"
+hash = "d36d753262c2fea538faa92ca0f0d0f2333d96f8eb3484e31f133188261ff94f"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/worldgen/structure/on_savanna_village_maps.json"
+hash = "6a453ec2450aac75cdfa9b463200de6e91fb7213cfb965f56d4e20f5b6f6cc3e"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/worldgen/structure/on_snowy_village_maps.json"
+hash = "711cb924bb1c31d3b964504e96137120702d8c5eb7fac548c32d216f65ee2bf7"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/worldgen/structure/on_swamp_explorer_maps.json"
+hash = "eb4048614beb4aa19adfe4a4c0dc0e2727a34707dc0140ad715765914c235b64"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/data/minecraft/tags/worldgen/structure/on_taiga_village_maps.json"
+hash = "525bc64f5406a747fe0d80b3cd87e83e09b4f325b8873f39ee7b488014585fd3"
+
+[[files]]
+file = "config/paxi/datapacks/trade_rebalance/pack.mcmeta"
+hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
 file = "config/pfm.json"
@@ -785,6 +1045,11 @@ hash = "cadfa74c50ff09f047982bc58e010438a5f43da525e3235fe6456de0c736c34a"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "ad52f42cb5e9080cd493d1e7b2acfbc6c662ece8f094288604d54a224ce0e440"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "ea2402c1420e3db7484f0ed1da8494848d9530a5ebb5e48f6677f3b8e435912b"
 metafile = true
@@ -872,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "b48de7ecdb7cfea14d6442ff41aefdaf5a08f981e363680b486e0baa5eb50d74"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
@@ -1030,11 +1300,6 @@ hash = "d792e282e39002ccc6d5abfe3c6ab92188d760a5e272d8a929c2aa00d15cdcf2"
 metafile = true
 
 [[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "5288378f39a757dde55075b393fc2bed0f00ec5b683b97a59df9df0951d8e3ae"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "8cfeb57fda6a75c3f1869a9e51f44c0033da394a0a5e6ece3b5ffb63d1781ba0"
 metafile = true
@@ -1071,7 +1336,22 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b4b8605580050b627318e3b27d1e82af94097e1547c23d66a386211f87746c13"
+hash = "d6286b11b33336658a92cd91339225b4a210c4414287ee1e2437fcedd34e39b8"
+
+[[files]]
+file = "resourcepacks/3d-amethyst.pw.toml"
+hash = "451a16beaef3b94295f6918206aaf189748b9194978fb2dc3fe03dab7625a723"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-dripstone.pw.toml"
+hash = "a762028169b5b229e0b2f21d3d4c507855ee77081ca7d5a3af4c6c8a4513d33d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-sugar-cane.pw.toml"
+hash = "ef67bea1eae2cc1941c6754e0b2289e9148abed4403ed66f47f40b1bfc525b40"
+metafile = true
 
 [[files]]
 file = "resourcepacks/c418-songs-only.pw.toml"
@@ -1086,14 +1366,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/dirt-menu-background.pw.toml"
 hash = "b5ccba5d4f9abee4009860c5669abfee842440e56ef8c5dc538c14d18b250104"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rays-3d-ladders.pw.toml"
-hash = "6920cf81927a52c65def4b96a7daeb4e3b4b9413c3f95d1178f059b74427a3a1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rays-3d-rails.pw.toml"
-hash = "dd2dfa8f43baa2eece41c01786d3d3bf2c031ea9cbdf27d87b259c5b8f54b674"
 metafile = true

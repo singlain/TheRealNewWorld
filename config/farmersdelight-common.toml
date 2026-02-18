@@ -63,42 +63,42 @@
 		#Chance of generating clusters. Smaller value = more frequent.
 		# Default: 100
 		# Range: > 0
-		chance = 50
+		chance = 0
 
 	#Wild Potato generation
 	[world.wild_potatoes]
 		#Chance of generating clusters. Smaller value = more frequent.
 		# Default: 100
 		# Range: > 0
-		chance = 50
+		chance = 0
 
 	#Wild Onion generation
 	[world.wild_onions]
 		#Chance of generating clusters. Smaller value = more frequent.
 		# Default: 120
 		# Range: > 0
-		chance = 60
+		chance = 0
 
 	#Wild Carrot generation
 	[world.wild_carrots]
 		#Chance of generating clusters. Smaller value = more frequent.
 		# Default: 120
 		# Range: > 0
-		chance = 60
+		chance = 0
 
 	#Wild Cabbage generation
 	[world.wild_cabbages]
 		#Chance of generating clusters. Smaller value = more frequent.
 		# Default: 30
 		# Range: > 0
-		chance = 30
+		chance = 0
 
 	#Sea Beet generation
 	[world.wild_beetroots]
 		#Chance of generating clusters. Smaller value = more frequent.
 		# Default: 30
 		# Range: > 0
-		chance = 30
+		chance = 00
 
 	#Wild Rice generation
 	[world.wild_rice]

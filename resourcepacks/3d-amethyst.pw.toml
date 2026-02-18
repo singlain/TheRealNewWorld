@@ -1,0 +1,13 @@
+name = "3D Amethyst"
+filename = "3D Amethyst - MC1.21.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hb9V3DXp/versions/mpcXsVMI/3D%20Amethyst%20-%20MC1.21.x.zip"
+hash-format = "sha512"
+hash = "b904d37b386cccb1ba6bef07d6cf0c7bd692894320c75aa50cc3eff5f83e0347a75dbada35a63afb715fc9d32f5596ed6722199747b64716225a1b19c2b9b095"
+
+[update]
+[update.modrinth]
+mod-id = "Hb9V3DXp"
+version = "mpcXsVMI"

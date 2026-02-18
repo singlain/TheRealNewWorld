@@ -16,7 +16,7 @@ balanced_food_mechanics = true
 critical_hits_while_sprinting = true
 #Expand all entity hitboxes by 10%, making hitting a target possible from a slightly greater range and with much increased accuracy.
 #Default Value: true
-inflate_hitboxes = true
+inflate_hitboxes = false
 #Attacking will no longer stop the player from sprinting. Very useful when swimming, so you can fight underwater without being stopped on every hit.
 #Default Value: true
 sprint_attacks = true
@@ -39,7 +39,7 @@ no_projectile_immunity = true
 	variable_shield_knockback_delay = 20
 	#Skip 5 tick warm-up delay when activating a shield, so they become effective instantly.
 	#Default Value: true
-	remove_shield_delay = true
+	remove_shield_delay = false
 	#Arc of available protection depending on what angle the attack is coming from and where the player is looking (means the lower this angle the closer you need to be facing your attacker).
 	#Vanilla protection arc is 180 degrees, which has been reduced to around 100 in combat tests.
 	#This does not change the protection arc for projectiles which remains at 180 degress.
@@ -80,7 +80,7 @@ no_projectile_immunity = true
 	hold_attack_button_delay = 5
 	#Attack cooldown is unaffected by switching hotbar items.
 	#Default Value: true
-	fast_switching = true
+	fast_switching = false
 	#Melee attacks that don't hit a target won't trigger the attack cooldown.
 	#Default Value: false
 	retain_energy_on_miss = false
