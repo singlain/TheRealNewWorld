@@ -1355,12 +1355,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4162edac0ec1237911d4f82982cf1a4e8f8a56344622d2ead2c84db08954e36c"
-
-[[files]]
-file = "resourcepacks/3d-amethyst.pw.toml"
-hash = "451a16beaef3b94295f6918206aaf189748b9194978fb2dc3fe03dab7625a723"
-metafile = true
+hash = "8adc452ab445f63bccb35cb2e2eba1abab7f70883e4003dd182630e4c1a4f53a"
 
 [[files]]
 file = "resourcepacks/3d-sugar-cane.pw.toml"
@@ -1368,9 +1363,8 @@ hash = "ef67bea1eae2cc1941c6754e0b2289e9148abed4403ed66f47f40b1bfc525b40"
 metafile = true
 
 [[files]]
-file = "resourcepacks/3ddripstone.pw.toml"
-hash = "46a2b96feb7c173094cd826516e91424e5565ccc85995545fd90b6a69c8b976e"
-metafile = true
+file = "resourcepacks/VanillaTweaks_r380996_MC1.21.x.zip"
+hash = "30be9acd0309f2b551d6e10f503768890816ece385a870b52998213c7f30b5ca"
 
 [[files]]
 file = "resourcepacks/c418-songs-only.pw.toml"

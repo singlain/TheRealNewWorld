@@ -13,7 +13,7 @@ bobView:true
 toggleCrouch:false
 toggleSprint:false
 narratorHotkey:false
-resourcePacks:["vanilla","mod_resources","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Chat Reporting Helper.zip","midnightcontrols:bedrock","minecraft:supporteatinganimation","moonlight:merged_pack","tinyskeletons:dynamically_copied_skeleton_textures","file/Dirt Menu Background.zip","file/§3§lC418 Songs Only.zip","file/3d-dripstone_v1.0.1.zip","file/3D Sugar Cane.zip","file/3D Amethyst - MC1.21.x.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Chat Reporting Helper.zip","midnightcontrols:bedrock","minecraft:supporteatinganimation","moonlight:merged_pack","tinyskeletons:dynamically_copied_skeleton_textures","file/Dirt Menu Background.zip","file/§3§lC418 Songs Only.zip","file/3D Sugar Cane.zip","file/VanillaTweaks_r380996_MC1.21.x.zip"]
 incompatibleResourcePacks:[]
 lang:en_us
 tutorialStep:none
