@@ -838,8 +838,8 @@ hash = "5273a4eb5e9f0591bd0c79d21c2a3f92ea1968e4aa5fc2625684d72002691381"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "323edad2994c7f5869e3e87b4e99c4efa7cfd7b4b4a80ceb0944dbe13e9fb7c3"
+file = "mods/eating-animation-forge.pw.toml"
+hash = "36ca501773cbda3b0df3ab3fec5188337fe4f4dd7918dcf0a7fbb5965b1c41c8"
 metafile = true
 
 [[files]]
@@ -925,6 +925,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "241db605202d1b3fca7c1b6ab8aebd34b2fa269aa8967ab96debf8b645130f5d"
+metafile = true
+
+[[files]]
+file = "mods/gml.pw.toml"
+hash = "892c3b85c8a0c86e799a5dd2a97f016db9f71ae8b30f893908d1cf6e57cb7acc"
 metafile = true
 
 [[files]]
