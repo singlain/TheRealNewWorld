@@ -569,6 +569,10 @@ file = "config/waterdripsound.json"
 hash = "29fbc1ba9d55eae756ef5f3ed4ab2a0250e00085e4a249abe9dede3b080a22f2"
 
 [[files]]
+file = "credits.txt"
+hash = "a2178da5ae7a698eb26aeefd634fe326af170e401f1ba1575617a9048673e5af"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7dbdcf4577882b3419b3e15fbaad5dc6da47e4ccc0b46085f96b545dd0e2bc61"
 metafile = true
