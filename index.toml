@@ -134,7 +134,7 @@ hash = "b20c000ef0a93cef78b6c2bc2d1a22eaa3181f6c3c0c2b880fff3f766f7d5a3f"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "53e70c6663930543d084cec11f79081d51bb606d3fec07017108e0cd7597ebd3"
+hash = "4c4e2795ddc28a0650ad502d7cff7085f15843b79e00d2d31e4527b4c602be95"
 
 [[files]]
 file = "config/fastbench.cfg"
@@ -538,7 +538,7 @@ hash = "354a5476968392847517de6e8dadc4563ded5c92be2b722be48fc2f0e261f77f"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "ce8386de8f2442c2f529d2d5d8d8ac03e8d949e2f241fe406b0571839dc7fbdf"
+hash = "d3e1cb45cf87a47afea790cbb9eb89e07483fa35eb2f65c07bbee40465b6b473"
 
 [[files]]
 file = "config/tia-client.toml"
@@ -746,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "0eae1ef556a83f4d18307900b781729f80eb2431529ee6ea2ff999c78b18a743"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -1216,6 +1221,11 @@ metafile = true
 [[files]]
 file = "mods/scrollabletooltips.pw.toml"
 hash = "01a33c233e70a7174804c649f12dfb38b46f21250c89bf294f4851066295df3b"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
