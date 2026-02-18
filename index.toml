@@ -1345,7 +1345,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "000d1dc42f0aa36278637b7270a0195fca9e52751f600b32a921f00030397c2c"
+hash = "4162edac0ec1237911d4f82982cf1a4e8f8a56344622d2ead2c84db08954e36c"
 
 [[files]]
 file = "resourcepacks/3d-amethyst.pw.toml"
