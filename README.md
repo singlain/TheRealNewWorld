@@ -54,7 +54,7 @@
 - [Dynamic Surroundings](https://modrinth.com/mod/H7fshfpD) by OreCruncher
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
-- [Eating Animation](https://modrinth.com/mod/rUgZvGzi) by theone\_ss, spusik\_, PinkGoosik, DoctorNight1
+- [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) by matyrobbrt
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
