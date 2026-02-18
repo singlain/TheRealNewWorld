@@ -749,11 +749,6 @@ hash = "0eae1ef556a83f4d18307900b781729f80eb2431529ee6ea2ff999c78b18a743"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
-metafile = true
-
-[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
 metafile = true
@@ -1221,11 +1216,6 @@ metafile = true
 [[files]]
 file = "mods/scrollabletooltips.pw.toml"
 hash = "01a33c233e70a7174804c649f12dfb38b46f21250c89bf294f4851066295df3b"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
