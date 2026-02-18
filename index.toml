@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6a66fa37925736d8db8e888ef3257ed233e6f673c9e7222f9c7417fb41508cea"
+hash = "96c524e38dfe47d7fc90885cf2e312fdde684983c3a50c9f9dc13ced64a9e13d"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -570,7 +570,7 @@ hash = "29fbc1ba9d55eae756ef5f3ed4ab2a0250e00085e4a249abe9dede3b080a22f2"
 
 [[files]]
 file = "credits.txt"
-hash = "a2178da5ae7a698eb26aeefd634fe326af170e401f1ba1575617a9048673e5af"
+hash = "d85afb071cf48d3bac29a96e589cc708ae410f07400d070faf83fa35ae720119"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
