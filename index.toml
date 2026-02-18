@@ -54,7 +54,7 @@ hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
-hash = "89b3f970b1f6e17c59acf2a26518b5ffe3cc84c315da04b821ee1031129246f2"
+hash = "c47da7661c37750a8efe9a3d52a48a9f0f2b585bbef256fa2a9df007cd86cb3e"
 
 [[files]]
 file = "config/capes.json5"

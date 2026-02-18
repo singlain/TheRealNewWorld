@@ -24,7 +24,7 @@ configVersion = 2
 	cameraSwayIntensity = 0.3
 	# Frequency of smooth random sway that kicks in when the player idles for enough time.
 	# Default: 0.16
-	cameraSwayFrequency = 0.16
+	cameraSwayFrequency = 0.0
 	# Amount of time that the player must idle for before smooth random sway starts to fade-in.
 	# Default: 0.15
 	cameraSwayFadeInDelay = 0.15
