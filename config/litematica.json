@@ -124,10 +124,10 @@
       "keys": "M,DOWN"
     },
     "layerNext": {
-      "keys": "UP"
+      "keys": "LEFT_SHIFT,M,UP"
     },
     "layerPrevious": {
-      "keys": "DOWN"
+      "keys": "LEFT_SHIFT,M,DOWN"
     },
     "layerSetHere": {
       "keys": ""

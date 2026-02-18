@@ -182,7 +182,7 @@ hash = "505020590c2d38330c075b58d51836e77febe7a09dd0e3883560271f30a0722e"
 
 [[files]]
 file = "config/litematica.json"
-hash = "261ef7044fc93a96fa8aba3ba1aabb6b120a6f3677820eaa04ac4d40ada0199b"
+hash = "5390f5c3bebd6967e23ab28a8943012afbba15a162eeb1c2b9d4923634edb102"
 
 [[files]]
 file = "config/midnightcontrols.json"
