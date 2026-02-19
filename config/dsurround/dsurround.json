@@ -9,21 +9,21 @@
   "soundSystem": {
     "streamingChannels": 12,
     "cullInterval": 20,
-    "enableSoundPruning": true
+    "enableSoundPruning": false
   },
   "enhancedSounds": {
     "enableEnhancedSounds": true,
     "backgroundThreadWorkers": 0,
     "enableMonoConversion": true,
     "enableOcclusionProcessing": false,
-    "reverbRays": 32,
+    "reverbRays": 16,
     "reverbBounces": 4,
     "reverbRayTraceDistance": 256
   },
   "soundOptions": {
     "ambientVolumeScaling": 100,
-    "replaceThunderSounds": true,
-    "allowScarySounds": true,
+    "replaceThunderSounds": false,
+    "allowScarySounds": false,
     "playBiomeMusicWhileCreative": false,
     "displayToastMessagesForMusic": true,
     "remapSounds": true

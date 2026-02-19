@@ -10,6 +10,7 @@
 - [Another Furniture](https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
+- [Armour Sound Tweak Updated](https://modrinth.com/mod/zN5Zb52E) by mr_chumbucket
 - [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation\# The description of the mod\. This is a simple multiline text string that is used for display purposes in the mod list\.
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
 - [Basic Weapons](https://modrinth.com/mod/sc2Pektv) by Khazoda
@@ -80,6 +81,8 @@
 - [Ice Boat Nerf](https://modrinth.com/mod/Udjno5eL) by supersaiyansubtlety
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
+- [Immersive Thunder](https://modrinth.com/mod/uKjKoMsj) by netcatgirl
+- [Immersive Winds](https://modrinth.com/mod/smYLXoRt) by Vibzz
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
 - [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) by Leon
 - [Item Borders](https://modrinth.com/mod/b1fMg6sH) by Grend

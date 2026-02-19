@@ -53,6 +53,10 @@ file = "config/betterthirdperson-common.toml"
 hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
 
 [[files]]
+file = "config/bridgingmod.json"
+hash = "6f9651e0ca2fbb2dcf4d1c046a75bc4e28e2d0ee83d43c099a50a8d968b48b3a"
+
+[[files]]
 file = "config/cameraoverhaul.toml"
 hash = "d01784b388482fd8acf3cf3b2e6976b87e57232d6741a68ffb055996eda65a2d"
 
@@ -102,7 +106,7 @@ hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "29284241b93c650ecbc1bfe13d4affccacca954c5a02cb57972f34e385e5eac6"
+hash = "1f5e9b29a483a4160ed94536f54947cd0f3d00106a0ddf324cc1b1be9c7f4e3d"
 
 [[files]]
 file = "config/dungeon_difficulty/client_settings.json"
@@ -700,6 +704,11 @@ hash = "7218fa4fd5966006b578d824f278468e44464a10e82c54f331a6eb799b92bdf5"
 metafile = true
 
 [[files]]
+file = "mods/armour-sound-tweak-updated.pw.toml"
+hash = "d33e645ddda2b4b764b4e6618ff8b54bb6f6ac1151e58869fec973384b7d0007"
+metafile = true
+
+[[files]]
 file = "mods/astikorcarts-redux.pw.toml"
 hash = "61197cca9dc174ffa3ec098fec68c1fcf15f1c4f39d8f9c8893f0be4b23f0361"
 metafile = true
@@ -1057,6 +1066,16 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bbe8904034289bfaa834647be87a4c685e16605d2281a951ceb454e7b9a1a095"
+metafile = true
+
+[[files]]
+file = "mods/immersive-winds.pw.toml"
+hash = "8053381400929774954f569baf89dfd0e14c1e21177b830f26fa17eb9870eb01"
+metafile = true
+
+[[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
 metafile = true
 
 [[files]]
