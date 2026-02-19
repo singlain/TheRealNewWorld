@@ -294,7 +294,7 @@ hash = "aa3bec002e43dc08e745a00ee4c8b4831b8543584b49cfe280274fcc5a389d16"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/hammer.json"
-hash = "e313a47b18cbd14ce3aa24dd94563e27d464c07c474041677d5cd4dbaa1f0d17"
+hash = "24608bbd7bcd1abb32edf6f2b906d0431a61b8ebbe3733de83bf84957231cb5e"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/mace.json"
@@ -314,7 +314,7 @@ hash = "ddcea2d332183baa805fabc2292a5d26617af7b4b1673291b07f0e7901a503e4"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/vanilla_mace.json"
-hash = "10d74c2c28cbdafbed6af4aeb9386f73e98bf9d144df9330a2b5ebc2fc704dbb"
+hash = "e2ff160021aad5c5847cfb71ad095234bf796870f76fdb9d9ce829a7eedf2a89"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/pack.mcmeta"
@@ -1245,6 +1245,11 @@ hash = "22a3afcbc4c632616d2c11cc615abb893b6947d6fa96314667335c46d8810ac9"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "2d051c9c70b497143673dc62d363f7cfd9b9a501e21dfdd0c2b6b84304bade7d"
 metafile = true
@@ -1302,6 +1307,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
+file = "mods/recipe-fixer.pw.toml"
+hash = "71c9483d08c68be5149794565d81247de34215d2aad658db49f6c5280eaeb948"
 metafile = true
 
 [[files]]
