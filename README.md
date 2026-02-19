@@ -116,6 +116,7 @@
 - [ObsidianUI](https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
 - [OctoLib](https://modrinth.com/mod/RH2KUdKJ) by OctoStudios
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2
+- [PacketFixer](https://modrinth.com/mod/c7m1mi73) by TonimatasDEV
 - [Paginated Advancements](https://modrinth.com/mod/pJogNFap) by DaFuqs
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Paxi](https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
@@ -128,6 +129,7 @@
 - [Prism](https://modrinth.com/mod/1OE8wbN0) by Grend
 - [Puzzle](https://modrinth.com/mod/3IuO68q1) by PuzzleMC, Motschen
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
+- [Recipe Fixer](https://modrinth.com/mod/Nmc13D4j) by by Mysticpasta1, TonimatasDEV
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
 - [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) by comp500
