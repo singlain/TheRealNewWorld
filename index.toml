@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "96c524e38dfe47d7fc90885cf2e312fdde684983c3a50c9f9dc13ced64a9e13d"
+hash = "629dc4c75b7e62696027d452023b631716b244912894e6fa9b0833888c1a93cd"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -54,7 +54,7 @@ hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
-hash = "c47da7661c37750a8efe9a3d52a48a9f0f2b585bbef256fa2a9df007cd86cb3e"
+hash = "d01784b388482fd8acf3cf3b2e6976b87e57232d6741a68ffb055996eda65a2d"
 
 [[files]]
 file = "config/capes.json5"
@@ -166,7 +166,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8f0f96cb4b827219b3f3644e40d5869f8bf1bce23da032f0cd52cb60ff77630b"
+hash = "ebd7b81a03df9cd8fffbfa34a6635a407e5a56f1a4161c641018a101f1e39175"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -222,7 +222,7 @@ hash = "89da04f64d119fb15edecdeceabef0b617aa4a81751f5d71a2658bef1aa48ee0"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "2ec47c9c4e3dec8bde89138b64cbc8b6f8663ace8fc008210904162d2ec98771"
+hash = "1ecce4ea9da31be3f94f9557ef5a3fb48c15f5c38ec7350230c480cef4da812e"
 
 [[files]]
 file = "config/particlerain.json"
@@ -231,6 +231,94 @@ hash = "4f1064be852187334e3f852875dee238c9c1732b70c81c8cce74fde4dd6d9c70"
 [[files]]
 file = "config/paxi/datapacks/Abandoned Villages.zip"
 hash = "a71f3efade3f266d031467172379a30ae0fe27387c1b98d31d32ed204bf78596"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_club.json"
+hash = "6d69bd697ea75a4ec11273e1f23c2ec3fe1f55b58990319db955f27c26fce9a5"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_dagger.json"
+hash = "9e9d8df9df7a7c45d1b972fc9610daf5193545677fed052eeffdeee478bf707c"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_glaive.json"
+hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_hammer.json"
+hash = "216c7a9db47a211ffe0dc9d644612602f04530506af96d4399f485d5258d8572"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_quarterstaff.json"
+hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_spear.json"
+hash = "e89e5da7e584e95ab5f7da15a78e6c946b66af64f4cc359a547551475b33d2a2"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/stone_glaive.json"
+hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/stone_spear.json"
+hash = "3d6dcb1ff2dc899b3b84459a0d47e684d2c5fd33fb1768470577a76288f34736"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_glaive.json"
+hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_spear.json"
+hash = "3d6dcb1ff2dc899b3b84459a0d47e684d2c5fd33fb1768470577a76288f34736"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/axe.json"
+hash = "4c8bc4fa4376b3c56d0492020efe8d9c23e9ec566e479b92ea33078b44bfba2c"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/battlestaff.json"
+hash = "b9fb6ad6d657b61f10fe9d51ebb685e2c0f4ad4f33cc5fdb07134005ac51fe88"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/dagger.json"
+hash = "457d4668986967abdba05bc9f0dc9425dca8e803c0790b8ac1a7fd061303809a"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/double_axe.json"
+hash = "de99a0c2bf69a0f159b4680a49733a15892fded7e70afeb5b05d598c71b8a2d2"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/glaive.json"
+hash = "aa3bec002e43dc08e745a00ee4c8b4831b8543584b49cfe280274fcc5a389d16"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/hammer.json"
+hash = "e313a47b18cbd14ce3aa24dd94563e27d464c07c474041677d5cd4dbaa1f0d17"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/mace.json"
+hash = "3c5d53d9f4a2c60c3b171b6bf18ef876f7f73332e870bce9983f9a55e8cef951"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/spear.json"
+hash = "f3bc08e23c4d4003b0920274e8e766236224979b3889f1c81031f19f00825b63"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/sword.json"
+hash = "7ebad1d6f98f93460add6763fbc0ff56508e4f6cc4b5173d71fd03b365a8c32b"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/trident.json"
+hash = "ddcea2d332183baa805fabc2292a5d26617af7b4b1673291b07f0e7901a503e4"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/vanilla_mace.json"
+hash = "10d74c2c28cbdafbed6af4aeb9386f73e98bf9d144df9330a2b5ebc2fc704dbb"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/pack.mcmeta"
+hash = "d07eb239e3efdc0f194907b6f1454629083dbf17f6765ea4edb8c2be45313254"
 
 [[files]]
 file = "config/paxi/datapacks/bundle/data/minecraft/advancement/recipes/tools/bundle.json"

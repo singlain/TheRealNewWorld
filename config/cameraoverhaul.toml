@@ -21,7 +21,7 @@ configVersion = 2
 	turningRollSmoothing = 1.0
 	# Strength of smooth random sway that kicks in when the player idles for enough time.
 	# Default: 0.6
-	cameraSwayIntensity = 0.3
+	cameraSwayIntensity = 0.0
 	# Frequency of smooth random sway that kicks in when the player idles for enough time.
 	# Default: 0.16
 	cameraSwayFrequency = 0.0
