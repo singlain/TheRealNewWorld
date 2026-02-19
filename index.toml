@@ -62,7 +62,7 @@ hash = "b654cbb5019c63c7824286269676c1f9e9198d8f5bcfabe8b8691c529ecc4e5e"
 
 [[files]]
 file = "config/combatnouveau-client.toml"
-hash = "4257d78803406d1be09b0d8b753893bbb6a52b2a2798ee8da47ec6edff9ec032"
+hash = "6cba0dae7902f94fd5d4d6579eaa2a75897452d9ccf8c08111a19ca81cf04e31"
 
 [[files]]
 file = "config/combatnouveau-common.toml"
@@ -102,7 +102,7 @@ hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "1425da0144b1320b075a48f2f74b3f020c73c8a88ee5dcf10cd6ac4796d2a19c"
+hash = "29284241b93c650ecbc1bfe13d4affccacca954c5a02cb57972f34e385e5eac6"
 
 [[files]]
 file = "config/dungeon_difficulty/client_settings.json"
@@ -215,6 +215,10 @@ hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
 [[files]]
 file = "config/mousewheelie.hjson"
 hash = "ea00cb1d9e5ec9c9e0d2463522a6ee0348ccc6b11b07c04346df1376a9fb9f56"
+
+[[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "9bcb170439b1c232ef53d5f0186a88c54058aac4250f67cd1d5b53aed679c0e0"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -538,7 +542,7 @@ hash = "354a5476968392847517de6e8dadc4563ded5c92be2b722be48fc2f0e261f77f"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "d3e1cb45cf87a47afea790cbb9eb89e07483fa35eb2f65c07bbee40465b6b473"
+hash = "b7dff833d81b56acea2c30d12895a51c14ae1f4d67c2cca174d089aae2bfad6d"
 
 [[files]]
 file = "config/tia-client.toml"
@@ -570,7 +574,7 @@ hash = "29fbc1ba9d55eae756ef5f3ed4ab2a0250e00085e4a249abe9dede3b080a22f2"
 
 [[files]]
 file = "credits.txt"
-hash = "d85afb071cf48d3bac29a96e589cc708ae410f07400d070faf83fa35ae720119"
+hash = "f6bf58baf242cd9f01d4fe2e4cba5638e6b8b1afded2f6e7a4ccd045a9e4cd3a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -929,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/gml.pw.toml"
-hash = "892c3b85c8a0c86e799a5dd2a97f016db9f71ae8b30f893908d1cf6e57cb7acc"
+hash = "ed2c67cfbfae5514a34fdc332e8188509c85a8160eb61c40bcc96b90b00aa5d9"
 metafile = true
 
 [[files]]
@@ -1120,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "eb739baea355122abdf83bf3cd46db28b2684b54c7f661289a974cbd9bebdb74"
+metafile = true
+
+[[files]]
+file = "mods/nostalgic-tweaks.pw.toml"
+hash = "5b1da8ab43cb31ba57c1b705b00e12f2e7e029285b67bf851a81f94a4d69202f"
 metafile = true
 
 [[files]]
@@ -1354,7 +1363,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8adc452ab445f63bccb35cb2e2eba1abab7f70883e4003dd182630e4c1a4f53a"
+hash = "d4368e51374797df4372a3abfa92840d383b121f16deab255990499cca9e79b1"
 
 [[files]]
 file = "resourcepacks/3d-sugar-cane.pw.toml"
@@ -1364,16 +1373,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/VanillaTweaks_r380996_MC1.21.x.zip"
 hash = "30be9acd0309f2b551d6e10f503768890816ece385a870b52998213c7f30b5ca"
-
-[[files]]
-file = "resourcepacks/c418-songs-only.pw.toml"
-hash = "05da67edc7757929d17bffde2a79d01210c69456eef4fa5ada69097d97907486"
-metafile = true
-
-[[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "695f93f83e2dd1d4cda5c65c52e499cdd3d8e95c0b892ddd492b8df34d588984"
-metafile = true
 
 [[files]]
 file = "resourcepacks/dirt-menu-background.pw.toml"

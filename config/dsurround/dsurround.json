@@ -15,7 +15,7 @@
     "enableEnhancedSounds": true,
     "backgroundThreadWorkers": 0,
     "enableMonoConversion": true,
-    "enableOcclusionProcessing": true,
+    "enableOcclusionProcessing": false,
     "reverbRays": 32,
     "reverbBounces": 4,
     "reverbRayTraceDistance": 256

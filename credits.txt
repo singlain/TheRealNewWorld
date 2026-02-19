@@ -51,7 +51,7 @@ Dynamic FPS (https://modrinth.com/mod/LQ3K71Q1) by juliand665 & LostLuma
 Dynamic Surroundings (https://modrinth.com/mod/H7fshfpD) by OreCruncher
 Easy Anvils (https://modrinth.com/mod/OZBR5JT5) by Fuzs
 Easy Magic (https://modrinth.com/mod/9hx3AbJM) by Fuzs
-Eating Animation [Neo/Forge] (https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) by matyrobbrt
+Eating Animation (https://www.curseforge.com/projects/570544) by Matyrobbrt
 End Remastered (https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 Enhanced Attack Indicator (https://modrinth.com/mod/eTy17BBS) by Minenash
 Enhanced Block Entities (https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -62,7 +62,7 @@ EntityCulling (https://modrinth.com/mod/NNAgCjsB) by tr7zw
 Fabric Language Kotlin (https://modrinth.com/mod/Ha28R6CL) by FabricMC
 Fallingleaves (https://modrinth.com/mod/2JAUNCL4) by Cheaterpaul, Fourmisain, BrekiTomasson and RandomMcSomethin
 Farmer's Delight (https://modrinth.com/mod/R2OftAxM) by vectorwing
-Fast Workbench by Shadows_of_Fire
+Fast Workbench (https://www.curseforge.com/minecraft/mc-mods/fastworkbench) by Shadows_of_Fire
 Fastquit (https://modrinth.com/mod/itFaO2Tg) by KingContaria, Kaleb Langley
 Ferrite Core (https://modrinth.com/mod/uXXizFIs) by malte0811
 Forgematica (https://modrinth.com/mod/dCKRaeBC) by TexTrue, CagayakeGirls
@@ -70,6 +70,7 @@ Forgified Fabric API (https://modrinth.com/mod/Aqlf1Shp) by Sinytra, FabricMC
 Framework (https://mrcrayfish.com/mods?id=framework) by MrCrayfish
 Geophilic (https://modrinth.com/mod/hl5OLM95) by bebebea_loste
 Golden Apple Recipe Back (https://modrinth.com/mod/FJjunGFx) by Arthur Orsi
+GroovyModLoader (https://www.curseforge.com/projects/661517) by Luke Bemish, Matyrobbrt, and Paint_Ninja
 Hide Experimental Warning (https://modrinth.com/mod/Rm4OOdHd) by Rick South
 Highlight (https://modrinth.com/mod/Vz96hXMh) by ThatGravyBoat
 Horseman (https://modrinth.com/mod/qIv5FhAA) by mortuusars
@@ -106,6 +107,7 @@ Mouse Wheelie (https://modrinth.com/mod/u5Ic2U1u) by Siphalor
 No Chat Reports (https://modrinth.com/mod/qQyHxfxd) by Aizistral
 No Chat Restrictions (https://modrinth.com/mod/z440MEwJ) by Aizistral
 Noisium (https://modrinth.com/mod/hasdd01q) by Steveplays28
+Nostalgic Tweaks (https://modrinth.com/mod/l1rj36Ob) by Adrenix
 Not Enough Crashes (https://modrinth.com/mod/yM94ont6) by Fudge
 NotEnoughAnimations (https://modrinth.com/mod/MPCX6s5C) by tr7zw
 ObsidianUI (https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
@@ -114,7 +116,7 @@ OptiGUI (https://modrinth.com/mod/JuksLGBQ) by opekope2
 Paginated Advancements (https://modrinth.com/mod/pJogNFap) by DaFuqs
 Particle Rain (https://modrinth.com/mod/nrikgvxm) by pigcart
 Paxi (https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
-Placebo (https://www.curseforge.com/minecraft/mc-mods/placebo) by Shadows_of_Fire
+Placebo (https://www.curseforge.com/projects/283644) by Shadows_of_Fire
 Player Animator (https://modrinth.com/mod/gedNE4y2) by KosmX
 Polymorph (https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 Polytone (https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
@@ -156,10 +158,8 @@ e4mc (https://modrinth.com/mod/qANg5Jrr) by skyevg
 - Resource Packs
 
 Vanilla Tweaks (https://vanillatweaks.net/) by Vanilla Tweaks Team
-C418 Songs Only (https://modrinth.com/resourcepack/c418-songs-only) by redsquare
 Classic Dirt Menu Background (https://modrinth.com/resourcepack/dirt-menu-background) by Hexagonl
 3D Sugar Cane (https://modrinth.com/resourcepack/3d-sugar-cane) by heycronus
-Chat Reporting Helper (https://modrinth.com/resourcepack/chat-reporting-helper) by robotkoer and Fabulously Optimized
 
 - Datapacks
 

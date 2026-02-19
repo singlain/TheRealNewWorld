@@ -1,6 +1,6 @@
 #Improved arm swing animation to emphasize the rhythm of the attacks from combat test snapshots.
 #Default Value: false
-alternative_swing_animation = true
+alternative_swing_animation = false
 #Render some default attributes such as armor protection with green text instead of blue one, just like with tools and weapons.
 #Default Value: true
 special_base_attribute_modifiers = true

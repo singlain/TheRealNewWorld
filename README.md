@@ -1,8 +1,8 @@
 <details>
   <summary>Credits</summary>
  
-  ### Mods
-  
+  ### Mods 
+
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [Amendments](https://modrinth.com/mod/6iTJugQR) by MehVahdJukaar, Plantkillable
@@ -10,7 +10,7 @@
 - [Another Furniture](https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
-- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation
+- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation\# The description of the mod\. This is a simple multiline text string that is used for display purposes in the mod list\.
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
 - [Basic Weapons](https://modrinth.com/mod/sc2Pektv) by Khazoda
 - [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) by way2muchnoise
@@ -54,7 +54,7 @@
 - [Dynamic Surroundings](https://modrinth.com/mod/H7fshfpD) by OreCruncher
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
-- [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) by matyrobbrt
+- [Eating Animation](https://www.curseforge.com/projects/570544) by Matyrobbrt
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -73,6 +73,7 @@
 - [Framework](https://mrcrayfish.com/mods?id=framework) by MrCrayfish
 - [Geophilic](https://modrinth.com/mod/hl5OLM95) by bebebea\_loste
 - [Golden Apple Recipe Back](https://modrinth.com/mod/FJjunGFx) by Arthur Orsi
+- [GroovyModLoader](https://www.curseforge.com/projects/661517) by Luke Bemish, Matyrobbrt, and Paint\_Ninja
 - [Hide Experimental Warning](https://modrinth.com/mod/Rm4OOdHd) by Rick South
 - [Highlight](https://modrinth.com/mod/Vz96hXMh) by ThatGravyBoat
 - [Horseman](https://modrinth.com/mod/qIv5FhAA) by mortuusars
@@ -109,6 +110,7 @@
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Chat Restrictions](https://modrinth.com/mod/z440MEwJ) by Aizistral
 - [Noisium](https://modrinth.com/mod/hasdd01q) by Steveplays28
+- [Nostalgic Tweaks](https://modrinth.com/mod/l1rj36Ob) by Adrenix
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by Fudge
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
 - [ObsidianUI](https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
@@ -117,7 +119,7 @@
 - [Paginated Advancements](https://modrinth.com/mod/pJogNFap) by DaFuqs
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Paxi](https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
-- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) by Shadows\_of\_Fire
+- [Placebo](https://www.curseforge.com/projects/283644) by Shadows\_of\_Fire
 - [Player Animator](https://modrinth.com/mod/gedNE4y2) by KosmX
 - [Polymorph](https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 - [Polytone](https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
@@ -157,10 +159,8 @@
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
 ### Resource Packs
 - [Vanilla Tweaks](https://vanillatweaks.net/) by Vanilla Tweaks Team
-- [C418 Songs Only](https://modrinth.com/resourcepack/c418-songs-only) by redsquare
 - [Classic Dirt Menu Background](https://modrinth.com/resourcepack/dirt-menu-background) by Hexagonl
 - [3D Sugar Cane](https://modrinth.com/resourcepack/3d-sugar-cane) by heycronus
-- [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper) by robotkoer and Fabulously Optimized
 ### Data Packs
 - [80% Abandoned Villages](modrinth.com/datapack/abandoned-villages) by lunaStellarii
 
