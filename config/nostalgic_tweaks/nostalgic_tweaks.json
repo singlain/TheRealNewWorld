@@ -49,7 +49,7 @@
     "replaceGameplayMusic": true,
     "stopSongBinding": -1,
     "nextSongBinding": -1,
-    "oldCaveSounds": false,
+    "oldCaveSounds": true,
     "oldCaveAmbience": true,
     "disableNetherAmbience": false,
     "disableWaterAmbience": false,
