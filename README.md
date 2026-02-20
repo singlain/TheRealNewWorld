@@ -119,6 +119,7 @@ The following mods were included as .jar in the overrides due to them being unav
 
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
+- [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) by Yanny
 - [Amendments](https://modrinth.com/mod/6iTJugQR) by MehVahdJukaar, Plantkillable
 - [Animatica](https://modrinth.com/mod/PRN43VSY) by FoundationGames
 - [Another Furniture](https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
@@ -170,6 +171,8 @@ The following mods were included as .jar in the overrides due to them being unav
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
 - [Eating Animation](https://www.curseforge.com/projects/570544) by Matyrobbrt
+- [EMI](https://modrinth.com/mod/emi) by Emi
+- [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -177,6 +180,7 @@ The following mods were included as .jar in the overrides due to them being unav
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
+- [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) by Kneelawk, abbie, KirboEatsFood
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
 - [Fallingleaves](https://modrinth.com/mod/2JAUNCL4) by Cheaterpaul, Fourmisain, BrekiTomasson and RandomMcSomethin
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) by vectorwing
@@ -200,8 +204,6 @@ The following mods were included as .jar in the overrides due to them being unav
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
 - [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) by Leon
 - [Item Borders](https://modrinth.com/mod/b1fMg6sH) by Grend
-- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
-- [Just Enough Resources](https://modrinth.com/mod/uEfK2CXF) by way2muchnoise
 - [Kaffee's Dual Ride](https://modrinth.com/mod/dv1QW2PN) by Kaffee
 - [Kiwi Library](https://modrinth.com/mod/ufdDoWPd) by Snownee
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) by thedarkcolour

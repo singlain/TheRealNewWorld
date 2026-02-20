@@ -2,6 +2,7 @@
 
 3d-Skin-Layers (https://modrinth.com/mod/zV5r3pPn) by tr7zw
 Accurate Block Placement (https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
+AdvancedLootInfo (https://modrinth.com/mod/PEPVViac) by Yanny
 Amendments (https://modrinth.com/mod/6iTJugQR) by MehVahdJukaar, Plantkillable
 Animatica (https://modrinth.com/mod/PRN43VSY) by FoundationGames
 Another Furniture (https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
@@ -38,6 +39,7 @@ Cool Rain (https://modrinth.com/mod/IgftU6Mn) by Leclowndu93150
 Create (https://modrinth.com/mod/LNytGWDc) by simibubi
 Create Slice & Dice (https://modrinth.com/mod/GmjmRQ0A) by possible_triangle
 Create: Bells & Whistles (https://modrinth.com/mod/gJ5afkVv) by lev
+Create: EMI Schematics (https://modrinth.com/mod/emi-create-schematics) by LiukRast, swzo
 Create: Steam 'n' Rails 1.21.1 (https://modrinth.com/mod/L3Jv0QZI) by PoppyBlossom, Chameleon538
 CreativeCore (https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 Cubes Without Borders (https://modrinth.com/mod/ETlrkaYF) by Kir_Antipov
@@ -53,6 +55,8 @@ Dynamic Surroundings (https://modrinth.com/mod/H7fshfpD) by OreCruncher
 Easy Anvils (https://modrinth.com/mod/OZBR5JT5) by Fuzs
 Easy Magic (https://modrinth.com/mod/9hx3AbJM) by Fuzs
 Eating Animation (https://www.curseforge.com/projects/570544) by Matyrobbrt
+EMI (https://modrinth.com/mod/emi) by Emi
+EMI Enchanting (https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
 End Remastered (https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 Enhanced Attack Indicator (https://modrinth.com/mod/eTy17BBS) by Minenash
 Enhanced Block Entities (https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -60,6 +64,7 @@ EnhancedVisuals (https://modrinth.com/mod/KjL0jE2w) by CreativeMD, AriaFreeze
 Entity Model Features (https://modrinth.com/mod/4I1XuqiY) by Traben
 Entity Texture Features (https://modrinth.com/mod/BVzZfTc1) by Traben
 EntityCulling (https://modrinth.com/mod/NNAgCjsB) by tr7zw
+Extra Mod Integrations (https://modrinth.com/mod/bpRHnWUb) by Kneelawk, abbie, KirboEatsFood
 Fabric Language Kotlin (https://modrinth.com/mod/Ha28R6CL) by FabricMC
 Fallingleaves (https://modrinth.com/mod/2JAUNCL4) by Cheaterpaul, Fourmisain, BrekiTomasson and RandomMcSomethin
 Farmer's Delight (https://modrinth.com/mod/R2OftAxM) by vectorwing
@@ -83,8 +88,6 @@ Immersive Winds (https://modrinth.com/mod/smYLXoRt) by Vibzz
 Iris (https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
 Iris Flywheel Compat (https://modrinth.com/mod/ndHYMY2K) by Leon
 Item Borders (https://modrinth.com/mod/b1fMg6sH) by Grend
-Just Enough Items (https://modrinth.com/mod/u6dRKJwZ) by mezz
-Just Enough Resources (https://modrinth.com/mod/uEfK2CXF) by way2muchnoise
 Kaffee's Dual Ride (https://modrinth.com/mod/dv1QW2PN) by Kaffee
 Kiwi Library (https://modrinth.com/mod/ufdDoWPd) by Snownee
 Kotlin for Forge (https://modrinth.com/mod/ordsPcFz) by thedarkcolour
