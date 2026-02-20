@@ -8,8 +8,9 @@
 - **...and more!**
 
 # Disclaimer
-
 Until this modpack reaches full release, there can be changes implemented that will break your worlds. Use only for testing / providing feedback.
+## Make sure to allocate at least 4GB of RAM to your instance!
+### Users with lower-end hardware can experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to Distant Horizions generating the surrounding chunks!
 
 # Balance and Progression Changes
 
@@ -283,6 +284,5 @@ The following mods were included as .jar in the overrides due to them being unav
 - [80% Abandoned Villages](modrinth.com/datapack/abandoned-villages) by lunaStellarii
 
 </details>
-
 
 </details>
