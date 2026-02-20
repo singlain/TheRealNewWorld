@@ -169,6 +169,10 @@ file = "config/horseman-server.toml"
 hash = "3d77f2214ca9a1cfc6da962ed675bbe5a155f1851e90133f2951ef35d790f05f"
 
 [[files]]
+file = "config/immersivewind.json"
+hash = "24c425daece3f2d51b04bce4c13bb3c10d192e63a25cb70380b72d6ced0c26bf"
+
+[[files]]
 file = "config/iris.properties"
 hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
