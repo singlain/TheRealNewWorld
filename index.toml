@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "3329975ed7261b9b6e5e7520312111ad41ba3b96adc80542d95152718c578df5"
+hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -38,7 +38,7 @@ hash = "c668592b051b888985c67a1d6ee126533b14329c3b2e14199a6f6776c01ef093"
 
 [[files]]
 file = "config/bettermineshafts-neoforge-1_21.toml"
-hash = "57b302568dd429c68c30640addab5f7fc18765affefc17ba7e2435ec3b9588d0"
+hash = "515077b92e1a636c0d7883575f07c73576075606a4f362eda3628421a86877e5"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -178,7 +178,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0ce12409de16955144368ad96101b078244e1ab4dca8975b2b39e15566013adc"
+hash = "6cfd4db8922789d5062b29402c776506fa80c9835be7ca4ee740bf82eb694a42"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -642,7 +642,7 @@ hash = "354a5476968392847517de6e8dadc4563ded5c92be2b722be48fc2f0e261f77f"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "b7dff833d81b56acea2c30d12895a51c14ae1f4d67c2cca174d089aae2bfad6d"
+hash = "f3304dd26b9c31dd4ae528361ccf873d70eecd13800c3eec3ab1e7d9f9b398ad"
 
 [[files]]
 file = "config/tia-client.toml"
