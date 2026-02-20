@@ -121,6 +121,10 @@ file = "config/easyanvils-common.toml"
 hash = "609c46c673a952a323943482e0385f0d263d250fd6340ab57645bc093c49bf49"
 
 [[files]]
+file = "config/emi.css"
+hash = "dcab37188dd2994a56dc10573daf9ecdf48abafe0995cae0beef7887875de796"
+
+[[files]]
 file = "config/enhanced_attack_indicator-client.toml"
 hash = "c768b713f77bca4331c180972ec23f9ff5a322255557aaa18e276ccade965967"
 
@@ -142,7 +146,7 @@ hash = "4c4e2795ddc28a0650ad502d7cff7085f15843b79e00d2d31e4527b4c602be95"
 
 [[files]]
 file = "config/fastbench.cfg"
-hash = "5e94dfe98aff6c65ffe26a957c31707dde15ee9959a6806338d498880fcd8649"
+hash = "41e28577931484abf560c87f95187dd5cef20e460b3ac6ace553f1d139d65889"
 
 [[files]]
 file = "config/fastquit.toml"
@@ -679,6 +683,11 @@ hash = "ebf2b1284617957e1a256cda4a7031d600fad9e01c2329f4e8a3478b6b5493a0"
 metafile = true
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "a3e5ded49ba85b7dc425f811a2f6df2a56f89a7e29c281d27a9e0dc86237deb5"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "098af47b3abc2f8bd6d3bba1f4a9f5af38c5e917cb649c08ab01a709dd57a88b"
 metafile = true
@@ -949,6 +958,21 @@ hash = "a722ce2dba2a27f5754a9d0ee05f8004a49d309673b3d27939301eeae2b6e89e"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "0ead6a42adbf94e714001a58f1860b79d8901cbeaaf271708a37ad993c18b4b5"
 metafile = true
@@ -976,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "3edb62c720019a600d5f94f9a9e9e2776b30b78dd4cd8a64322a2c8abe23ba7e"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
@@ -1091,16 +1120,6 @@ metafile = true
 [[files]]
 file = "mods/item-borders.pw.toml"
 hash = "3a9cb52b3f066db2b98f2374494e3ca6e974caaf60cdbd34dab2b3707c555990"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "2c5b0891fab724888ba7cb315bdd9749a4854e088405ab8b116dbf9e6009891b"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "102196981ca5564ecfb76fac7c1e4e23bb07d24bea40b56060f0ecc0840bbee5"
 metafile = true
 
 [[files]]
