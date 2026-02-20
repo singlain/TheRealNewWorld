@@ -87,7 +87,7 @@ Just Enough Items (https://modrinth.com/mod/u6dRKJwZ) by mezz
 Just Enough Resources (https://modrinth.com/mod/uEfK2CXF) by way2muchnoise
 Kaffee's Dual Ride (https://modrinth.com/mod/dv1QW2PN) by Kaffee
 Kiwi Library (https://modrinth.com/mod/ufdDoWPd) by Snownee
-Kotlin for Forge (https://modrinth.com/mod/ordsPcFz)
+Kotlin for Forge (https://modrinth.com/mod/ordsPcFz) by thedarkcolour
 LambDynamicLights (https://modrinth.com/mod/yBW8D80W) by LambdAurora
 LanguageReload (https://modrinth.com/mod/4zpN0syd) by HiedaCamellia
 Leave My Bars Alone (https://modrinth.com/mod/gK9mebQg) by Fuzs

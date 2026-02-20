@@ -2,10 +2,10 @@
 	"main_menu": {
 		"bottom_left": [
 			{
-				"text": "The Real New World (0.5.0-beta)",
+				"text": "The Real New World (0.6.0-beta)",
 				"clickEvent": {
 					"action": "open_url",
-					"value": "https://github.com/singlain/TheRealNewWorld"
+					"value": "https://modrinth.com/modpack/the-real-new-world"
 				}
 			}
 		]

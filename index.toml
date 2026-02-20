@@ -170,7 +170,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ebd7b81a03df9cd8fffbfa34a6635a407e5a56f1a4161c641018a101f1e39175"
+hash = "17d847d4f41825cffae4832111e07e07a3a6d2f89b1037aa15e0f8ab8ef7ed32"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -666,7 +666,7 @@ hash = "29fbc1ba9d55eae756ef5f3ed4ab2a0250e00085e4a249abe9dede3b080a22f2"
 
 [[files]]
 file = "credits.txt"
-hash = "b52f92a21736d98bccd43d9726a557f481ab5d960d3de5bd461eb54b045f73b8"
+hash = "d15f29beb0f69c16e1b2a64c9819bfb05f79c21b47f3638b7d75c936ed5e1c4c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
