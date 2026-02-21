@@ -7,10 +7,8 @@
 - **Sound and atmosphere overhauls**
 - **...and more!**
 
-# Disclaimer
-Until this modpack reaches full release, there can be changes implemented that will break your worlds. Use only for testing / providing feedback.
 ## Make sure to allocate at least 4GB of RAM to your instance!
-### Users with lower-end hardware can experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to Distant Horizions generating the surrounding chunks!
+### Users with lower-end hardware can experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to terrain around generating. Since the mods in this modpack are quite heavy in terms of the contents of each chunk and entity - this will make chunk load times pretty slow. I'll be trying to fix it or at least improve upon it.
 
 # Balance and Progression Changes
 
