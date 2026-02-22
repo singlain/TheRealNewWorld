@@ -7,10 +7,8 @@
 - **Sound and atmosphere overhauls**
 - **...and more!**
 
-# Disclaimer
-Until this modpack reaches full release, there can be changes implemented that will break your worlds. Use only for testing / providing feedback.
 ## Make sure to allocate at least 4GB of RAM to your instance!
-### Users with lower-end hardware can experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to Distant Horizions generating the surrounding chunks!
+### Users with lower-end hardware can experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to terrain around generating. Since the mods in this modpack are quite heavy in terms of the contents of each chunk and entity - this will make chunk load times pretty slow. I'll be trying to fix it or at least improve upon it.
 
 # Balance and Progression Changes
 
@@ -71,7 +69,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 
 </details>
 
-# Sound and atmosphere overhauls
+# Sound and Atmosphere overhauls
 
 <details>
 <summary>Spoiler</summary>
@@ -99,6 +97,16 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 
 </details>
 
+# Other Additions
+
+<details>
+<summary>Spoiler</summary>
+
+### Thanks to [Amendments](https://modrinth.com/mod/6iTJugQR) and [Another Furniture](https://modrinth.com/mod/ulloLmqG) you'll have more functionality to the vanilla blocks and just a tiny amount of new decoration options to still keep you grounded and creative with your builds.
+### [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) and [Easy Magic](https://modrinth.com/mod/9hx3AbJM) make Enchanting and Repairing your tools much less of a struggle.
+## && More! There are still plenty of subtle changes that aren't listed here, so why not go and see for yourself? =)
+
+</details>
 
 ## Credits
 
@@ -106,12 +114,13 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <details>
 <summary>Spoiler</summary>
 
-The following mods were included as .jar in the overrides due to them being unavailable on Modrinth/GitHub or being CurseForge exclusives.
+The following mods were bundled as .jar(s) in the overrides due to them being unavailable on Modrinth/GitHub or being CurseForge exclusives.
 
 - [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge/files/5567664)
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 
+### Other Credits
 <details>
   <summary>Spoiler</summary>
  
