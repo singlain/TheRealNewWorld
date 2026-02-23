@@ -1,25 +1,25 @@
 ![Main Modpack Header](https://cdn.modrinth.com/data/cached_images/4e40fffe211074d93b73261f76970b8d721cad0b.png)
-> If you want something done right - do it yourself. That's the mindset I've empowered when creating this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends and walking a fine line between being lightly and heavily modded - The Real New World was remade to work with NeoForge and had saved most of the charm from its predecessor, along with some new changes and additions, that being the following:
+> If you want something done right - do it yourself. That's the mindset I've empowered when creating this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - The Real New World was remade to work with NeoForge and had saved most of the charm from its predecessor, along with some new changes and additions, that being the following:
 - **Balance and progression changes**
 - **Difficulty and Combat changes**
-- **Transportation overhauls**
-- **Worldgen overhaul**
-- **Sound and atmosphere overhauls**
+- **Transportation Overhauls**
+- **Worldgen Overhaul**
+- **Sound and Atmosphere Overhauls**
 - **...and more!**
 
 ## Make sure to allocate at least 4GB of RAM to your instance!
-### Users with lower-end hardware can experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to terrain around generating. Since the mods in this modpack are quite heavy in terms of the contents of each chunk and entity - this will make chunk load times pretty slow. I'll be trying to fix it or at least improve upon it.
+> ### Users with lower-end hardware can experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to terrain around generating. Since the mods in this modpack are quite heavy in terms of the contents of each chunk and entity - this will make chunk load times pretty slow. I'll be trying to fix it or at least improve upon it.
 
 # Balance and Progression Changes
 
 <details>
 <summary>Spoiler</summary>
 
-### One of the primary focuses of this modpack was rebalance and progression; This modpack changes plenty of aspects of the vanilla game that were previously either too OP or too niche to be used by most players to serve purpose in the game's world.
+> ### One of the primary focuses of this modpack was rebalance and progression; This modpack changes plenty of aspects of the vanilla game that were previously either too OP or too niche to be used by most players to serve purpose in the game's world.
 ## Villager Trade Rebalance
-The [Villager Trade Rebalance](https://minecraft.wiki/w/Villager_Trade_Rebalance) experiment available in the world creation settings is now enabled by default. Among other balancing changes, you'll have to get over not being able to get 1-emerald deals or the best enchantment in the game available within the first 5 minutes of gameplay. From now on, get ready for those joys to be another milestone to achieve.
+> The [Villager Trade Rebalance](https://minecraft.wiki/w/Villager_Trade_Rebalance) experiment available in the world creation settings is now enabled by default. Among other balancing changes, you'll have to get over not being able to get 1-emerald deals or the best enchantment in the game available within the first 5 minutes of gameplay. From now on, get ready for those joys to be another milestone to achieve.
 ## End Remastered
-Thanks to [End Remastered](https://modrinth.com/mod/endrem), even if you are able to locate the stronghold with an ender portal, you may no longer use the regular Eyes of Ender. Instead you'll have to explore the world's structures, finding the special eyes added by this mod to then use them in the End Portal instead. Cherry on top - you can't use an eye of one kind twice in the same End Portal! Travel the world and appreciate it's beauty - good luck!
+> Thanks to [End Remastered](https://modrinth.com/mod/endrem), even if you are able to locate the stronghold with an ender portal, you may no longer use the regular Eyes of Ender. Instead you'll have to explore the world's structures, finding the special eyes added by this mod to then use them in the End Portal instead. Cherry on top - you can't use an eye of one kind twice in the same End Portal! Travel the world and appreciate it's beauty - good luck!
 
 </details>
 
@@ -29,11 +29,11 @@ Thanks to [End Remastered](https://modrinth.com/mod/endrem), even if you are abl
 <summary>Spoiler</summary>
 
 ## Dungeon Difficulty
-[Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
+> [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
 ## Combat Overhaul
-Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) mod, along with a fitting weapons from [Basic Weapons](https://modrinth.com/mod/basicweapons), fleshed out with the fine-tuned [Combat Nouveau](https://modrinth.com/mod/combat-nouveau) and further tweaked by yours truly, you get an amazing balance of fun and challenge, while maintaining the simplicity of the combat from Vanilla! Also, thanks to [Amendments](https://modrinth.com/mod/amendments), you can now throw Fireballs and Dragon Fireball (which are now craftable!)
+> Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) mod, along with a fitting weapons from [Basic Weapons](https://modrinth.com/mod/basicweapons), fleshed out with the fine-tuned [Combat Nouveau](https://modrinth.com/mod/combat-nouveau) and further tweaked by yours truly, you get an amazing balance of fun and challenge, while maintaining the simplicity of the combat from Vanilla! Also, thanks to [Amendments](https://modrinth.com/mod/amendments), you can now throw Fireballs and Dragon Fireball (which are now craftable!)
 ## Tiny Skeletons
-[Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds a simple new mob - if there are baby zombies, why not baby skeletons?
+> [Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds a simple new mob - if there are baby zombies, why not baby skeletons?
 
 </details>
 
@@ -42,13 +42,13 @@ Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) 
 <details>
 <summary>Spoiler</summary>
 
-### Some ways of transportation, railways, for example, haven't been updated to fit the modern Minecraft, making them obsolete over other methods of transportation like overpowered ice boats, which can practically match elytras in terms of speed. Let me propose the solution...
+> ### Some ways of transportation, railways, for example, haven't been updated to fit the modern Minecraft, making them obsolete over other methods of transportation like overpowered ice boats, which can practically match elytras in terms of speed. Let me propose the solution...
 ## Ice Boat Nerf
-No more!
+> No more!
 ## Darceno's Minecarts
-While Create's Trains are a thing, they require a lot of effort and resources to build than the regular railway, so thanks to [Darceno's Minecarts](https://modrinth.com/datapack/darcenos-minecarts), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
+> While Create's Trains are a thing, they require a lot of effort and resources to build than the regular railway, so thanks to [Darceno's Minecarts](https://modrinth.com/datapack/darcenos-minecarts), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
 ## Horseman and the others
-[Horseman](https://modrinth.com/mod/horseman), along with [Kaffee's Dual Ride](https://modrinth.com/mod/kaffees_dual_ride) and [AstikorCarts](https://modrinth.com/mod/astikorcarts-redux) eliminates most of the annoyances of owning a horse in Minecraft, so from now on:
+> [Horseman](https://modrinth.com/mod/horseman), along with [Kaffee's Dual Ride](https://modrinth.com/mod/kaffees_dual_ride) and [AstikorCarts](https://modrinth.com/mod/astikorcarts-redux) eliminates most of the annoyances of owning a horse in Minecraft, so from now on:
 - Horses can swim
 - Horses can fit two people
 - Horses can fit in boats
@@ -65,7 +65,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <summary>Spoiler</summary>
 
 
-### A simple, yet delightful combo of [Tectonic](https://modrinth.com/datapack/tectonic) and [Geophilic](https://modrinth.com/datapack/geophilic), further tweaked to feature the most pleasant and vast terrain imaginable make your time around here much more enjoyable.
+> ### A simple, yet delightful combo of [Tectonic](https://modrinth.com/datapack/tectonic) and [Geophilic](https://modrinth.com/datapack/geophilic), further tweaked to feature the most pleasant and vast terrain imaginable make your time around here much more enjoyable.
 
 </details>
 
@@ -73,8 +73,8 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 
 <details>
 <summary>Spoiler</summary>
-
-### These two points were very precisely tweaked, to gather the best combination of mods that will transform Minecraft into something truly beautiful. There are too many to list, but among the main ones there are:
+> 
+> ### These two points were very precisely tweaked, to gather the best combination of mods that will transform Minecraft into something truly beautiful. There are too many to list, but among the main ones there are:
 
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundingsfabric)
@@ -89,7 +89,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <summary>Spoiler</summary>
 
 
-### I think that no modpack today can live without these two, so on top of these two there are also some sweet additions:
+> ### No modpack today can live without these two, so on top of these two there are also some sweet additions:
 
 - [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
 - [Create Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
@@ -102,9 +102,9 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <details>
 <summary>Spoiler</summary>
 
-### Thanks to [Amendments](https://modrinth.com/mod/6iTJugQR) and [Another Furniture](https://modrinth.com/mod/ulloLmqG) you'll have more functionality to the vanilla blocks and just a tiny amount of new decoration options to still keep you grounded and creative with your builds.
-### [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) and [Easy Magic](https://modrinth.com/mod/9hx3AbJM) make Enchanting and Repairing your tools much less of a struggle.
-## && More! There are still plenty of subtle changes that aren't listed here, so why not go and see for yourself? =)
+> ### Thanks to [Amendments](https://modrinth.com/mod/6iTJugQR) and [Another Furniture](https://modrinth.com/mod/ulloLmqG) you'll have more functionality to the vanilla blocks and just a tiny amount of new decoration options to still keep you grounded and creative with your builds.
+> ### [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) and [Easy Magic](https://modrinth.com/mod/9hx3AbJM) make Enchanting and Repairing your tools much less of a struggle.
+> ## && More! There are still plenty of subtle changes that aren't listed here, so why not go and see for yourself? =)
 
 </details>
 
@@ -114,7 +114,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <details>
 <summary>Spoiler</summary>
 
-The following mods were bundled as .jar(s) in the overrides due to them being unavailable on Modrinth/GitHub or being CurseForge exclusives.
+> The following mods were bundled as .jar(s) in the overrides due to them being unavailable on Modrinth/GitHub or being CurseForge exclusives.
 
 - [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge/files/5567664)
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
