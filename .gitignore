@@ -6,6 +6,3 @@
 
 # Exclude changelog.txt
 *changelog.txt
-
-# Exclude credits.txt
-*credits.txt

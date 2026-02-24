@@ -1,8 +1,6 @@
 {
   "attributes": {
-    "range_bonus": -2.5,
-	"pose": "bettercombat:pose_two_handed_heavy",
-	"two_handed": true,
+    "range_bonus": -2,
     "category": "mace",
     "attacks": [
       {
@@ -32,7 +30,7 @@
         "upswing": 0.5,
         "animation": "bettercombat:one_handed_slam",
         "swing_sound": {
-          "id": "bettercombat:mace_slam"
+          "id": "bettercombat:mace_slash"
         }
       }
     ]

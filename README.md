@@ -1,5 +1,5 @@
-![Main Modpack Header](https://cdn.modrinth.com/data/cached_images/4e40fffe211074d93b73261f76970b8d721cad0b.png)
-> _If you want something done right - do it yourself_. The driving force behind this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - **The Real New World** was remade from ground up for **NeoForge** and had saved most of the charm from its predecessor, along with some changes and additions - those being:
+![Main Modpack Header Image](https://cdn.modrinth.com/data/cached_images/c8353c600300f08858a1a258aad17a2f2aeddb7b.png)
+> _If you want something done right - do it yourself._ The driving force behind this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - **The Real New World** was remade from ground up for **NeoForge** and had saved most of the charm from its predecessor, along with some changes and additions - those being:
 - **Balance and Progression Changes**
 - **Sound and Atmosphere Overhauls**
 - **Difficulty and Combat Overhauls**
@@ -20,6 +20,8 @@
 > One of the primary focuses of this modpack was rebalance and progression; this modpack changes plenty of aspects of the vanilla game that were previously too overpowered so that players can consider also enjoying other aspects of the game.
 ## Villager Trade Rebalance
 The [Villager Trade Rebalance](https://minecraft.wiki/w/Villager_Trade_Rebalance) experiment available in the world creation settings is now enabled by default. Among other balancing changes, you'll have to get over not being able to get 1-emerald deals or the best enchantment in the game available within the first 5 minutes of gameplay. From now on, get ready for those joys to be another milestone to achieve.
+## 80% Abandoned Villages
+Adding insult to injury - finding a village that wasn't massacred by a wave of zombies or a raid will now be a challenge; Now, either breed new types of villagers to get the desired Mending book, or reside to a good old adventure throughout the wonderful new world!
 ## End Remastered
 Thanks to [End Remastered](https://modrinth.com/mod/endrem), even if you are able to locate the stronghold with an ender portal, you may no longer use the regular Eyes of Ender. Instead you'll have to explore the world's structures, finding the special eyes added by this mod to then use them in the End Portal instead. Cherry on top - you can't use an eye of one kind twice in the same End Portal! Travel the world and appreciate it's beauty - good luck!
 
@@ -33,7 +35,7 @@ Thanks to [End Remastered](https://modrinth.com/mod/endrem), even if you are abl
 ## Dungeon Difficulty
 [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
 ## Combat Overhaul
-Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) mod, along with a fitting weapons from [Basic Weapons](https://modrinth.com/mod/basicweapons), fleshed out with the fine-tuned [Combat Nouveau](https://modrinth.com/mod/combat-nouveau) and further tweaked by yours truly, you get an amazing balance of fun and challenge, while maintaining the simplicity of the combat from Vanilla! Also, thanks to [Amendments](https://modrinth.com/mod/amendments), you can now throw Fireballs and Dragon Fireball (which are now craftable!)
+Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) mod, along with a fitting weapons from [Basic Weapons](https://modrinth.com/mod/basicweapons), fleshed out with the fine-tuned [Combat Nouveau](https://modrinth.com/mod/combat-nouveau) and further tweaking by yours truly, you get an amazing balance of fun and challenge, while maintaining the simplicity of the combat from Vanilla! Also, thanks to [Amendments](https://modrinth.com/mod/amendments), you can now throw Fireballs and Dragon Fireball (which are now craftable!).
 ## Tiny Skeletons
 [Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds a simple new mob - if there are baby zombies, why not baby skeletons?
 
@@ -44,7 +46,7 @@ Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) 
 <details>
 <summary>Spoiler</summary>
 
-> Some ways of transportation, railways, for example, haven't been updated to fit the modern Minecraft, making them obsolete over other methods of transportation like overpowered ice boats, which can practically match elytras in terms of speed. Let me propose the solution...
+> Some ways of transportation, railways, for example, haven't been updated to fit the modern Minecraft, making them obsolete over other methods of transportation like ice boats or elytras, so let me propose a solution...
 ## Ice Boat Nerf
 No more boats traveling at 50 blocks per second! Nugh-ugh!
 ## Darceno's Minecarts
@@ -126,8 +128,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <details>
   <summary>Spoiler</summary>
  
-  ### Mods 
-
+ ### Mods 
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) by Yanny
@@ -141,6 +142,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
 - [Basic Weapons](https://modrinth.com/mod/sc2Pektv) by Khazoda
 - [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) by way2muchnoise
+- [Better Babies](https://modrinth.com/datapack/better-babies) by GenMode
 - [Better Biome ReBlend](https://modrinth.com/mod/Xh8hkQmD) by FionaTheMortal, UTMG
 - [Better Combat](https://modrinth.com/mod/5sy6g3kz) by Daedelus
 - [Better Mods Button](https://modrinth.com/mod/KUZAAwdD) by Fuzs
@@ -154,6 +156,8 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [CameraOverhaul](https://modrinth.com/mod/m0oRwcZx) by Mirsario
 - [Capes](https://modrinth.com/mod/89Wsn8GD) by Cael
 - [Catalogue](https://mrcrayfish.com/mods?id=catalogue) by MrCrayfish
+- [Chalk mod](https://modrinth.com/mod/chalk-mod) by mortuusars
+- [Chat Heads](https://modrinth.com/mod/chat-heads) by dzwdz
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) by Ezzenix
 - [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
@@ -164,10 +168,10 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [Connector Extras](https://modrinth.com/mod/FYpiwiBR) by Su5eD
 - [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
 - [Cool Rain](https://modrinth.com/mod/IgftU6Mn) by Leclowndu93150
-- [Create](https://modrinth.com/mod/LNytGWDc) by simibubi
 - [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) by possible\_triangle
 - [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv) by lev
 - [Create: Steam 'n' Rails 1\.21\.1](https://modrinth.com/mod/L3Jv0QZI) by PoppyBlossom, Chameleon538
+- [Create](https://modrinth.com/mod/LNytGWDc) by simibubi
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 - [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) by Kir\_Antipov
 - [Darceno's Minecarts](https://modrinth.com/mod/RZw0JtqY) by darceno
@@ -179,11 +183,11 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [Dungeon Difficulty](https://modrinth.com/mod/ENZmbSFZ) by Daedelus
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665 & LostLuma
 - [Dynamic Surroundings](https://modrinth.com/mod/H7fshfpD) by OreCruncher
+- [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
+- [EMI](https://modrinth.com/mod/emi) by Emi
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
 - [Eating Animation](https://www.curseforge.com/projects/570544) by Matyrobbrt
-- [EMI](https://modrinth.com/mod/emi) by Emi
-- [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -212,15 +216,18 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Immersive Thunder](https://modrinth.com/mod/uKjKoMsj) by netcatgirl
 - [Immersive Winds](https://modrinth.com/mod/smYLXoRt) by Vibzz
-- [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
+- [Immersive optimization](https://modrinth.com/mod/immersive-optimization) by Luke100000
 - [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) by Leon
+- [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
 - [Item Borders](https://modrinth.com/mod/b1fMg6sH) by Grend
+- [Just Enough Items (JEI)](https://modrinth.com/mod/jei) by mezz
 - [Kaffee's Dual Ride](https://modrinth.com/mod/dv1QW2PN) by Kaffee
 - [Kiwi Library](https://modrinth.com/mod/ufdDoWPd) by Snownee
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) by thedarkcolour
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
 - [LanguageReload](https://modrinth.com/mod/4zpN0syd) by HiedaCamellia
 - [Leave My Bars Alone](https://modrinth.com/mod/gK9mebQg) by Fuzs
+- [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) by Grend
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) by 2No2Name, JellySquid
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) by Apollo
 - [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 \(mineblock11\)
@@ -248,6 +255,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) by TonimatasDEV
 - [Paginated Advancements](https://modrinth.com/mod/pJogNFap) by DaFuqs
+- [Particle Core](https://modrinth.com/mod/particle-core) by fzzyhmstrs
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Paxi](https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
 - [Placebo](https://www.curseforge.com/projects/283644) by Shadows\_of\_Fire
@@ -270,9 +278,10 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [Smooth Swapping](https://modrinth.com/mod/ydZic5r4) by Schauweg
 - [Snow Under Trees](https://modrinth.com/mod/Q3vyMuj2) by bl4ckscor3
 - [Snow\! Real Magic\!](https://modrinth.com/mod/iJNje1E8) by Snownee
-- [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\), IMS212
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
+- [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\), IMS212
 - [Stylish Effects](https://modrinth.com/mod/onDuQF5e) by Fuzs
+- [Subtle Effects](https://modrinth.com/mod/subtle-effects) by MinecraftEinstein
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) by TheCSDev
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) by Apollo
 - [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) by Trivaxy
@@ -285,13 +294,12 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) by YUNGNICKYOUNG
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) by YUNGNICKYOUNG, Acarii
-- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) by YUNGNICKYOUNG, Tera
 - [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) by YUNGNICKYOUNG, Acarii
+- [YUNG's Menu Tweaks](https://modrinth.com/mod/yungs-menu-tweaks) by YUNGNICKYOUNG, Drullkus
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
 ### Resource Packs
 - [Vanilla Tweaks](https://vanillatweaks.net/) by Vanilla Tweaks Team
-- [Classic Dirt Menu Background](https://modrinth.com/resourcepack/dirt-menu-background) by Hexagonl
 - [3D Sugar Cane](https://modrinth.com/resourcepack/3d-sugar-cane) by heycronus
 ### Data Packs
 - [80% Abandoned Villages](modrinth.com/datapack/abandoned-villages) by lunaStellarii

@@ -46,7 +46,7 @@ hash = "ff91cbe1cdd398a63f545e0509f1fd392fde747a266980894152317280ea5f65"
 
 [[files]]
 file = "config/betterstrongholds-neoforge-1_21.toml"
-hash = "3f2ae4edfb2c45137f14dc6a1a4f02958735b9831c0762d19d9e57fe4ff72346"
+hash = "621485790930986e926351f5bbc8a2ae9e1c3da2e8606d7f079a4c8b865abfb5"
 
 [[files]]
 file = "config/betterthirdperson-common.toml"
@@ -106,7 +106,7 @@ hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "1f5e9b29a483a4160ed94536f54947cd0f3d00106a0ddf324cc1b1be9c7f4e3d"
+hash = "80054b29f18c01ab962d2cec0fe95d30f9aa21135e48d6600f2aaccbee388d14"
 
 [[files]]
 file = "config/dungeon_difficulty/client_settings.json"
@@ -122,7 +122,7 @@ hash = "609c46c673a952a323943482e0385f0d263d250fd6340ab57645bc093c49bf49"
 
 [[files]]
 file = "config/emi.css"
-hash = "dcab37188dd2994a56dc10573daf9ecdf48abafe0995cae0beef7887875de796"
+hash = "9f6f7adae93857710f6a5baa1afbf96a8a2f6b735a39b16c6c838cad3784e972"
 
 [[files]]
 file = "config/enhanced_attack_indicator-client.toml"
@@ -178,7 +178,11 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6cfd4db8922789d5062b29402c776506fa80c9835be7ca4ee740bf82eb694a42"
+hash = "17d847d4f41825cffae4832111e07e07a3a6d2f89b1037aa15e0f8ab8ef7ed32"
+
+[[files]]
+file = "config/itemborders.toml"
+hash = "3acc493b83483962eeababcc11f4768f2fab82c4e67785457cd9a3ff8ac778dd"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -258,7 +262,7 @@ hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_hammer.json"
-hash = "216c7a9db47a211ffe0dc9d644612602f04530506af96d4399f485d5258d8572"
+hash = "d65b6e7612789646c8d4f8b4dc80be8c5937cca440d35ffb5be64e15d8c9c49d"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_quarterstaff.json"
@@ -306,11 +310,11 @@ hash = "aa3bec002e43dc08e745a00ee4c8b4831b8543584b49cfe280274fcc5a389d16"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/hammer.json"
-hash = "24608bbd7bcd1abb32edf6f2b906d0431a61b8ebbe3733de83bf84957231cb5e"
+hash = "d65b6e7612789646c8d4f8b4dc80be8c5937cca440d35ffb5be64e15d8c9c49d"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/mace.json"
-hash = "3c5d53d9f4a2c60c3b171b6bf18ef876f7f73332e870bce9983f9a55e8cef951"
+hash = "ba720ace2648dfa7be59a6e0e737fedcd7d51521fb7fa0aeaab2871a838e1cf7"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/spear.json"
@@ -327,6 +331,10 @@ hash = "ddcea2d332183baa805fabc2292a5d26617af7b4b1673291b07f0e7901a503e4"
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/vanilla_mace.json"
 hash = "e2ff160021aad5c5847cfb71ad095234bf796870f76fdb9d9ce829a7eedf2a89"
+
+[[files]]
+file = "config/paxi/datapacks/attack_range_nerf/data/farmersdelight/weapon_attributes/skillet.json"
+hash = "53c30a899ee2a902f701135b3ea479f361d9d374b8165b4f81a81ea3f1ecd5af"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/pack.mcmeta"
@@ -641,6 +649,26 @@ file = "config/stylisheffects-client.toml"
 hash = "354a5476968392847517de6e8dadc4563ded5c92be2b722be48fc2f0e261f77f"
 
 [[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "709ff20879b789abef3980a42d90f4ea5ec718050415a7c52a700af71eb9c900"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "08f2602b4007c2cf7665ed80808846c93c382dede0cf45db4138342a9372dc91"
+
+[[files]]
+file = "config/subtle_effects/environment.toml"
+hash = "5305e834ee7c6acb19c9c1ec48bd50148e386b6f70e840fcaa1fa4d2d92d7e81"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "cabc3198650182b8d282c08091acbe4f5d3fecab03d2484aefb88f1eb6112d0e"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "2b2868b0a3f1fa544ffe608f132745924b7f421bdfe718e147f17e80a53a46f0"
+
+[[files]]
 file = "config/tectonic.json"
 hash = "f3304dd26b9c31dd4ae528361ccf873d70eecd13800c3eec3ab1e7d9f9b398ad"
 
@@ -674,7 +702,7 @@ hash = "29fbc1ba9d55eae756ef5f3ed4ab2a0250e00085e4a249abe9dede3b080a22f2"
 
 [[files]]
 file = "credits.txt"
-hash = "a2473ebe06896bf57b28cab0d302b020727e1d6ef6a929ca71630fcfa0566382"
+hash = "edc6d49c1096aa49215f14f926119f5692580f66c9f772b8e20584d04a19faf0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -757,6 +785,11 @@ hash = "1ff7f38d81521675508fe2d90eeed10e385d4ab8c351a93e7cd257ea73194738"
 metafile = true
 
 [[files]]
+file = "mods/better-babies.pw.toml"
+hash = "771e20ea73cd8d08af522114a3b586098caa02af3577e3355d65b6d6d62e5baf"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "03b1412d89713085d15da886b81a85836fc975432bb93c33c9436ab3fe2f6db7"
 metafile = true
@@ -809,6 +842,16 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "def8b61f6ed9833ae4e838bcf31896b0d00c4a3fc5a7fbb0796fa1f396e3bd34"
+metafile = true
+
+[[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "ed1fd6d0751400346185931da7c77967dca2140373c688462f400afc856c53dc"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "d98afa90af3b243c41017e379fb337ff73e1bb918b1318f0631554dd9d9ae9a0"
 metafile = true
 
 [[files]]
@@ -1057,6 +1100,11 @@ hash = "f6d178afbc9b7cf2e195f72a8ef709c728642c03f2786d60ceeed9e7321e760d"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "241db605202d1b3fca7c1b6ab8aebd34b2fa269aa8967ab96debf8b645130f5d"
 metafile = true
@@ -1102,6 +1150,11 @@ hash = "bbe8904034289bfaa834647be87a4c685e16605d2281a951ceb454e7b9a1a095"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "0603a53e282fe818405c7c1d0d70d1897460d15feb00f004b3f3e4401ea73b41"
+metafile = true
+
+[[files]]
 file = "mods/immersive-winds.pw.toml"
 hash = "8053381400929774954f569baf89dfd0e14c1e21177b830f26fa17eb9870eb01"
 metafile = true
@@ -1124,6 +1177,11 @@ metafile = true
 [[files]]
 file = "mods/item-borders.pw.toml"
 hash = "3a9cb52b3f066db2b98f2374494e3ca6e974caaf60cdbd34dab2b3707c555990"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
@@ -1297,6 +1355,11 @@ hash = "2d051c9c70b497143673dc62d363f7cfd9b9a501e21dfdd0c2b6b84304bade7d"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "e72acc20778592e7db6a721993bdeb17168cd891c0d82bf990536c9807c79266"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "b48de7ecdb7cfea14d6442ff41aefdaf5a08f981e363680b486e0baa5eb50d74"
 metafile = true
@@ -1427,6 +1490,11 @@ hash = "4429fb541a38ec35955872e5e6cf263c865a0a842e346a859307a88b611c5b47"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "0ec92b6efa8aa36754b8d6c6f763be4d720f37d3537568b90bbcf5dfeb9a4988"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "bf6de130c372ada00942d8876947a9ccd138b7d2568f9839042f3caead44852a"
 metafile = true
@@ -1492,18 +1560,18 @@ hash = "190b57c20d10ef111d758a4521fdc41adc1abff659dab92df2aa8d84818b5123"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "1711fae351956d3070712a3600219054d7f9b177dd05432b85deb0199763ae02"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "a334cb5d4a6484d31545a3e4af64a40f704421f28c012602b48db1ef683d3c85"
 metafile = true
 
 [[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "3bd8f0c2edef657d978b1de23a7476e4c4679ef4e95ffb6fb6fd07fc3962776d"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "d4368e51374797df4372a3abfa92840d383b121f16deab255990499cca9e79b1"
+hash = "fe02505b0c4536deb217fa016cc06b61233ac3366f42bd197baf9543aec56aa9"
 
 [[files]]
 file = "resourcepacks/3d-sugar-cane.pw.toml"
@@ -1513,8 +1581,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/VanillaTweaks_r380996_MC1.21.x.zip"
 hash = "30be9acd0309f2b551d6e10f503768890816ece385a870b52998213c7f30b5ca"
-
-[[files]]
-file = "resourcepacks/dirt-menu-background.pw.toml"
-hash = "b5ccba5d4f9abee4009860c5669abfee842440e56ef8c5dc538c14d18b250104"
-metafile = true

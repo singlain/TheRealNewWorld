@@ -13,7 +13,7 @@ bobView:true
 toggleCrouch:false
 toggleSprint:false
 narratorHotkey:false
-resourcePacks:["vanilla","mod_resources","fabric","continuity:glass_pane_culling_fix","continuity:default","midnightcontrols:bedrock","moonlight:merged_pack","tinyskeletons:dynamically_copied_skeleton_textures","file/Dirt Menu Background.zip","file/3D Sugar Cane.zip","file/VanillaTweaks_r380996_MC1.21.x.zip","eatinganimations_compat"]
+resourcePacks:["vanilla","mod_resources","fabric","continuity:glass_pane_culling_fix","continuity:default","midnightcontrols:bedrock","moonlight:merged_pack","tinyskeletons:dynamically_copied_skeleton_textures","file/3D Sugar Cane.zip","file/VanillaTweaks_r380996_MC1.21.x.zip","eatinganimations_compat"]
 incompatibleResourcePacks:[]
 lang:en_us
 tutorialStep:none
