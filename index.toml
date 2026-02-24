@@ -178,7 +178,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "17d847d4f41825cffae4832111e07e07a3a6d2f89b1037aa15e0f8ab8ef7ed32"
+hash = "9acc2458041095dcd36e02e5192dfee05cce1c0800b00df56c943cfcf052b701"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
+hash = "6917553073df67745da1d535cc6107839a76b54081b1b6f368a38c723f5fd8c7"
 metafile = true
 
 [[files]]
