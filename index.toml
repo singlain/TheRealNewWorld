@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -170,7 +166,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "088e1f77f1c01edda57a683b1a3b829c169d6ae1f32fc2777f89280d54e25ca7"
+hash = "b422595c0eb21297317ed8a7291d6019ad4d5af27791fc1ce07e99128f575438"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -970,11 +966,6 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "5887076f92f94c34f17339f205320dd71ac56fd1332d7cea4b347b3bd85eaffc"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "e04162e1f6c08399c70b6de6a6d57f80878fb41941ca88aebd7e7161e34a7ac8"
 metafile = true
 
 [[files]]
