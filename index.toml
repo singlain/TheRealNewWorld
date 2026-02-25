@@ -5,6 +5,10 @@ file = "DistantHorizons.toml"
 hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
