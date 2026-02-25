@@ -137,44 +137,47 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [Another Furniture](https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
-- [Armour Sound Tweak Updated](https://modrinth.com/mod/zN5Zb52E) by mr_chumbucket
-- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation\# The description of the mod\.
+- [Armour Sound Tweak Updated](https://modrinth.com/mod/zN5Zb52E) by mr\_chumbucket
+- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation\# The description of the mod\. This is a simple multiline text string that is used for display purposes in the mod list\.
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
+- [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
 - [Basic Weapons](https://modrinth.com/mod/sc2Pektv) by Khazoda
 - [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) by way2muchnoise
-- [Better Babies](https://modrinth.com/datapack/better-babies) by GenMode
+- [Better Babies](https://modrinth.com/mod/W9qgAZfz) by GenMode
 - [Better Biome ReBlend](https://modrinth.com/mod/Xh8hkQmD) by FionaTheMortal, UTMG
 - [Better Combat](https://modrinth.com/mod/5sy6g3kz) by Daedelus
 - [Better Mods Button](https://modrinth.com/mod/KUZAAwdD) by Fuzs
 - [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) by TheCSDev
-- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) by Socolio
-- [BetterF3](https://modrinth.com/mod/8shC1gFX) by TreyRuffy and cominixo
+- [Better World Loading](https://modrinth.com/mod/bmOyRapU) by H1ggsK
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) by Darkhax
 - [Bridging Mod](https://modrinth.com/mod/lO3s8hjs) by CG360
 - [CIT Resewn](https://modrinth.com/mod/otVJckYQ) by SHsuperCM
 - [CITResewnNeoPatcher](https://modrinth.com/mod/yYE9h4iu)
 - [CameraOverhaul](https://modrinth.com/mod/m0oRwcZx) by Mirsario
 - [Capes](https://modrinth.com/mod/89Wsn8GD) by Cael
-- [Catalogue](https://mrcrayfish.com/mods?id=catalogue) by MrCrayfish
-- [Chalk mod](https://modrinth.com/mod/chalk-mod) by mortuusars
-- [Chat Heads](https://modrinth.com/mod/chat-heads) by dzwdz
+- [Catalogue](https://www.curseforge.com/projects/459701) by MrCrayfish
+- [Chalk](https://modrinth.com/mod/YWGP4Y1d) by mortuusars
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) by Ezzenix
 - [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Collective](https://modrinth.com/mod/e0M1UDsY) by Rick South
 - [Combat Nouveau](https://modrinth.com/mod/Iv3kcKZn) by Fuzs
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR) by RelativityMC, ishland
-- [Configured](https://mrcrayfish.com/mods?id=configured) by MrCrayfish
+- [Configured](https://www.curseforge.com/projects/457570) by MrCrayfish
 - [Connector Extras](https://modrinth.com/mod/FYpiwiBR) by Su5eD
 - [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
+- [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
 - [Cool Rain](https://modrinth.com/mod/IgftU6Mn) by Leclowndu93150
+- [Create](https://modrinth.com/mod/LNytGWDc) by simibubi
 - [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) by possible\_triangle
 - [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv) by lev
+- [Create: EMI Schematics](https://modrinth.com/mod/5bgqgixq) by LiukRast, swzo
 - [Create: Steam 'n' Rails 1\.21\.1](https://modrinth.com/mod/L3Jv0QZI) by PoppyBlossom, Chameleon538
-- [Create](https://modrinth.com/mod/LNytGWDc) by simibubi
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 - [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) by Kir\_Antipov
 - [Darceno's Minecarts](https://modrinth.com/mod/RZw0JtqY) by darceno
+- [Data API](https://modrinth.com/mod/ZS3lIxKu) by GenMode
 - [Death Finder](https://modrinth.com/mod/wNxIBREV) by Fuzs
 - [Delete Worlds To Trash](https://modrinth.com/mod/7diJQfvM) by Fuzs
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
@@ -182,32 +185,33 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [Drip Sounds](https://modrinth.com/mod/T8MMXTpr) by PieKing1215
 - [Dungeon Difficulty](https://modrinth.com/mod/ENZmbSFZ) by Daedelus
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665 & LostLuma
-- [Dynamic Surroundings](https://modrinth.com/mod/H7fshfpD) by OreCruncher
+- [EMI](https://modrinth.com/mod/fRiHVvU7) by Emi
 - [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
-- [EMI](https://modrinth.com/mod/emi) by Emi
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
-- [Eating Animation](https://www.curseforge.com/projects/570544) by Matyrobbrt
+- [Eating Animation](https://modrinth.com/mod/X8CISwXp) by Matyrobbrt
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
+- [Enhanced Boss Bars](https://modrinth.com/mod/J5bVsBt9)
 - [EnhancedVisuals](https://modrinth.com/mod/KjL0jE2w) by CreativeMD, AriaFreeze
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
+- [Euphonium](https://modrinth.com/mod/XH8cnjHW) by svenhjol, Sisby folk
 - [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) by Kneelawk, abbie, KirboEatsFood
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
-- [Fallingleaves](https://modrinth.com/mod/2JAUNCL4) by Cheaterpaul, Fourmisain, BrekiTomasson and RandomMcSomethin
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) by vectorwing
-- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) by Shadows\_of\_Fire
+- [Fast Workbench](https://www.curseforge.com/projects/288885) by Shadows\_of\_Fire
 - [Fastquit](https://modrinth.com/mod/itFaO2Tg) by KingContaria, Kaleb Langley
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [Forgematica](https://modrinth.com/mod/dCKRaeBC) by TexTrue, CagayakeGirls
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) by Sinytra, FabricMC
-- [Framework](https://mrcrayfish.com/mods?id=framework) by MrCrayfish
+- [Framework](https://www.curseforge.com/projects/549225) by MrCrayfish
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
 - [Geophilic](https://modrinth.com/mod/hl5OLM95) by bebebea\_loste
 - [Golden Apple Recipe Back](https://modrinth.com/mod/FJjunGFx) by Arthur Orsi
-- [GroovyModLoader](https://www.curseforge.com/projects/661517) by Luke Bemish, Matyrobbrt, and Paint\_Ninja
+- [GroovyModLoader](https://modrinth.com/mod/zg2tT2Vu) by Luke Bemish, Matyrobbrt, and Paint\_Ninja
 - [Hide Experimental Warning](https://modrinth.com/mod/Rm4OOdHd) by Rick South
 - [Highlight](https://modrinth.com/mod/Vz96hXMh) by ThatGravyBoat
 - [Horseman](https://modrinth.com/mod/qIv5FhAA) by mortuusars
@@ -216,24 +220,22 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Immersive Thunder](https://modrinth.com/mod/uKjKoMsj) by netcatgirl
 - [Immersive Winds](https://modrinth.com/mod/smYLXoRt) by Vibzz
-- [Immersive optimization](https://modrinth.com/mod/immersive-optimization) by Luke100000
-- [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) by Leon
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
+- [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) by Leon
 - [Item Borders](https://modrinth.com/mod/b1fMg6sH) by Grend
-- [Just Enough Items (JEI)](https://modrinth.com/mod/jei) by mezz
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
 - [Kaffee's Dual Ride](https://modrinth.com/mod/dv1QW2PN) by Kaffee
 - [Kiwi Library](https://modrinth.com/mod/ufdDoWPd) by Snownee
-- [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) by thedarkcolour
+- [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
 - [LanguageReload](https://modrinth.com/mod/4zpN0syd) by HiedaCamellia
 - [Leave My Bars Alone](https://modrinth.com/mod/gK9mebQg) by Fuzs
-- [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) by Grend
+- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) by Fuzs
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) by 2No2Name, JellySquid
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) by Apollo
 - [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 \(mineblock11\)
 - [MaFgLib](https://modrinth.com/mod/SKI34J7B) by TexTrue, CagayakeGirls
 - [Main Menu Credits](https://modrinth.com/mod/qJDfP7WN) by isXander
-- [MidnightControls](https://modrinth.com/mod/bXX9h73M) by Motschen, LambdAurora
 - [MidnightLib](https://modrinth.com/mod/codAaoxh) by TeamMidnightDust, Motschen
 - [Minecart Backport](https://modrinth.com/mod/v5VvyByz) by N0t\_UN\_Owen/NotUnaNancyOwen
 - [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable
@@ -242,12 +244,12 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) by MehVahdJukaar
 - [More Chat History](https://modrinth.com/mod/8qkXwOnk) by JackFred
 - [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS, 1Foxy2
+- [More Sounds](https://modrinth.com/mod/8jvcOd6S) by DVOA
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh \(YaLTeR\)
-- [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u) by Siphalor
+- [Netherite Horse Armor](https://modrinth.com/mod/nDFVOeq7) by JerryLu086
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Chat Restrictions](https://modrinth.com/mod/z440MEwJ) by Aizistral
 - [Noisium](https://modrinth.com/mod/hasdd01q) by Steveplays28
-- [Nostalgic Tweaks](https://modrinth.com/mod/l1rj36Ob) by Adrenix
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by Fudge
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
 - [ObsidianUI](https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
@@ -255,7 +257,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) by TonimatasDEV
 - [Paginated Advancements](https://modrinth.com/mod/pJogNFap) by DaFuqs
-- [Particle Core](https://modrinth.com/mod/particle-core) by fzzyhmstrs
+- [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Paxi](https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
 - [Placebo](https://www.curseforge.com/projects/283644) by Shadows\_of\_Fire
@@ -267,21 +269,24 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [Prism](https://modrinth.com/mod/1OE8wbN0) by Grend
 - [Puzzle](https://modrinth.com/mod/3IuO68q1) by PuzzleMC, Motschen
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
-- [Recipe Fixer](https://modrinth.com/mod/Nmc13D4j) by by Mysticpasta1, TonimatasDEV
+- [Recipe Fixer](https://modrinth.com/mod/Nmc13D4j) by Mysticpasta1, TonimatasDEV
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
 - [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) by comp500
-- [Scrollable Tooltips](https://modrinth.com/mod/3Wt70twF) by SuperScary
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
+- [Shoulder Surfing Reloaded](https://modrinth.com/mod/kepjj2sy) by Exopandora
 - [ShulkerBoxTooltip](https://modrinth.com/mod/2M01OLQq) by MisterPeModder
 - [ShutUpDeadEntities](https://modrinth.com/mod/9FJiZMp8) by diskree
 - [Sinytra Connector](https://modrinth.com/mod/u58R1TMW)
 - [Smooth Swapping](https://modrinth.com/mod/ydZic5r4) by Schauweg
 - [Snow Under Trees](https://modrinth.com/mod/Q3vyMuj2) by bl4ckscor3
 - [Snow\! Real Magic\!](https://modrinth.com/mod/iJNje1E8) by Snownee
-- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
 - [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\), IMS212
+- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
+- [Sound Physics Perfected](https://modrinth.com/mod/KS6Hbu9Z) by RedLife
+- [Sounds](https://modrinth.com/mod/ZouiUX7t) by IMB11, cassiancc
 - [Stylish Effects](https://modrinth.com/mod/onDuQF5e) by Fuzs
-- [Subtle Effects](https://modrinth.com/mod/subtle-effects) by MinecraftEinstein
+- [Subtle Effects](https://modrinth.com/mod/4q8UOK1d) by MincraftEinstein
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) by TheCSDev
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) by Apollo
 - [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) by Trivaxy
@@ -295,12 +300,14 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) by YUNGNICKYOUNG
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) by YUNGNICKYOUNG, Acarii
-- [YUNG's Menu Tweaks](https://modrinth.com/mod/yungs-menu-tweaks) by YUNGNICKYOUNG, Drullkus
+- [YUNG's Menu Tweaks](https://modrinth.com/mod/Hcy2DFKF) by YUNGNICKYOUNG
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
 ### Resource Packs
 - [Vanilla Tweaks](https://vanillatweaks.net/) by Vanilla Tweaks Team
-- [3D Sugar Cane](https://modrinth.com/resourcepack/3d-sugar-cane) by heycronus
+- [C418 Songs Only](https://modrinth.com/resourcepack/c418-songs-only) by redsquare
+- [Classic Menu Panorama](https://modrinth.com/resourcepack/classic-menu-panorama) by UsernameGeri
+- [Extended illumina(3D lantern and torch)](https://modrinth.com/mod/qznifDTe) by Ilyastik
 ### Data Packs
 - [80% Abandoned Villages](modrinth.com/datapack/abandoned-villages) by lunaStellarii
 

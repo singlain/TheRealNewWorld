@@ -26,7 +26,7 @@ hash = "270774d07e1741b38eb9a4a323677e03dd34e8dc6010563358e40cdd89b74525"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "92b73cb20c2fe04e4c0c98b7bf582ea1ea0d4f330194c7dc53a4f633c7c0163a"
+hash = "8e34f98809a79162dd5520d87f0faa429239cff2f483dfac1bfc9c39b5f175a3"
 
 [[files]]
 file = "config/bettercombat/server.json5"
@@ -50,7 +50,7 @@ hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
 
 [[files]]
 file = "config/betterworldloadingnf21.json"
-hash = "aac18d7595f9ac106181d8812b264320cbb06d203a2cc66c763cc6e0eb91c077"
+hash = "81c352db6ff4397c87789da71cf88e73aca6e2100b40f52396ec31c2f4aa18f5"
 
 [[files]]
 file = "config/bridgingmod.json"
@@ -105,10 +105,6 @@ file = "config/deathfinder-server.toml"
 hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
 
 [[files]]
-file = "config/dsurround/dsurround.json"
-hash = "4321a8c85a27bd921e83be8cfad5a339f139f431c24b0a950d283ea6b71e126d"
-
-[[files]]
 file = "config/dungeon_difficulty/client_settings.json"
 hash = "5650f37aa50e0f3aa88ddd92d92d00ad2f844709deb7dd175450f87295eb7f44"
 
@@ -135,10 +131,6 @@ hash = "eb1942fc0163d9739a08f5ee12ba72ef1202356e27edc8d24e4af594bf800aa1"
 [[files]]
 file = "config/enhancedvisuals.json"
 hash = "abbcce607a811b1a6ef0b46b84efd8087c1f12737a8306677d0fe024ac3e74ba"
-
-[[files]]
-file = "config/fallingleaves-client.toml"
-hash = "b20c000ef0a93cef78b6c2bc2d1a22eaa3181f6c3c0c2b880fff3f766f7d5a3f"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -170,7 +162,7 @@ hash = "3d77f2214ca9a1cfc6da962ed675bbe5a155f1851e90133f2951ef35d790f05f"
 
 [[files]]
 file = "config/immersivewind.json"
-hash = "883ec0cb4c90150fb439faec7346a7721a1f387f94f046329944d77d559c45f8"
+hash = "c15381e26121e9ded0a58731966921f1a5be30dca100be7a6ff60e9223403d10"
 
 [[files]]
 file = "config/iris.properties"
@@ -178,7 +170,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7860f904f71f9d4a72d6adcdf9479dc769ba1b8c423b3d9990dd325e7c248b34"
+hash = "088e1f77f1c01edda57a683b1a3b829c169d6ae1f32fc2777f89280d54e25ca7"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -266,7 +258,7 @@ hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/stone_spear.json"
-hash = "8dee42e96df22f58c2dc19013afed1422603de8b66a2a915aacf728c28472d6c"
+hash = "9bd427a8f8b698870e007cb34cff0b39eae0b1c23c7879ebdf734ba0f50abee9"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_glaive.json"
@@ -274,7 +266,7 @@ hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_spear.json"
-hash = "8dee42e96df22f58c2dc19013afed1422603de8b66a2a915aacf728c28472d6c"
+hash = "9bd427a8f8b698870e007cb34cff0b39eae0b1c23c7879ebdf734ba0f50abee9"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/axe.json"
@@ -306,7 +298,7 @@ hash = "c04fd310c118257ccea1982f5cc7cbd69334f48a76d1cf8f0d4467547cc52863"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/spear.json"
-hash = "e4d4693e92e01f96ac299381065a0a4ac54498ca187594adfe314907366e1877"
+hash = "c745873dae9eff437c8c6db0b73b64eb0b6e2867d74ba56c9e70016e22e818b0"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/sword.json"
@@ -314,7 +306,7 @@ hash = "6456e8f840d373246a9a6b1bce7b85fcc1107444b39cba290b3ca1e85f92b7ed"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/trident.json"
-hash = "56dd714fc01739cdaf0971b726f4c3add840da7595a758cd70327497c7a599e6"
+hash = "4fa56ae100530e0235f96a7e86d043a930790f1386985880d5254f24267f18bc"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/vanilla_mace.json"
@@ -597,12 +589,24 @@ file = "config/placebo.cfg"
 hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 
 [[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "a227b5f49d56ccbe6ce51dda58416b5eb087758b3d719a0b8f28418e631d6279"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "1a858348b26a3b229558fd7ed3108035deb41875d7c8063ff3af040b59f36ab7"
 
 [[files]]
-file = "config/scrollabletooltips-client.toml"
-hash = "24c9fb1b77fb265130d19096c8c47bb65871354265f62f60ac6cce1127f98135"
+file = "config/shouldersurfing-client.toml"
+hash = "9e0c2b0e51b11d72d00849430529e3e27aca2499ede372daf1cb5954bee18dff"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "41a4d6ea8481049cbedc0b098baef9604c7f864b7cf6a04dd7f44fcc00271848"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -629,12 +633,32 @@ file = "config/sodium-options.json"
 hash = "36cf9cefd797d1cf374dd7b0afeba73a895d7f031b1dfe2945866b442ff0357e"
 
 [[files]]
+file = "config/sounds/chat.json"
+hash = "10291337bd65af1fb240837ec3b1cac7345d6e66a38454baba8166ae807a1052"
+
+[[files]]
+file = "config/sounds/event.json"
+hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
+
+[[files]]
+file = "config/sounds/mod_utils.json"
+hash = "73bbae09724ff8b670c902211f355b73101fbe5e144c6134174ca84e49371818"
+
+[[files]]
+file = "config/sounds/ui.json"
+hash = "d1cd915aa656dc3f0e7282af99affbd8994b155e3ea7922e1a6d29b92cfa6e68"
+
+[[files]]
+file = "config/sounds/world.json"
+hash = "fac62faf5f718be93c64081e1681f00c5a97a4ab712d7784af26b2edb155b5a4"
+
+[[files]]
 file = "config/stylisheffects-client.toml"
 hash = "354a5476968392847517de6e8dadc4563ded5c92be2b722be48fc2f0e261f77f"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
-hash = "709ff20879b789abef3980a42d90f4ea5ec718050415a7c52a700af71eb9c900"
+hash = "c4ba01733500d419a5e03dc64b7d2c76b3b8c8102dd02a89ec84bf8b0357021a"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
@@ -686,7 +710,7 @@ hash = "29fbc1ba9d55eae756ef5f3ed4ab2a0250e00085e4a249abe9dede3b080a22f2"
 
 [[files]]
 file = "credits.txt"
-hash = "edc6d49c1096aa49215f14f926119f5692580f66c9f772b8e20584d04a19faf0"
+hash = "e92fd62561a2c34743972cbbf32d1ccfd812c40ebcd04e6384231a4314020338"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -791,11 +815,6 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "ff4e0b565390cf66ff677796be94798155aa77057d980c1df7b694a79e06e9f9"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "1da22b21bfb7a1f23366c15918e828820d6e49e206a32a67003a41d112e0a086"
 metafile = true
 
 [[files]]
@@ -979,11 +998,6 @@ hash = "017240cfbdd977adfba3c88ba82066187149db1c12d8269ff01b827430f9e29a"
 metafile = true
 
 [[files]]
-file = "mods/dynamicsurroundingsfabric.pw.toml"
-hash = "2bd1355746f527993b6166ae46f6242c0b682f13b85a1064f4e9448f16352309"
-metafile = true
-
-[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "ab5140fce51d25bbefd1f8c23cf23ec5e9451255309b44d3f9c23e5a6d0a8697"
 metafile = true
@@ -1059,6 +1073,11 @@ hash = "3edb62c720019a600d5f94f9a9e9e2776b30b78dd4cd8a64322a2c8abe23ba7e"
 metafile = true
 
 [[files]]
+file = "mods/euphonium.pw.toml"
+hash = "54d39131b07120334ad896779402eb5a372a1bcba5e089a50a17329fe3f29aee"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
@@ -1066,11 +1085,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "532339149179a802623c050d88cf89f13539c3ce5947fccbe8b19df3014a95d0"
-metafile = true
-
-[[files]]
-file = "mods/fallingleavesforge.pw.toml"
-hash = "5782e8cac448d7017f5e86633b91388b670ea4af949ed46def2e7c95c98f76b8"
 metafile = true
 
 [[files]]
@@ -1279,6 +1293,11 @@ hash = "c1c8d378e26eb43d99af5176b93128862595fb7925b4adf091301c61b5e884b2"
 metafile = true
 
 [[files]]
+file = "mods/more-sounds.pw.toml"
+hash = "efd7abc88581a565446c77fb6c44c11b8faed6f9118ff9e4f6d91cdab8446dd4"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "b16fc00556a8bb07ec4f24c18562b3d86b0d79770ba0baa4064a98f7869762d2"
 metafile = true
@@ -1295,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "37450ce33fca3415c2c1ee01877847d91f247b767ee7b6e7759bb102aae0693f"
+hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
 
 [[files]]
@@ -1444,6 +1463,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "0d2e848f2d3f089f203f5e43f51bfd4a3e6fc51726e8cb242c9cb8bc7579c7e1"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "d1e57b769a5376883823d6fe5b571e49207e2f8efc35afbffc2bcb925e82e8c2"
 metafile = true
@@ -1491,6 +1515,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7e257091083a4cda4fcdba0a64b3a870abd97a5f2486c45b68e39b00cac3161c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-perfected.pw.toml"
+hash = "b3e23b77da052732f4d1b784d12e805d098055a189aa333205ebd6955b8dddf1"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
@@ -1545,7 +1579,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8cfeb57fda6a75c3f1869a9e51f44c0033da394a0a5e6ece3b5ffb63d1781ba0"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
@@ -1580,20 +1614,30 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "09e445f15127b492357b5ad65fd6944ec23dde6c854274546deb625c79bec1e2"
+hash = "e7f77c8d94f38b6afebec62e310226df4d0948ebd96cce570c5075e11d466070"
 
 [[files]]
-file = "resourcepacks/3d-sugar-cane.pw.toml"
-hash = "ef67bea1eae2cc1941c6754e0b2289e9148abed4403ed66f47f40b1bfc525b40"
-metafile = true
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_r380996_MC1.21.x.zip"
-hash = "30be9acd0309f2b551d6e10f503768890816ece385a870b52998213c7f30b5ca"
+file = "resourcepacks/VanillaTweaks_r679409_MC1.21.x.zip"
+hash = "49f41f8c4b59df0f5b3b01270a3208cbb3078dea8955da14e5a66004f0dcde5e"
 
 [[files]]
 file = "resourcepacks/c418-songs-only.pw.toml"
 hash = "4718636610275e20c024fc660035f3925e6f0ef7b8f067c6ebc07ab03a007995"
+metafile = true
+
+[[files]]
+file = "resourcepacks/classic-menu-panorama.pw.toml"
+hash = "16e227401f1e81060ab6dd290b15980fa06710c737c271e2977909cac5b48a98"
+metafile = true
+
+[[files]]
+file = "resourcepacks/extended-illumina-(not-enough-animations).pw.toml"
+hash = "ba80d018702ed368c109688329dcc97e449b512f5fa683f28c1e4f4b053ef61c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/extended-illumina.pw.toml"
+hash = "206e6dcc3e26c7f6be63716b545c1d8fa091c7bff04d5f0d66a54b749f712922"
 metafile = true
 
 [[files]]
@@ -1602,4 +1646,4 @@ hash = "e4bb550e3b2712f02698d86b1de099e5d91b33ae1a5efb4e46bfa6ce28c8ef70"
 
 [[files]]
 file = "resourcepacks/trnw_splash_texts/pack.mcmeta"
-hash = "dcf124d681eea1e3f27a20a5d1133be4213c8c6373cfcf6dff7ba9ebe455cd82"
+hash = "d0f6f4ca1d012472ededc530f9e488229970a5fbf6b3c2cf6b7c198cdf4d4fed"

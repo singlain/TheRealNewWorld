@@ -1,9 +1,8 @@
 {
   "parent": "basicweapons:basic_spear",
    "attributes": {
-    "range_bonus": 1,
-    "pose": "bettercombat:pose_two_handed_polearm",
-    "two_handed": true,
+    "range_bonus": 0.6,
+    "pose": "",
     "category": "spear",
     "attacks": [
       {
@@ -11,7 +10,7 @@
         "damage_multiplier": 1,
         "angle": 0,
         "upswing": 0.5,
-        "animation": "bettercombat:two_handed_stab_right",
+        "animation": "bettercombat:one_handed_stab",
         "swing_sound": {
           "id": "bettercombat:sword_slash",
 		  "pitch": 1.2

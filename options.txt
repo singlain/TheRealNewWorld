@@ -13,7 +13,7 @@ bobView:true
 toggleCrouch:false
 toggleSprint:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","mod_resources","tinyskeletons:dynamically_copied_skeleton_textures","eatinganimations_compat","file/trnw_splash_texts","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","file/VanillaTweaks_r380996_MC1.21.x.zip","file/3D Sugar Cane.zip","file/§3§lC418 Songs Only.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","tinyskeletons:dynamically_copied_skeleton_textures","continuity:default","continuity:glass_pane_culling_fix","file/trnw_splash_texts","file/VanillaTweaks_r679409_MC1.21.x.zip","eatinganimations_compat","file/§3§lC418 Songs Only.zip","file/§eExtended_Illumina_1.21x.zip","file/§eExtended_Illumina_NEA_1.21x.zip","file/Classic_Menu_Panorama_[BB].zip"]
 incompatibleResourcePacks:[]
 lang:en_us
 tutorialStep:none
@@ -22,7 +22,6 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 hideBundleTutorial:true
 onboardAccessibility:false
-key_key.swapOffhand:key.keyboard.f
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.astikorcartsredux.action:key.keyboard.c
@@ -74,6 +73,25 @@ key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.v:ALT
 key_key.loadToolbarActivator:key.keyboard.c:ALT
+key_key.shouldersurfing.adjust_camera_left:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_right:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_in:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_out:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_up:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_down:key.keyboard.unknown
+key_key.shouldersurfing.swap_shoulder:key.keyboard.z
+key_key.shouldersurfing.toggle_first_person:key.keyboard.unknown
+key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
+key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
+key_key.shouldersurfing.free_look:key.mouse.middle
+key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
+key_key.shouldersurfing.toggle_x_offset_presets:key.keyboard.unknown
+key_key.shouldersurfing.toggle_y_offset_presets:key.keyboard.unknown
+key_key.shouldersurfing.toggle_z_offset_presets:key.keyboard.unknown
+key_key.shouldersurfing.enter_first_person:key.keyboard.unknown
+key_key.shouldersurfing.enter_third_person_front:key.keyboard.unknown
+key_key.shouldersurfing.enter_third_person_back:key.keyboard.unknown
+key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
 soundCategory_master:0.75
 soundCategory_music:0.0
 soundCategory_record:1

@@ -4,7 +4,7 @@
 	"isSwingThruGrassEnabled": true,
 	"isSwingThruGrassSmart": true,
 	"isAttackInsteadOfMineWhenEnemiesCloseEnabled": true,
-	"isHighlightCrosshairEnabled": false,
+	"isHighlightCrosshairEnabled": true,
 	"hudHighlightColor": 16711680,
 	"isShowingWeaponTrails": true,
 	"isShowingArmsInFirstPerson": false,
