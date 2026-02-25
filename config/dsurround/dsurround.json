@@ -33,7 +33,7 @@
     "steamColumnEnabled": true,
     "flameJetEnabled": true,
     "bubbleColumnEnabled": true,
-    "firefliesEnabled": true,
+    "firefliesEnabled": false,
     "waterfallsEnabled": false,
     "enableWaterfallSounds": true,
     "enableWaterfallParticles": false,

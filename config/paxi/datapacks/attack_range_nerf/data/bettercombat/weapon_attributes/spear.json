@@ -1,6 +1,6 @@
 {
   "attributes": {
-    "range_bonus": -0.5,
+    "range_bonus": 1,
     "pose": "bettercombat:pose_two_handed_polearm",
     "two_handed": true,
     "category": "spear",

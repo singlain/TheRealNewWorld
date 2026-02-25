@@ -1,0 +1,13 @@
+name = "Rain should extinguish campfires"
+filename = "rsec-neoforge-1.21.1-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XFk4dAJX/versions/NKbtWc8O/rsec-neoforge-1.21.1-1.1.jar"
+hash-format = "sha512"
+hash = "083f49cac9173819dee689671b2901bdaf7a62b2a4eba63a3023998d826849b423f9598c6642f2ed0356f80b80edee5475b22a9047240f37a54341962621ecbe"
+
+[update]
+[update.modrinth]
+mod-id = "XFk4dAJX"
+version = "NKbtWc8O"

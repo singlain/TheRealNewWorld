@@ -1,7 +1,7 @@
 {
   "parent": "basicweapons:basic_spear",
    "attributes": {
-    "range_bonus": 0,
+    "range_bonus": 1,
     "pose": "bettercombat:pose_two_handed_polearm",
     "two_handed": true,
     "category": "spear",

@@ -1,8 +1,7 @@
 {
   "parent": "bettercombat:spear",
   "attributes" : {
-    "range_bonus": -1,
-    "pose": "",
+    "range_bonus": 0.6,
     "two_handed": false,
     "category": "trident",
     "attacks": [

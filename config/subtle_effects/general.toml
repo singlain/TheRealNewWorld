@@ -2,7 +2,20 @@
 version = 0
 enableParticleCulling = true
 particleRenderDistance = 5
-particleCullingBlocklist = [  ]
+particleCullingBlocklist = [
+    "bettercombat:botslash180",
+    "bettercombat:botslash270",
+    "bettercombat:botslash360",
+    "bettercombat:botslash45",
+    "bettercombat:botslash90",
+    "bettercombat:botstab",
+    "bettercombat:topslash180",
+    "bettercombat:topslash270",
+    "bettercombat:topslash360",
+    "bettercombat:topslash45",
+    "bettercombat:topslash90",
+    "bettercombat:topstab"
+]
 cullParticlesInUnloadedChunks = true
 allowUsingBlendedRenderType = true
 spellParticlesUseBlendedRenderType = true

@@ -1,7 +1,7 @@
 #Allowed Values: FIRST, MIDDLE, LAST
-weaponCoolDownImportance = "MIDDLE"
+weaponCoolDownImportance = "FIRST"
 disablePickaxesAndShovels = true
-disableAxes = true
+disableAxes = false
 showBlockBreaking = true
 showRangeWeaponDraw = true
 showItemCooldowns = true

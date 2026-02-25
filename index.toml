@@ -26,15 +26,11 @@ hash = "270774d07e1741b38eb9a4a323677e03dd34e8dc6010563358e40cdd89b74525"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "8e34f98809a79162dd5520d87f0faa429239cff2f483dfac1bfc9c39b5f175a3"
+hash = "92b73cb20c2fe04e4c0c98b7bf582ea1ea0d4f330194c7dc53a4f633c7c0163a"
 
 [[files]]
 file = "config/bettercombat/server.json5"
 hash = "f732101c34025014648e7ae9f699d0403fbc6021c686c0af263b1ee1751c1c7a"
-
-[[files]]
-file = "config/betterf3.toml"
-hash = "c668592b051b888985c67a1d6ee126533b14329c3b2e14199a6f6776c01ef093"
 
 [[files]]
 file = "config/bettermineshafts-neoforge-1_21.toml"
@@ -51,6 +47,10 @@ hash = "621485790930986e926351f5bbc8a2ae9e1c3da2e8606d7f079a4c8b865abfb5"
 [[files]]
 file = "config/betterthirdperson-common.toml"
 hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
+
+[[files]]
+file = "config/betterworldloadingnf21.json"
+hash = "aac18d7595f9ac106181d8812b264320cbb06d203a2cc66c763cc6e0eb91c077"
 
 [[files]]
 file = "config/bridgingmod.json"
@@ -106,7 +106,7 @@ hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "80054b29f18c01ab962d2cec0fe95d30f9aa21135e48d6600f2aaccbee388d14"
+hash = "4321a8c85a27bd921e83be8cfad5a339f139f431c24b0a950d283ea6b71e126d"
 
 [[files]]
 file = "config/dungeon_difficulty/client_settings.json"
@@ -126,7 +126,7 @@ hash = "9f6f7adae93857710f6a5baa1afbf96a8a2f6b735a39b16c6c838cad3784e972"
 
 [[files]]
 file = "config/enhanced_attack_indicator-client.toml"
-hash = "c768b713f77bca4331c180972ec23f9ff5a322255557aaa18e276ccade965967"
+hash = "a55202ebcba99cc7f607d569828e4e864be22cd8a42a028a2e8fd9a71b5f36eb"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -150,7 +150,7 @@ hash = "41e28577931484abf560c87f95187dd5cef20e460b3ac6ace553f1d139d65889"
 
 [[files]]
 file = "config/fastquit.toml"
-hash = "e5c1f4ed27a633c18df740fb87009693cf3931f8779677dfc587e332e3847e39"
+hash = "7aa74e77a543aa33d48b826c97ac874ab2336987b3a9963c48b3c82915485c4d"
 
 [[files]]
 file = "config/fml.toml"
@@ -170,7 +170,7 @@ hash = "3d77f2214ca9a1cfc6da962ed675bbe5a155f1851e90133f2951ef35d790f05f"
 
 [[files]]
 file = "config/immersivewind.json"
-hash = "24c425daece3f2d51b04bce4c13bb3c10d192e63a25cb70380b72d6ced0c26bf"
+hash = "883ec0cb4c90150fb439faec7346a7721a1f387f94f046329944d77d559c45f8"
 
 [[files]]
 file = "config/iris.properties"
@@ -178,7 +178,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9acc2458041095dcd36e02e5192dfee05cce1c0800b00df56c943cfcf052b701"
+hash = "7860f904f71f9d4a72d6adcdf9479dc769ba1b8c423b3d9990dd325e7c248b34"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -199,10 +199,6 @@ hash = "505020590c2d38330c075b58d51836e77febe7a09dd0e3883560271f30a0722e"
 [[files]]
 file = "config/litematica.json"
 hash = "5390f5c3bebd6967e23ab28a8943012afbba15a162eeb1c2b9d4923634edb102"
-
-[[files]]
-file = "config/midnightcontrols.json"
-hash = "4b0540806473d1e31ae86eb4a15941f57ddb349933ad9c54278526b6a7ee73f1"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -229,14 +225,6 @@ file = "config/moonlight-common.toml"
 hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
 
 [[files]]
-file = "config/mousewheelie.hjson"
-hash = "ea00cb1d9e5ec9c9e0d2463522a6ee0348ccc6b11b07c04346df1376a9fb9f56"
-
-[[files]]
-file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "131f7fd83238bdf64550e6dea42b633b7221c73237e03ee7f10fffba5cdbed9a"
-
-[[files]]
 file = "config/notenoughanimations.json"
 hash = "1ecce4ea9da31be3f94f9557ef5a3fb48c15f5c38ec7350230c480cef4da812e"
 
@@ -254,7 +242,7 @@ hash = "6d69bd697ea75a4ec11273e1f23c2ec3fe1f55b58990319db955f27c26fce9a5"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_dagger.json"
-hash = "9e9d8df9df7a7c45d1b972fc9610daf5193545677fed052eeffdeee478bf707c"
+hash = "7a67a74391f96c980afea3cb0625a994ba3cb6da8965cb1dd232e022cf089040"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_glaive.json"
@@ -262,7 +250,7 @@ hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_hammer.json"
-hash = "d65b6e7612789646c8d4f8b4dc80be8c5937cca440d35ffb5be64e15d8c9c49d"
+hash = "c7fd50a1c3a033de6d1c24f7c3faf4ac79898ead24bd2a09655418ab002aaddc"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_quarterstaff.json"
@@ -270,7 +258,7 @@ hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_spear.json"
-hash = "e89e5da7e584e95ab5f7da15a78e6c946b66af64f4cc359a547551475b33d2a2"
+hash = "c0d4c70035ec63cea7ac915fc9700adcedbdd7f8d53a920b5f3c2f36a7a98ef3"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/stone_glaive.json"
@@ -278,7 +266,7 @@ hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/stone_spear.json"
-hash = "3d6dcb1ff2dc899b3b84459a0d47e684d2c5fd33fb1768470577a76288f34736"
+hash = "8dee42e96df22f58c2dc19013afed1422603de8b66a2a915aacf728c28472d6c"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_glaive.json"
@@ -286,19 +274,19 @@ hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_spear.json"
-hash = "3d6dcb1ff2dc899b3b84459a0d47e684d2c5fd33fb1768470577a76288f34736"
+hash = "8dee42e96df22f58c2dc19013afed1422603de8b66a2a915aacf728c28472d6c"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/axe.json"
-hash = "4c8bc4fa4376b3c56d0492020efe8d9c23e9ec566e479b92ea33078b44bfba2c"
+hash = "f7b2caece7474e5aa0f9445b598b644fbe68c9f12af953294b92345686025e54"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/battlestaff.json"
-hash = "b9fb6ad6d657b61f10fe9d51ebb685e2c0f4ad4f33cc5fdb07134005ac51fe88"
+hash = "ae18eeffe5c607dcf79f2c42631caa13cd1fa7bb75961ddeaa8e7062410bc915"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/dagger.json"
-hash = "457d4668986967abdba05bc9f0dc9425dca8e803c0790b8ac1a7fd061303809a"
+hash = "8b49fc03f8253af9de9870b2654f8c988fc6d19eac1539324fb6a96e59f98502"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/double_axe.json"
@@ -306,39 +294,35 @@ hash = "de99a0c2bf69a0f159b4680a49733a15892fded7e70afeb5b05d598c71b8a2d2"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/glaive.json"
-hash = "aa3bec002e43dc08e745a00ee4c8b4831b8543584b49cfe280274fcc5a389d16"
+hash = "eddccace48d413c5c0301deea5f4fb4d0f657d9e0c6b43b3fe2c542e5c03d2f9"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/hammer.json"
-hash = "d65b6e7612789646c8d4f8b4dc80be8c5937cca440d35ffb5be64e15d8c9c49d"
+hash = "b5917f71e828063efc08e233cc2dcfdc1804bce733167f3c4d454c88adc8df9c"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/mace.json"
-hash = "ba720ace2648dfa7be59a6e0e737fedcd7d51521fb7fa0aeaab2871a838e1cf7"
+hash = "c04fd310c118257ccea1982f5cc7cbd69334f48a76d1cf8f0d4467547cc52863"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/spear.json"
-hash = "f3bc08e23c4d4003b0920274e8e766236224979b3889f1c81031f19f00825b63"
+hash = "e4d4693e92e01f96ac299381065a0a4ac54498ca187594adfe314907366e1877"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/sword.json"
-hash = "7ebad1d6f98f93460add6763fbc0ff56508e4f6cc4b5173d71fd03b365a8c32b"
+hash = "6456e8f840d373246a9a6b1bce7b85fcc1107444b39cba290b3ca1e85f92b7ed"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/trident.json"
-hash = "ddcea2d332183baa805fabc2292a5d26617af7b4b1673291b07f0e7901a503e4"
+hash = "56dd714fc01739cdaf0971b726f4c3add840da7595a758cd70327497c7a599e6"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/vanilla_mace.json"
-hash = "e2ff160021aad5c5847cfb71ad095234bf796870f76fdb9d9ce829a7eedf2a89"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/farmersdelight/weapon_attributes/skillet.json"
-hash = "53c30a899ee2a902f701135b3ea479f361d9d374b8165b4f81a81ea3f1ecd5af"
+hash = "7c03eb614f5378f1f488a7dc947b23d50754edff922ae96578046ae2a783e962"
 
 [[files]]
 file = "config/paxi/datapacks/attack_range_nerf/pack.mcmeta"
-hash = "d07eb239e3efdc0f194907b6f1454629083dbf17f6765ea4edb8c2be45313254"
+hash = "aa280f61445e162171929ad7c25502a8f3d6aa2e773140eef03b334fb06255e1"
 
 [[files]]
 file = "config/paxi/datapacks/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
@@ -654,7 +638,7 @@ hash = "709ff20879b789abef3980a42d90f4ea5ec718050415a7c52a700af71eb9c900"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "08f2602b4007c2cf7665ed80808846c93c382dede0cf45db4138342a9372dc91"
+hash = "34a083bc772b7a7894c6db0b535b633b1092efd645397757d71152cd3ec1497f"
 
 [[files]]
 file = "config/subtle_effects/environment.toml"
@@ -662,7 +646,7 @@ hash = "5305e834ee7c6acb19c9c1ec48bd50148e386b6f70e840fcaa1fa4d2d92d7e81"
 
 [[files]]
 file = "config/subtle_effects/general.toml"
-hash = "cabc3198650182b8d282c08091acbe4f5d3fecab03d2484aefb88f1eb6112d0e"
+hash = "34cdba807eb6be63c5f9f7b6e85e5af444c0d49fb9e28ca8bdaebfd5f2befc01"
 
 [[files]]
 file = "config/subtle_effects/items.toml"
@@ -765,6 +749,11 @@ hash = "7df613fdc37f25c464ae9ca0a200e57914857f84afdc246fc786047030bf40cc"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
+metafile = true
+
+[[files]]
 file = "mods/basicweapons.pw.toml"
 hash = "55f674de58b5c6fb6bec95b8453a3fb90bf6facbf9d1c8c76b88b927e3ecdab4"
 metafile = true
@@ -810,8 +799,13 @@ hash = "1da22b21bfb7a1f23366c15918e828820d6e49e206a32a67003a41d112e0a086"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "df24a9f9ef78d0c100fbbe5ee7319aec7b44dd9c2a0bf503dee835c68ad9e2ba"
+file = "mods/better-world-loading.pw.toml"
+hash = "099a7b7bab4d61719a671644a4bfd0a4ef146483eac306479b1ffb177669ad5d"
+metafile = true
+
+[[files]]
+file = "mods/boat-fall.pw.toml"
+hash = "2e9ec205832c1721a20e8030409da0495bfaf822dfc6bd597a7cf8fc01160284"
 metafile = true
 
 [[files]]
@@ -910,6 +904,11 @@ hash = "0eae1ef556a83f4d18307900b781729f80eb2431529ee6ea2ff999c78b18a743"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
 metafile = true
@@ -937,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/darcenos-minecarts.pw.toml"
 hash = "cbb4782f425b16eb9782b87a8e1094377d5dd67e16d14ad875ea7f914fe77c47"
+metafile = true
+
+[[files]]
+file = "mods/data_api.pw.toml"
+hash = "bb571c7e10406f1a0ba4f3600030b4b322483c53ffc3f039a589b8ae2a8f7dd2"
 metafile = true
 
 [[files]]
@@ -1027,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "4a9bc98184c176a179100675f60ef8a7e7b6df89a53c71275cf830f257947210"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-boss-bars-mod.pw.toml"
+hash = "6aecb0c0e632a3e733f785522dee0d0eab272b9ce1f6687414255d9e4d48cd09"
 metafile = true
 
 [[files]]
@@ -1245,11 +1254,6 @@ hash = "828206ac97ad103ec4e2069555de4a2589dea4f4b02556580486631c7ade1cbe"
 metafile = true
 
 [[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "959c6151ffa65633431066dbae60ec67383d5e7951ad9b0aba6e969f3c7093af"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "cadfa74c50ff09f047982bc58e010438a5f43da525e3235fe6456de0c736c34a"
 metafile = true
@@ -1290,13 +1294,13 @@ hash = "e05037084d92cb1c2cbc3273ef91406ff68a3b9612303dfe55d480da7835af0c"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "9f13a110190af5d418daca010d3c88a43b23f29a0213aa86fc0b3c4247554402"
+file = "mods/mru.pw.toml"
+hash = "37450ce33fca3415c2c1ee01877847d91f247b767ee7b6e7759bb102aae0693f"
 metafile = true
 
 [[files]]
-file = "mods/mru.pw.toml"
-hash = "37450ce33fca3415c2c1ee01877847d91f247b767ee7b6e7759bb102aae0693f"
+file = "mods/netherportalfix.pw.toml"
+hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
@@ -1312,11 +1316,6 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "eb739baea355122abdf83bf3cd46db28b2684b54c7f661289a974cbd9bebdb74"
-metafile = true
-
-[[files]]
-file = "mods/nostalgic-tweaks.pw.toml"
-hash = "5b1da8ab43cb31ba57c1b705b00e12f2e7e029285b67bf851a81f94a4d69202f"
 metafile = true
 
 [[files]]
@@ -1415,6 +1414,11 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
+file = "mods/rain-should-extinguish-campfires.pw.toml"
+hash = "be4c82017781c274a93dc141adf4772c13551e3641dc1d26ef6d9d1067f26992"
+metafile = true
+
+[[files]]
 file = "mods/recipe-fixer.pw.toml"
 hash = "71c9483d08c68be5149794565d81247de34215d2aad658db49f6c5280eaeb948"
 metafile = true
@@ -1435,8 +1439,8 @@ hash = "98e1bfee9a65c072cb1849212288737d5ad987062473c263b8cec52973a762f0"
 metafile = true
 
 [[files]]
-file = "mods/scrollabletooltips.pw.toml"
-hash = "01a33c233e70a7174804c649f12dfb38b46f21250c89bf294f4851066295df3b"
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
@@ -1447,6 +1451,11 @@ metafile = true
 [[files]]
 file = "mods/shutupdeadentities.pw.toml"
 hash = "dbd50680c6e2f99641aa71d6fc41893871ee6e4f455cf2dfcc0e18de45142377"
+metafile = true
+
+[[files]]
+file = "mods/simple-netherite-horse-armor.pw.toml"
+hash = "ae086ee5b767fb3171f19391b18726fc707ecc42e4f0bf43fdf03d29384ca456"
 metafile = true
 
 [[files]]
@@ -1571,7 +1580,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fe02505b0c4536deb217fa016cc06b61233ac3366f42bd197baf9543aec56aa9"
+hash = "09e445f15127b492357b5ad65fd6944ec23dde6c854274546deb625c79bec1e2"
 
 [[files]]
 file = "resourcepacks/3d-sugar-cane.pw.toml"
@@ -1581,3 +1590,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/VanillaTweaks_r380996_MC1.21.x.zip"
 hash = "30be9acd0309f2b551d6e10f503768890816ece385a870b52998213c7f30b5ca"
+
+[[files]]
+file = "resourcepacks/c418-songs-only.pw.toml"
+hash = "4718636610275e20c024fc660035f3925e6f0ef7b8f067c6ebc07ab03a007995"
+metafile = true
+
+[[files]]
+file = "resourcepacks/trnw_splash_texts/assets/minecraft/texts/splashes.txt"
+hash = "90ee5b32b4851dcd2c5cfb7727f9cc9c737e8a3af3b9d71f28861e9216a9016b"
+
+[[files]]
+file = "resourcepacks/trnw_splash_texts/pack.mcmeta"
+hash = "dcf124d681eea1e3f27a20a5d1133be4213c8c6373cfcf6dff7ba9ebe455cd82"
