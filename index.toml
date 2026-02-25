@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "DistantHorizons.toml"
+hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -966,6 +970,11 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "5887076f92f94c34f17339f205320dd71ac56fd1332d7cea4b347b3bd85eaffc"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
 
 [[files]]
