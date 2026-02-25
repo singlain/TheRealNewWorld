@@ -1598,7 +1598,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/trnw_splash_texts/assets/minecraft/texts/splashes.txt"
-hash = "90ee5b32b4851dcd2c5cfb7727f9cc9c737e8a3af3b9d71f28861e9216a9016b"
+hash = "e4bb550e3b2712f02698d86b1de099e5d91b33ae1a5efb4e46bfa6ce28c8ef70"
 
 [[files]]
 file = "resourcepacks/trnw_splash_texts/pack.mcmeta"
