@@ -36,6 +36,8 @@ Thanks to [End Remastered](https://modrinth.com/mod/endrem), even if you are abl
 [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
 ## Combat Overhaul
 Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) mod, along with a fitting weapons from [Basic Weapons](https://modrinth.com/mod/basicweapons), fleshed out with the fine-tuned [Combat Nouveau](https://modrinth.com/mod/combat-nouveau) and further tweaking by yours truly, you get an amazing balance of fun and challenge, while maintaining the simplicity of the combat from Vanilla! Also, thanks to [Amendments](https://modrinth.com/mod/amendments), you can now throw Fireballs and Dragon Fireball (which are now craftable!).
+## Shoulder Surfing Reloaded
+With [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) Third Person Combat won't be as annoying as it used to be!
 ## Tiny Skeletons
 [Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds a simple new mob - if there are baby zombies, why not baby skeletons?
 
