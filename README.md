@@ -1,16 +1,20 @@
 ![Main Modpack Header Image](https://cdn.modrinth.com/data/cached_images/c8353c600300f08858a1a258aad17a2f2aeddb7b.png)
-> _If you want something done right - do it yourself._ The driving force behind this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - **The Real New World** was remade from ground up for **NeoForge** and had saved most of the charm from its predecessor, along with some changes and additions - those being:
-- **Balance and Progression Changes**
-- **Sound and Atmosphere Overhauls**
+# Main Features 
+- **Balance and Progression Overhauls**
 - **Difficulty and Combat Overhauls**
+- **Sound and Atmosphere Improvements**
+- **Reworked World Generation**
 - **Transportation Rebalance**
+- **Tons of QoL Changes**
 - **...and more!**
 
-## Notes
+> _If you want something done right - do it yourself._ The driving force behind this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - **The Real New World** was remade from ground up for **NeoForge** and had saved most of the charm from its predecessor, along with some changes and additions - those being:
+
+## Before You Install...
 - Make sure to allocate at least **4GB of RAM** to your instance!
 - Balancing and testing is **still ongoing**.
 - Chunk load times are **_slow_**.
-- Users with lower-end hardware may experience severe stuttering and server lag during first 10 to 20 minutes of gameplay due to terrain around generating.
+- Users with lower-end hardware may experience **_severe_** stuttering and server lag during first hour of gameplay due to terrain around being generated and the Distant Horizons mod generating distant chunnks, along with generating  separate LOD levels for them.
 
 ## Balance and Progression Changes
 
@@ -114,23 +118,11 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 
 </details>
 
-## Credits
-
+## List of Mods
 
 <details>
-<summary>Spoiler</summary>
-
-> The following mods were bundled as .jar(s) in the overrides due to them being unavailable on Modrinth/GitHub or being CurseForge exclusives.
-
-- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge/files/5567664)
-- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
-- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
-
-### Other Credits
-<details>
-  <summary>Spoiler</summary>
- 
- ### Mods 
+<summary>Mods</summary>
+  
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) by Yanny
@@ -140,7 +132,7 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
 - [Armour Sound Tweak Updated](https://modrinth.com/mod/zN5Zb52E) by mr\_chumbucket
-- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation\# The description of the mod\. This is a simple multiline text string that is used for display purposes in the mod list\.
+- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
 - [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
 - [Basic Weapons](https://modrinth.com/mod/sc2Pektv) by Khazoda
@@ -305,14 +297,28 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 - [YUNG's Menu Tweaks](https://modrinth.com/mod/Hcy2DFKF) by YUNGNICKYOUNG
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
-### Resource Packs
+
+</details>
+
+<details>
+<summary>Resource Packs</summary>
+
 - [Vanilla Tweaks](https://vanillatweaks.net/) by Vanilla Tweaks Team
 - [C418 Songs Only](https://modrinth.com/resourcepack/c418-songs-only) by redsquare
 - [Classic Menu Panorama](https://modrinth.com/resourcepack/classic-menu-panorama) by UsernameGeri
 - [Extended illumina(3D lantern and torch)](https://modrinth.com/mod/qznifDTe) by Ilyastik
-### Data Packs
+
+</details>
+
+<details>
+<summary>Data Packs</summary>
+
 - [80% Abandoned Villages](modrinth.com/datapack/abandoned-villages) by lunaStellarii
 
 </details>
 
-</details>
+> The following mods were bundled as .jar(s) in the overrides due to them being unavailable on Modrinth/GitHub or being CurseForge exclusives.
+
+- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge/files/5567664)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
