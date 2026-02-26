@@ -8,7 +8,7 @@
 - **Tons of QoL Changes**
 - **...and more!**
 
-> _If you want something done right - do it yourself._ The driving force behind this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - **The Real New World** was remade from ground up for **NeoForge** and had saved most of the charm from its predecessor, along with some changes and additions - those being:
+> _If you want something done right - do it yourself._ The driving force behind this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - **The Real New World** was remade from ground up for **NeoForge** and had saved most of the charm from its predecessor.
 
 ## Before You Install...
 - Make sure to allocate at least **4GB of RAM** to your instance!
