@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "DistantHorizons.toml"
-hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
 
@@ -670,7 +666,7 @@ hash = "34a083bc772b7a7894c6db0b535b633b1092efd645397757d71152cd3ec1497f"
 
 [[files]]
 file = "config/subtle_effects/environment.toml"
-hash = "5305e834ee7c6acb19c9c1ec48bd50148e386b6f70e840fcaa1fa4d2d92d7e81"
+hash = "b7419b293f9077a87d33ae78dee9c06b4d3eb0388c9a518364754b9de93ddeee"
 
 [[files]]
 file = "config/subtle_effects/general.toml"
@@ -757,11 +753,6 @@ hash = "7218fa4fd5966006b578d824f278468e44464a10e82c54f331a6eb799b92bdf5"
 metafile = true
 
 [[files]]
-file = "mods/armour-sound-tweak-updated.pw.toml"
-hash = "d33e645ddda2b4b764b4e6618ff8b54bb6f6ac1151e58869fec973384b7d0007"
-metafile = true
-
-[[files]]
 file = "mods/astikorcarts-redux.pw.toml"
 hash = "61197cca9dc174ffa3ec098fec68c1fcf15f1c4f39d8f9c8893f0be4b23f0361"
 metafile = true
@@ -839,11 +830,6 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "f5154512f6cb4446adc61f5da9047f6d045ca57b67f023dfb64f3f5ed2cd4fab"
-metafile = true
-
-[[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "90c572a3ad93f38abbe267ee0e6e498b2502d6fc7eceac410446e0cc8e706bb7"
 metafile = true
 
 [[files]]
@@ -934,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -1058,12 +1049,12 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedvisuals.pw.toml"
-hash = "72225544f6da8d0f5294fb19ac8c4cfa22610a0d31862c2f592bc55b357174a2"
+hash = "10a8cc237456dc5ca699916bc9f4d10b6be59840888f54734eca13b9128a62bc"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "47eee2288df17d4e0a717e9f497f26df8a20aaac827d4d8a2942e2cbe1cd2cf2"
+hash = "68e0010a541dfab4ada1786114b5ac4cbd5b083519663757fcdad0a0fe186aab"
 metafile = true
 
 [[files]]
@@ -1202,6 +1193,11 @@ hash = "cf0bf71381a288c62c8f35af98817ea9858d0502e4de50fc76e83f9bcfcec204"
 metafile = true
 
 [[files]]
+file = "mods/ismah.pw.toml"
+hash = "8a97506e7ee0f02abe1604dc642589686e4d3666637415b27b94b6c0039f5ced"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "3a9cb52b3f066db2b98f2374494e3ca6e974caaf60cdbd34dab2b3707c555990"
 metafile = true
@@ -1214,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/kaffees_dual_ride.pw.toml"
 hash = "45d7c21595fb84b7a9a9ba380088fb7c84babdec1740036d0bde8a76db778e0d"
+metafile = true
+
+[[files]]
+file = "mods/kitchen-projectiles.pw.toml"
+hash = "3f64d43981b6f8b0ce5dda8d8d8ca44bd5d8a17bd2740d50b267af4d31f4d0bf"
 metafile = true
 
 [[files]]
@@ -1297,6 +1298,16 @@ hash = "c1c8d378e26eb43d99af5176b93128862595fb7925b4adf091301c61b5e884b2"
 metafile = true
 
 [[files]]
+file = "mods/moonrise-compats.pw.toml"
+hash = "80003ff4f60a2d7f0e59d132ce3af032f7ed7e923675e36fc1a2f914a26b07d7"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "58ceb046380be656ff449cd62b79bc9540ff08b8502e1e8291c9715e5ca3c829"
+metafile = true
+
+[[files]]
 file = "mods/more-sounds.pw.toml"
 hash = "efd7abc88581a565446c77fb6c44c11b8faed6f9118ff9e4f6d91cdab8446dd4"
 metafile = true
@@ -1337,18 +1348,18 @@ hash = "f0e5ccfe29b48e5ed4a25ff764cbf1e16a0fcfe505b96ca21fc550db36d5ce68"
 metafile = true
 
 [[files]]
+file = "mods/no-resource-pack-warnings-forge.pw.toml"
+hash = "3fb3a7b2f288770f8df411109733184353d2e3fc6c28c28e0824feb3e26ee140"
+metafile = true
+
+[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "eb739baea355122abdf83bf3cd46db28b2684b54c7f661289a974cbd9bebdb74"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "72ba91b9ed7184e3210c511e4dcf9b0b1deaa997b12bf37eabba6da083955886"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "2240ffff383959ec577c03cf0aa660ac10b712d45790ba4872abe93807c522b1"
+hash = "98e6183c07de15c2565ee2afa70b930a877fc8d03722985f2c8137fd67da894d"
 metafile = true
 
 [[files]]
@@ -1579,6 +1590,11 @@ metafile = true
 [[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "d792e282e39002ccc6d5abfe3c6ab92188d760a5e272d8a929c2aa00d15cdcf2"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
