@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "07d166450f13381a959e7ff0d55732652815a441f305feb46adba851a2a5c493"
+hash = "135eeb151e6d659593330460bb82b2c7318431eb12ab4bfb41906fabdb543be4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -58,11 +58,15 @@ hash = "6f9651e0ca2fbb2dcf4d1c046a75bc4e28e2d0ee83d43c099a50a8d968b48b3a"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
-hash = "d01784b388482fd8acf3cf3b2e6976b87e57232d6741a68ffb055996eda65a2d"
+hash = "c7eb0a3a327fb2d8fe72abff4c46fc9b74845d91f1b298140683a5196d6b036f"
 
 [[files]]
 file = "config/capes.json5"
 hash = "b654cbb5019c63c7824286269676c1f9e9198d8f5bcfabe8b8691c529ecc4e5e"
+
+[[files]]
+file = "config/chatanimation.json"
+hash = "1c1acda5d77a5195bb2ddde74a4f187c5b86a3fc7be956ee187bba6513793793"
 
 [[files]]
 file = "config/combatnouveau-client.toml"
@@ -118,7 +122,7 @@ hash = "609c46c673a952a323943482e0385f0d263d250fd6340ab57645bc093c49bf49"
 
 [[files]]
 file = "config/emi.css"
-hash = "9f6f7adae93857710f6a5baa1afbf96a8a2f6b735a39b16c6c838cad3784e972"
+hash = "e635c51be73c00bf05d8c4f95ee23285da7feaeba9eedfed803d453f564cf458"
 
 [[files]]
 file = "config/enhanced_attack_indicator-client.toml"
@@ -131,6 +135,10 @@ hash = "eb1942fc0163d9739a08f5ee12ba72ef1202356e27edc8d24e4af594bf800aa1"
 [[files]]
 file = "config/enhancedvisuals.json"
 hash = "abbcce607a811b1a6ef0b46b84efd8087c1f12737a8306677d0fe024ac3e74ba"
+
+[[files]]
+file = "config/euphonium.toml"
+hash = "465bc458f937c314cc3d40ccc2d802beaf4b4a41feb04454f416d2336beeab84"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -170,7 +178,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b422595c0eb21297317ed8a7291d6019ad4d5af27791fc1ce07e99128f575438"
+hash = "ee1eaaead8f07b6f045ba9221894f06298f82acbc6c6ab619d800cb6ad1625ae"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -190,7 +198,7 @@ hash = "505020590c2d38330c075b58d51836e77febe7a09dd0e3883560271f30a0722e"
 
 [[files]]
 file = "config/litematica.json"
-hash = "5390f5c3bebd6967e23ab28a8943012afbba15a162eeb1c2b9d4923634edb102"
+hash = "948611f899cbf464c0ec6625f5cd59976a6cecb3d12cfb55c9ba7f9412d09ea8"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -222,7 +230,7 @@ hash = "1ecce4ea9da31be3f94f9557ef5a3fb48c15f5c38ec7350230c480cef4da812e"
 
 [[files]]
 file = "config/particlerain.json"
-hash = "4f1064be852187334e3f852875dee238c9c1732b70c81c8cce74fde4dd6d9c70"
+hash = "981bc8696044b77a8b63dca322bee9171517a9ecff09bb7d7143cdbe54ab5e69"
 
 [[files]]
 file = "config/paxi/datapacks/Abandoned Villages.zip"
@@ -630,7 +638,7 @@ hash = "a50ababf2b0d1518a87dfcb5fe996d1793ae3b7820ca06d3e6ce1d37bcc20a42"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "36cf9cefd797d1cf374dd7b0afeba73a895d7f031b1dfe2945866b442ff0357e"
+hash = "8a4d85c13a7699cbc9a5d8392c66447b80ff7689afb7da7289a7a9da5431afd0"
 
 [[files]]
 file = "config/sounds/chat.json"
@@ -833,6 +841,11 @@ hash = "f5154512f6cb4446adc61f5da9047f6d045ca57b67f023dfb64f3f5ed2cd4fab"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "c0c46fdc7e9ad31b975025a891abd5227562aae0107e79e8d8b6bb34acfa27a5"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "02b141225091fbf80fa7c10d54e9ebcad91e6657145ac1672b9d9694eef0a935"
 metafile = true
@@ -845,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "def8b61f6ed9833ae4e838bcf31896b0d00c4a3fc5a7fbb0796fa1f396e3bd34"
+metafile = true
+
+[[files]]
+file = "mods/centered-crosshair.pw.toml"
+hash = "a67f5aabcc83e6f8af0ea1a775b6e25c96eee4acda5803de1fd986b268522976"
 metafile = true
 
 [[files]]
@@ -875,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "abe848678bf6a4af451d2417e351aaaeca1ef7522eb99eb06e19d792400b6db3"
+metafile = true
+
+[[files]]
+file = "mods/cliff-face.pw.toml"
+hash = "9dab271f4bfd98a5a5dc5366048073d65e61625d334bc668e9db50e096ff4e39"
 metafile = true
 
 [[files]]
@@ -1298,16 +1321,6 @@ hash = "c1c8d378e26eb43d99af5176b93128862595fb7925b4adf091301c61b5e884b2"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-compats.pw.toml"
-hash = "80003ff4f60a2d7f0e59d132ce3af032f7ed7e923675e36fc1a2f914a26b07d7"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "58ceb046380be656ff449cd62b79bc9540ff08b8502e1e8291c9715e5ca3c829"
-metafile = true
-
-[[files]]
 file = "mods/more-sounds.pw.toml"
 hash = "efd7abc88581a565446c77fb6c44c11b8faed6f9118ff9e4f6d91cdab8446dd4"
 metafile = true
@@ -1353,13 +1366,18 @@ hash = "3fb3a7b2f288770f8df411109733184353d2e3fc6c28c28e0824feb3e26ee140"
 metafile = true
 
 [[files]]
-file = "mods/noisiumforked.pw.toml"
-hash = "eb739baea355122abdf83bf3cd46db28b2684b54c7f661289a974cbd9bebdb74"
+file = "mods/noisiumed.pw.toml"
+hash = "db6f4f6f29e87429361d16eff5d17b06d568d0d89e02d0f2cbf1101a5f32a4c2"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "98e6183c07de15c2565ee2afa70b930a877fc8d03722985f2c8137fd67da894d"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
@@ -1530,11 +1548,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7e257091083a4cda4fcdba0a64b3a870abd97a5f2486c45b68e39b00cac3161c"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-perfected.pw.toml"
-hash = "b3e23b77da052732f4d1b784d12e805d098055a189aa333205ebd6955b8dddf1"
 metafile = true
 
 [[files]]

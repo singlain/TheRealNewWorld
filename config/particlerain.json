@@ -310,7 +310,7 @@
       "presetParticleId": "particlerain:ripple",
       "usePresetParticle": true,
       "id": "ripple",
-      "enabled": false,
+      "enabled": true,
       "density": 1.0,
       "weather": "DURING_WEATHER",
       "precipitation": [

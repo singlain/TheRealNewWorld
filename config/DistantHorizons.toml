@@ -326,7 +326,7 @@ _version = 3
 				#  overhangs or walls for floating objects. 
 				#  Tweaking the caveCullingHeight, can resolve some 
 				#  of those issues.
-				enableCaveCulling = true
+				enableCaveCulling = false
 				#
 				# At what Y value should cave culling start? 
 				# Lower this value if you get walls for areas with 0 light.
@@ -565,7 +565,7 @@ _version = 3
 		#  outside the vanilla render distance? 
 		# Depending on the generator mode, this will import existing chunks 
 		# and/or generating missing chunks.
-		enableDistantGeneration = true
+		enableDistantGeneration = false
 		#
 		# How detailed should LODs be generated outside the vanilla render distance? 
 		# 

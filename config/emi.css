@@ -51,7 +51,7 @@
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: left;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -61,7 +61,7 @@
 	/**
 	 * Whether to add mod name to tooltips
 	 */
-	append-mod-id: false;
+	append-mod-id: true;
 
 	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
@@ -88,7 +88,7 @@
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: true;
+	center-search-bar: false;
 
 	/**
 	 * Which sidebar type to switch to when searching.

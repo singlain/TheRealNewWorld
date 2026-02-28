@@ -1,0 +1,13 @@
+name = "Noisiumed"
+filename = "noisiumed-3.0.2-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/M8MasaZG/versions/8qMelzGL/noisiumed-3.0.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3613a8f6657c55765ac519d9b3f0c8072355838d866debae858480eeeb57387da61c55cf407c73b2bf5976006c3f4f9a430ba457a70d684a443e77aa67ca2b57"
+
+[update]
+[update.modrinth]
+mod-id = "M8MasaZG"
+version = "8qMelzGL"

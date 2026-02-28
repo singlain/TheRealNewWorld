@@ -1,12 +1,12 @@
 name = "The Real New World"
 author = "Singlain"
-version = "0.9.0-beta"
+version = "0.9-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2fdb5c8958aa1fff8aace1b19b7683b752e0c1b1638ffebb4297a926a526b54d"
+hash = "78cdb36c9c30eebd24884cb790134a47fe0171a2e53b48036e53ad427c62ff1b"
 
 [versions]
 minecraft = "1.21.1"
