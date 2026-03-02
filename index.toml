@@ -182,7 +182,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "767a339787595378ad93edfc1cfd7f8dab72be67fd13ef93d3198aac752c52a4"
+hash = "6fcda3436f7cf31872ac9216a02aec6cd0882c313cd2c66d65aae63017bc2c41"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -1487,11 +1487,6 @@ hash = "12c3b251120a2384d154980ed4b100b6c7d188d58dcbb65d40ccf1e644218599"
 metafile = true
 
 [[files]]
-file = "mods/potion-stacks.pw.toml"
-hash = "c6a7aed316916b0e830ec7fcdae79a947374c4d43c6b360dea45402a0a0722e2"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "b41d16d46e3462ef06715adb74831424a378bfc36880066865b9dab94513da3f"
 metafile = true
@@ -1599,6 +1594,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
+metafile = true
+
+[[files]]
+file = "mods/stackablepotions.pw.toml"
+hash = "fdd1b059d59daa27b007f61c1a06a1f111c7b1bef511952106c26caf8744406c"
 metafile = true
 
 [[files]]
