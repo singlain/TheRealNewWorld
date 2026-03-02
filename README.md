@@ -1,71 +1,87 @@
 ![Main Modpack Header Image](https://cdn.modrinth.com/data/cached_images/c8353c600300f08858a1a258aad17a2f2aeddb7b.png)
+> What does one do when no modpack fits their perfect vision of the game? Exactly — makes their own modpack, spending hours upon hours testing each mod and tweaking every config to perfection.
+
+> Being a spiritual successor of my previous, long forgotten modpack I made for a server of friends - **The Real New World** was remade from ground up for **NeoForge** and had preserved the charm from its predecessor, along with some great additions and improvements.
 # Main Features 
-- **Balance and Progression Overhauls**
-- **Difficulty and Combat Overhauls**
+- **Progression Changes**
+- **Combat and Difficulty Overhauls**
+- **Rebalanced Transportation**
+- **Worldgen Overhaul**
 - **Sound and Atmosphere Improvements**
-- **Reworked World Generation**
-- **Transportation Rebalance**
+- **Create, Addons and Farmer's Delight**
 - **Tons of QoL Changes**
 - **...and more!**
-
-> _If you want something done right - do it yourself._ The driving force behind this modpack. Being a spiritual successor of my previous, long forgotten, two year old modpack I made for a server with friends - **The Real New World** was remade from ground up for **NeoForge** and had saved most of the charm from its predecessor.
-
-## Before You Install...
-- Make sure to allocate at least **4GB of RAM** to your instance!
-- Balancing and testing is **still ongoing**.
-- Chunk load times are **_slow_**.
-- Users with lower-end hardware may experience **_severe_** stuttering and server lag during first hour of gameplay due to terrain around being generated and the Distant Horizons mod generating distant chunnks, along with generating  separate LOD levels for them.
-
-## Balance and Progression Changes
+## Progression Changes
 
 <details>
 <summary>Spoiler</summary>
 
-> One of the primary focuses of this modpack was rebalance and progression; this modpack changes plenty of aspects of the vanilla game that were previously too overpowered so that players can consider also enjoying other aspects of the game.
-## Villager Trade Rebalance
-The [Villager Trade Rebalance](https://minecraft.wiki/w/Villager_Trade_Rebalance) experiment available in the world creation settings is now enabled by default. Among other balancing changes, you'll have to get over not being able to get 1-emerald deals or the best enchantment in the game available within the first 5 minutes of gameplay. From now on, get ready for those joys to be another milestone to achieve.
-## 80% Abandoned Villages
-Adding insult to injury - finding a village that wasn't massacred by a wave of zombies or a raid will now be a challenge; Now, either breed new types of villagers to get the desired Mending book, or reside to a good old adventure throughout the wonderful new world!
-## End Remastered
-Thanks to [End Remastered](https://modrinth.com/mod/endrem), even if you are able to locate the stronghold with an ender portal, you may no longer use the regular Eyes of Ender. Instead you'll have to explore the world's structures, finding the special eyes added by this mod to then use them in the End Portal instead. Cherry on top - you can't use an eye of one kind twice in the same End Portal! Travel the world and appreciate it's beauty - good luck!
+> One of the primary focuses of this modpack was rebalancing progression. It changes plenty of aspects of the vanilla game that were previously too overpowered so that players can consider also trying other aspects of the game. Main Changes include:
+
+- [Villager Trade Rebalance](https://minecraft.wiki/w/Villager_Trade_Rebalance) experiment is now ON by default, the most notable changes are the following:
+  - Mending is now only obtainable through the Swamp Librarian Villager.
+  - Unique weapon enchantments (Chanelling, Multishot, etc) are no longer sold through Villagers.
+  - Fixed Cured Villager discount stacking exploit.
+  - Wandering Traders now offer somewhat more fair deals.
+  - Rare Enchantment Books now spawn more often in the structures throughout the world.
+- [80% Abandoned Villages](https://modrinth.com/datapack/abandoned-villages), so that villages aren't as overabundant as before, plus, why not restore a village or two?
+- [Totems of Undying](https://modrinth.com/datapack/noraidtotems) no longer drop during Raids, making this item special again.
+- [End Remastered](https://modrinth.com/mod/endrem) disables regular Eyes of Ender from working in Ender Portals. Explore the world and find 12 unique Eyes of Ender to get to The End!
 
 </details>
 
-## Difficulty and Combat Overhauls
+## Combat and Difficulty Overhauls
 
 <details>
 <summary>Spoiler</summary>
 
-## Dungeon Difficulty
-[Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
-## Combat Overhaul
-Thanks to the marvelous [Better Combat](https://modrinth.com/mod/better-combat) mod, along with a fitting weapons from [Basic Weapons](https://modrinth.com/mod/basicweapons), fleshed out with the fine-tuned [Combat Nouveau](https://modrinth.com/mod/combat-nouveau) and further tweaking by yours truly, you get an amazing balance of fun and challenge, while maintaining the simplicity of the combat from Vanilla! Also, thanks to [Amendments](https://modrinth.com/mod/amendments), you can now throw Fireballs and Dragon Fireball (which are now craftable!).
-## Shoulder Surfing Reloaded
-With [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) Third Person Combat won't be as annoying as it used to be!
-## Tiny Skeletons
-[Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds a simple new mob - if there are baby zombies, why not baby skeletons?
+- Thanks to [Better Combat](https://modrinth.com/mod/better-combat) mod with a few hand-picked addons and further tweaking to the combat range and configs combat is now as follows:
+  - You can dual-wield most of the weapons in the game
+  - You can run and attack without the speed penalty
+  - Press **X** to feint (can only be used within a very short range after pressing the attack key)
+  - Fireballs and Dragon Charges (which are now craftable) [can be thrown](https://modrinth.com/mod/amendments).
+  - Rebalanced Hunger:
+    - Health regenerates every 2 seconds which requires more than 6 food points
+    - Food points will be directly consumed when healing
+    - Surplus saturation does not yield quick health regeneration
+    - Eating/Drinking is now interruped when receiving damage
+  - Potions can now be stacked up to 16 per stack
+    - All cooldowns for throwing potions have been removed
+    - Now it only takes 1 second to drink potions
+  - You can [throw knives](https://modrinth.com/mod/kitchen-projectiles) as you were to throw Tridients; Loyalty enchantment works too!
+- [New Weapons](https://modrinth.com/mod/basicweapons):
+    - Spear
+    - Quarterstaff
+    - Glaive
+    - Hammer
+    - Club
+    - Dagger
+- [Third person view](https://modrinth.com/mod/shoulder-surfing-reloaded) is now offset to make third person combat more enjoyable. Press **Z** to swap shoulders.
+- [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
+- [Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds baby skeletons.
+  - Regular baby skeletons are armed with both a bow and a wooden swords
+  - Baby Wither Skeletons have a chance of carrying a Wither Skull in their hands
+  - Stray Baby Skeletons will carry snow balls to throw at you
 
 </details>
 
-## Transportation Rebalance
+## Rebalanced Transportation
 
 <details>
 <summary>Spoiler</summary>
 
 > Some ways of transportation, railways, for example, haven't been updated to fit the modern Minecraft, making them obsolete over other methods of transportation like ice boats or elytras, so let me propose a solution...
-## Ice Boat Nerf
-No more boats traveling at 50 blocks per second! Nugh-ugh!
-## Darceno's Minecarts
-While Create's Trains are a thing, they require a lot of effort and resources to build than the regular railway, so thanks to [Darceno's Minecarts](https://modrinth.com/datapack/darcenos-minecarts), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
-## Horseman and the others
-[Horseman](https://modrinth.com/mod/horseman), along with [Kaffee's Dual Ride](https://modrinth.com/mod/kaffees_dual_ride) and [AstikorCarts](https://modrinth.com/mod/astikorcarts-redux) eliminates most of the annoyances of owning a horse in Minecraft, so from now on:
-- Horses can swim
-- Horses can fit two people
-- Horses can fit in boats
-- Horses won't get stuck in leaves
-- Horses can be used to transport goods and animals, along with an ability to quickly till fields using wagons from AstikorCarts.
-- Tamed horses won't wander away and can be called to player using Copper Horns
-- A special food item can make a tamed horse run 40% faster
+- [Nerfed Ice Boats](https://modrinth.com/mod/ice-boat-nerf)
+  - No more boats traveling at 50 blocks per second! Nugh-ugh!
+- Thanks to [Darceno's Minecarts](https://modrinth.com/datapack/darcenos-minecarts), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
+- [Horseman](https://modrinth.com/mod/horseman), along with [Kaffee's Dual Ride](https://modrinth.com/mod/kaffees_dual_ride) and [AstikorCarts](https://modrinth.com/mod/astikorcarts-redux) eliminates most of the annoyances of owning a horse in Minecraft, so from now on:
+  - Horses can swim
+  - Horses can fit two people
+  - Horses can fit in boats
+  - Horses won't get stuck in leaves
+  - Horses can be used to transport goods and animals, along with an ability to quickly till fields using wagons from AstikorCarts.
+  - Tamed horses won't wander away and can be called to player using Copper Horns
+  - A special food item can make a tamed horse run 40% faster
 
 </details>
 
@@ -74,22 +90,23 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <details>
 <summary>Spoiler</summary>
 
-
 > A simple, yet delightful combo of [Tectonic](https://modrinth.com/datapack/tectonic) and [Geophilic](https://modrinth.com/datapack/geophilic), further tweaked to feature the most pleasant and vast terrain imaginable make your time around here much more enjoyable.
 
 </details>
 
-## Sound and Atmosphere Overhauls
+## Sound and Atmosphere Improvements
 
 <details>
 <summary>Spoiler</summary>
 
 > These two points were very precisely tweaked, to gather the best combination of mods that will transform Minecraft into something truly beautiful. There are too many to list, but among the main ones there are:
 
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
-- [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundingsfabric)
-- [Enchanced Visuals](https://modrinth.com/mod/enhancedvisuals)
+- [Euphonium](https://modrinth.com/mod/euphonium)
+- [Subtle Effects](https://modrinth.com/mod/subtle-effects)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) (subtle camera effects)
+- [Enchanced Visuals](https://modrinth.com/mod/enhancedvisuals) (explosion blur and ear ringing; audible heartbeat when the health is low)
 
 </details>
 
@@ -98,27 +115,25 @@ While Create's Trains are a thing, they require a lot of effort and resources to
 <details>
 <summary>Spoiler</summary>
 
-
 > No modpack can live without these two these days, so on top of these two there are also some sweet additions:
 
-- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
-- [Create Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 - [Create Steam 'n' Rails (NeoForge)](https://modrinth.com/mod/create-steam-n-rails-1.21.1)
+- [Create Central Kitchen](https://modrinth.com/mod/create-central-kitchen)
+  - [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus)
+- [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics)
 
 </details>
 
-## Other Additions
+### Notes
+- This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there, except the Full screen and the max FPS options which are up to you to tweak.
+- The main issue performance-wise is the server tickrate. It **will** be pretty horrible when you create a new world, but as you explore it and generate new chunks, it will eventually wane.
+- Me and the team tried our best to make this modpack pefrorm well but regardless of our attempts, there will still be some server lag present, unless you remove the core mods of this modpack, which of course is not an option.
+- Regarding RAM, it is mandatory for you to allocate 4 GB RAM or more for this modpack; it's a good call to increase it up to **6 GB** or **8 GB** client-side. Stress tests have shown that server-side only needs about 4 GB of RAM to run mostly smoothly. If you experience server lags with complex builds, feel free to increase it.
+- By Default, Distant Horizons' world generator is disabled to reduce the CPU strain and load the LODs and the world gradually. Enabling therefore mentioned world generator will result in poor client performance, poor server performance or both.
+- It's best to find a place you want to generate the surroundings of nearby and then set the Distant Horizons' CPU setting to the maximum and AFK for a while. After that, set the CPU setting back to low or minimal to get the performance back. This is not a perfect solution however, as you'd still have to visit all the chunks you've generated to ensure the smoothest experience.
 
-<details>
-<summary>Spoiler</summary>
 
-- Thanks to [Amendments](https://modrinth.com/mod/6iTJugQR) and [Another Furniture](https://modrinth.com/mod/ulloLmqG) you'll have more functionality to the vanilla blocks and just a tiny amount of new decoration options to still keep you grounded and creative with your builds.
-- [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) and [Easy Magic](https://modrinth.com/mod/9hx3AbJM) make Enchanting and Repairing your tools much less of a struggle.
-- ...and more! There are still plenty of subtle changes that weren't listed here, so why not go and see for yourself? =)
-
-</details>
-
-## List of Mods
+## List of Mods (needs an update)
 
 <details>
 <summary>Mods</summary>
