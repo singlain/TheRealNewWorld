@@ -1,0 +1,13 @@
+name = "Totem of Undying Death Messages"
+filename = "totemdeathmessagesbon-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HpUX4N2X/versions/jzJdek0A/totemdeathmessagesbon-2.5.jar"
+hash-format = "sha512"
+hash = "6f465ab417ef45efeae7ddc2becf2a199e625e512cd343674302cbd93f7d8d3dcc52c746cb2d774c8b2c9028319afa527fe2b867c477fd8777534a682fe29e55"
+
+[update]
+[update.modrinth]
+mod-id = "HpUX4N2X"
+version = "jzJdek0A"

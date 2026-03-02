@@ -1,0 +1,13 @@
+name = "NoRaidTotems"
+filename = "NoRaidTotems_1.14.2-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kobHIeJw/versions/2YaifR4I/NoRaidTotems_1.14.2-1.21.x.jar"
+hash-format = "sha512"
+hash = "b77969d4eefff5fe705b361d4032003e3b21a73ee790414d23e74a30767f832d5552dc7c2efb34f62ef86f8c6b6a16d8a98231cf5914814801b08c0e7dea8f3f"
+
+[update]
+[update.modrinth]
+mod-id = "kobHIeJw"
+version = "2YaifR4I"

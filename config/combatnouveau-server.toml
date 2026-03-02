@@ -51,7 +51,7 @@ no_projectile_immunity = true
 [items]
 	#It only takes 20 ticks to drink liquid foods (such as potions, milk, and bottled liquids) instead of 32 or 40.
 	#Default Value: true
-	fast_drinking = false
+	fast_drinking = true
 	#Only damages axes by 1 durability instead of 2 when attacking so they properly be used as weapons.
 	#Default Value: true
 	no_axe_attack_penalty = false

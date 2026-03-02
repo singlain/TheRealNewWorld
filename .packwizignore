@@ -4,3 +4,6 @@
 /README.md
 /LICENSE
 /changelog.txt
+
+#ignore custom panoramas
+/panoramas/*
