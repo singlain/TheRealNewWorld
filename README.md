@@ -1,128 +1,303 @@
 ![Main Modpack Header Image](https://cdn.modrinth.com/data/cached_images/c8353c600300f08858a1a258aad17a2f2aeddb7b.png)
-> What does one do when no modpack fits their perfect vision of the game? Exactly — makes their own modpack, spending hours upon hours testing each mod and tweaking every config to perfection.
+> Too many mods to be Vanilla+ yet too few to be your average tech modpack.
 
-> Being a spiritual successor of my previous, long forgotten modpack I made for a server of friends - **The Real New World** was remade from ground up for **NeoForge** and had preserved the charm from its predecessor, along with some great additions and improvements.
 # Main Features 
-- **Progression Changes**
 - **Combat and Difficulty Overhauls**
+- **Progression Changes**
 - **Rebalanced Transportation**
-- **Worldgen Overhaul**
 - **Sound and Atmosphere Improvements**
+- **Worldgen Overhaul**
 - **Create, Addons and Farmer's Delight**
 - **Tons of QoL Changes**
 - **...and more!**
-## Progression Changes
-
-<details>
-<summary>Spoiler</summary>
-
-> One of the primary focuses of this modpack was rebalancing progression. It changes plenty of aspects of the vanilla game that were previously too overpowered so that players can consider also trying other aspects of the game. Main Changes include:
-
-- [Villager Trade Rebalance](https://minecraft.wiki/w/Villager_Trade_Rebalance) experiment is now ON by default, the most notable changes are the following:
-  - Mending is now only obtainable through the Swamp Librarian Villager.
-  - Unique weapon enchantments (Chanelling, Multishot, etc) are no longer sold through Villagers.
-  - Fixed Cured Villager discount stacking exploit.
-  - Wandering Traders now offer somewhat more fair deals.
-  - Rare Enchantment Books now spawn more often in the structures throughout the world.
-- [80% Abandoned Villages](https://modrinth.com/datapack/abandoned-villages), so that villages aren't as overabundant as before, plus, why not restore a village or two?
-- [Totems of Undying](https://modrinth.com/datapack/noraidtotems) no longer drop during Raids, making this item special again.
-- [End Remastered](https://modrinth.com/mod/endrem) disables regular Eyes of Ender from working in Ender Portals. Explore the world and find 12 unique Eyes of Ender to get to The End!
-
-</details>
+> Being a spiritual successor of my previous, long forgotten modpack I made for a server of friends - **The Real New World** was remade from ground up for **NeoForge** and had preserved the charm from its predecessor, along with some great additions and improvements Hundreds of hours went into carefully picking each mod and fine-tuning each config to result in the most balanced and fun experience!
 
 ## Combat and Difficulty Overhauls
 
 <details>
-<summary>Spoiler</summary>
+<summary>Better Combat</summary>
 
-- Thanks to [Better Combat](https://modrinth.com/mod/better-combat) mod with a few hand-picked addons and further tweaking to the combat range and configs combat is now as follows:
-  - You can dual-wield most of the weapons in the game
-  - You can run and attack without the speed penalty
+### Thanks to [Better Combat](https://modrinth.com/mod/better-combat) mod with a few hand-picked addons and further tweaking to the combat range and configs combat the most notable changes are:
+  - You can dual-wield most weapons in the game
   - Press **X** to feint (can only be used within a very short range after pressing the attack key)
-  - Fireballs and Dragon Charges (which are now craftable) [can be thrown](https://modrinth.com/mod/amendments).
-  - Rebalanced Hunger:
-    - Health regenerates every 2 seconds which requires more than 6 food points
-    - Food points will be directly consumed when healing
-    - Surplus saturation does not yield quick health regeneration
-    - Eating/Drinking is now interruped when receiving damage
+  - You can run and attack without the speed penalty _(modpack change!)_
+
+</details>
+
+<details>
+<summary>New Weapons</summary>
+
+#### [Basic Weapons](https://modrinth.com/mod/basicweapons) brings a wide array of new, fitting weapons to the game, further balanced and improved to not just be buffier versions of the classic options, but to be a playstyle options, rather than the most damage option. Among the new weapons there are:
+### - Glaive
+  - Perfect choice for The Reaper cosplayers. Swing left and right, up and down with a big reach at the cost of longer cooldowns between hits. Comes at the cost of not being able to use items in your off-hand while it's in the Main Hand.
+### - Spear
+  - Long range weapon that allows dealing with opponents without even being scratched while doing it. Comes at the cost of lower damage and slower attack speed.
+### - Hammer
+  - Does slightly more damage than the Glaive at the cost of being slower and having shorter range. Can also be dual wielded!
+### - Quarterstaff
+  - Having a decent range, attack speed, this weapon suffers from lower damage and not being able to use items in the off-hand while using it.
+### - Club
+  - Being Slightly tougher than the sword comes at the cost of a slower attack speed and not being able to use items in the off-hand.
+### - Dagger
+  - Arm yourself with a pair of those and stab your opponents at rabid rates. Has the fastest attack speed at the cost of having the shortest attack range and slightly lower damage than a regular sword.
+### - Knives
+  - While primarily used for chopping veggies at the kitchen, you can now throw them and use in both hands, just like the Daggers at the cost of slightly lower damage and attack speed that of the Daggers.
+  - Also enchantable with Multishot and Loyalty!
+
+</details>
+
+<details>
+<summary>Potions, Fireballs and Dragon Charges</summary>
+
+### Ever felt like all potions aside Water Breathing, Night Vision and _maybe_ Strength were useless? Ever wondered why do Fireballs even exist in the game? Think again!
   - Potions can now be stacked up to 16 per stack
-    - All cooldowns for throwing potions have been removed
-    - Now it only takes 1 second to drink potions
-  - You can [throw knives](https://modrinth.com/mod/kitchen-projectiles) as you were to throw Tridients; Loyalty enchantment works too!
-- [New Weapons](https://modrinth.com/mod/basicweapons):
-    - Spear
-    - Quarterstaff
-    - Glaive
-    - Hammer
-    - Club
-    - Dagger
-- [Third person view](https://modrinth.com/mod/shoulder-surfing-reloaded) is now offset to make third person combat more enjoyable. Press **Z** to swap shoulders.
-- [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
-- [Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds baby skeletons.
+  - Added one second cooldown to throwing potions
+  - Fireballs can now be thrown at a slightly slower speed than an egg or a snowball
+  - Dragon Charges follow the same logic, and now can also be crafted and be JUST AS DEADLY as they are during the Ender Dragon fight!
+
+</details>
+
+<details>
+<summary>Dungeon Difficulty</summary>
+
+### [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty) will make every dungeon you visit a challenge, the later in the game it is, the harder, no matter what gear you wear or how well you enchant it! But trust me - the reward is worth it.
+
+</details>
+
+<details>
+<summary>The Third Person View</summary>
+
+### [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) is now offset to make third person combat more enjoyable. Press **Z** to swap shoulders.
+
+</details>
+
+<details>
+<summary>Tiny Skeletons</summary>
+
+### [Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons/) adds, well... baby skeletons, among which there are:
   - Regular baby skeletons are armed with both a bow and a wooden swords
   - Baby Wither Skeletons have a chance of carrying a Wither Skull in their hands
   - Stray Baby Skeletons will carry snow balls to throw at you
 
 </details>
 
+## Progression Changes
+
+<details>
+<summary>Your New Journey to The End</summary>
+
+### [End Remastered](https://modrinth.com/mod/endrem) disables regular Eyes of Ender from working in Ender Portals. Explore the world and find 12 __(out of 16 available)__ unique Eyes of Ender to get to The End!
+
+</details>
+
+<details>
+<summary>Villager Trade Rebalance</summary>
+
+### [Villager Trade Rebalance](https://minecraft.wiki/w/Villager_Trade_Rebalance) experiment is now **ON** by default, the most notable changes are the following:
+  - Mending is now only obtainable through the Swamp Librarian Villager.
+  - Unique weapon enchantments (Chanelling, Multishot, etc) are no longer sold through Villagers.
+  - Fixed Cured Villager discount stacking exploit.
+  - Wandering Traders now offer somewhat more fair deals.
+  - Rare Enchantment Books now spawn more often in the structures throughout the world.
+
+</details>
+
+<details>
+<summary>Village Spawnrates</summary>
+
+### Added [80% Abandoned Villages](https://modrinth.com/datapack/abandoned-villages), so that villages aren't as overabundant as before, plus, why not restore a village or two?
+
+</details>
+
+<details>
+<summary>Totem Changes</summary>
+
+- Totems of Undying [no longer drop during Raids](https://modrinth.com/datapack/noraidtotems), making this item special again.
+
+</details>
+
 ## Rebalanced Transportation
 
 <details>
-<summary>Spoiler</summary>
+<summary>Ice Boats</summary>
 
-> Some ways of transportation, railways, for example, haven't been updated to fit the modern Minecraft, making them obsolete over other methods of transportation like ice boats or elytras, so let me propose a solution...
-- [Nerfed Ice Boats](https://modrinth.com/mod/ice-boat-nerf)
-  - No more boats traveling at 50 blocks per second! Nugh-ugh!
-- Thanks to [Darceno's Minecarts](https://modrinth.com/datapack/darcenos-minecarts), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
-- [Horseman](https://modrinth.com/mod/horseman), along with [Kaffee's Dual Ride](https://modrinth.com/mod/kaffees_dual_ride) and [AstikorCarts](https://modrinth.com/mod/astikorcarts-redux) eliminates most of the annoyances of owning a horse in Minecraft, so from now on:
+### [Nerfed Ice Boats!](https://modrinth.com/mod/ice-boat-nerf) No more boats traveling at 50 blocks per second! Go and build a railroad!
+
+</details>
+
+<details>
+<summary>Buffed Minecarts</summary>
+
+### Thanks to [Darceno's Minecarts](https://modrinth.com/datapack/darcenos-minecarts), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
+
+</details>
+
+
+<details>
+<summary>Umazing Horses</summary>
+
+### [Horseman](https://modrinth.com/mod/horseman), along with [Kaffee's Dual Ride](https://modrinth.com/mod/kaffees_dual_ride) and [AstikorCarts](https://modrinth.com/mod/astikorcarts-redux) eliminates most of the annoyances of owning a horse in Minecraft, so from now on:
   - Horses can swim
   - Horses can fit two people
   - Horses can fit in boats
   - Horses won't get stuck in leaves
   - Horses can be used to transport goods and animals, along with an ability to quickly till fields using wagons from AstikorCarts.
   - Tamed horses won't wander away and can be called to player using Copper Horns
-  - A special food item can make a tamed horse run 40% faster
+  - Horse Feed (Farmer's Delight) can make a tamed horse run 40% faster
 
 </details>
+
 
 ## Worldgen Overhaul
 
 <details>
-<summary>Spoiler</summary>
+<summary>Tectonic, Geophilic and Others</summary>
 
-> A simple, yet delightful combo of [Tectonic](https://modrinth.com/datapack/tectonic) and [Geophilic](https://modrinth.com/datapack/geophilic), further tweaked to feature the most pleasant and vast terrain imaginable make your time around here much more enjoyable.
+### A simple, yet delightful combo of [Tectonic](https://modrinth.com/datapack/tectonic) and [Geophilic](https://modrinth.com/datapack/geophilic), further tweaked to feature the most pleasant and vast terrain imaginable make your time around here much more enjoyable.
+
+### Also Backed up by YUNG's remade structure mods:
+  - [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+  - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP)
+  - [YUNG's Better Strongholds](modrinth.com/mod/kidLKymU`)
+  - [YUNG's Better End Island](https://modrinth.com/mod/yungs-better-end-island)
+
+## An example of the type of terrain you can expect in-game you can see right in the main menu's panorama screen ;)
 
 </details>
 
 ## Sound and Atmosphere Improvements
 
 <details>
-<summary>Spoiler</summary>
+<summary>Euphonium</summary>
+ 
+### [Euphonium](https://modrinth.com/mod/euphonium) is much more lightweight than the other ambient sound mods, adding everything you've come to expect from a mod like that. 
+#### See the preview by the mod author in the video below!
 
-> These two points were very precisely tweaked, to gather the best combination of mods that will transform Minecraft into something truly beautiful. There are too many to list, but among the main ones there are:
 
-- [Euphonium](https://modrinth.com/mod/euphonium)
-- [Subtle Effects](https://modrinth.com/mod/subtle-effects)
-- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
-- [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) (subtle camera effects)
-- [Enchanced Visuals](https://modrinth.com/mod/enhancedvisuals) (explosion blur and ear ringing; audible heartbeat when the health is low)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sxVLliizM3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
+
+
+<details>
+<summary>Sounds</summary>
+
+### [Sounds](https://modrinth.com/mod/sound) adds plenty of subtle audio effects to the game, primarily to the UI.
+#### See the official preview by the mod author in the video below!
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9H55Nxoc0uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</details>
+
+<details>
+<summary>Subtle Effects</summary>
+
+### [Subtle Effects](https://modrinth.com/mod/subtle-effects) expands the visual side of Minecraft by adding a ton of subtle particle effects and more that you'll surely notice yourself ;)
+#### See the official preview by the mod author in the video below!
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vzjLaJr7DMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</details>
+
+
+
+<details>
+<summary>Presence Footsteps</summary>
+
+### People often undersetimate the importance of the footstep sounds in the overall vibe and atmosphere. [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) expands on the footstep sounds.
+#### See the official preview by the mod author in the video below!
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uSZvsO3fyMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</details>
+
+
+
+<details>
+<summary>Distant Horizons</summary>
+
+### [Distant Horizons](https://modrinth.com/mod/distanthorizons) needs no introdction, the only balanced option to have an insane amounts of Render Distance and not have your PC burn.
+#### There is a brief manual in the Notes section on how to make this mod work without having to worry about stuttering and your CPU choking up.
+
+</details>
+
+
+
+<details>
+<summary>Camera Adjustments</summary>
+
+### While the base [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) mod would make most people dizzy on the 5th minute of play, in this modpack it was stripped down to only have:
+- An expressed effect of suddenly rotating 90°
+- Having player's screen shake during explosions
+- Other subtle camera effects
+
+</details>
+
+
+<details>
+<summary>Enchanced Visuals Mod</summary>
+
+### Base [Enchanced Visuals](https://modrinth.com/mod/enhancedvisuals) adds a ton of effects to the game that don't necessarily fit it, so as with therefore mentioned Camera Overhaul, this mod was also stripped down to feature only:
+- Screen blur during an explosion
+  - Followed by the ear ringing
+- Audible heartbeat sound alog with screen tearing when the health is low
+- Screen desaturation when the hunger level is low
+
+</details>
+
+
 
 ## Create, Addons and Farmer's Delight
 
 <details>
-<summary>Spoiler</summary>
+<summary>Create</summary>
 
-> No modpack can live without these two these days, so on top of these two there are also some sweet additions:
+### Needs no introduction whatsoever. If you somehow never heard of it check it out in the video below.
 
-- [Create Steam 'n' Rails (NeoForge)](https://modrinth.com/mod/create-steam-n-rails-1.21.1)
-- [Create Central Kitchen](https://modrinth.com/mod/create-central-kitchen)
-  - [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus)
-- [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rR8W-f9YhYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
+
+<details>
+<summary>Farmer's Delight</summary>
+
+### [Farmer's Delight](https://modrinth.com/mod/farmers-delight) is a mod that expands greatly on the cooking mechanic of Minecraft, most notable ones are:
+- Dozens of New Meals
+- New Crops:
+  - Tomatoes
+  - Cabbages
+  - Rice
+  - Onions
+- New Cooking Appliances:
+  - Stove
+  - Skillet (can also be used in combat!)
+  - Cooking Pot
+- ...and more!
+
+</details>
+
+
+<details>
+<summary>Create Addons</summary>
+
+### To further improve the base Create Mod and improve compatibility between Create and Farmer's Delight, a few addons were added:
+
+#### - [Create Steam 'n' Rails (NeoForge)](https://modrinth.com/mod/create-steam-n-rails-1.21.1)
+  - Expands upon the second most major factor of Create - Railways.
+#### - [Create Central Kitchen](https://modrinth.com/mod/create-central-kitchen)
+  - Adds a lot of intergration between Farmer's Delight and Create, read more on the mod's page!
+#### - [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus)
+  - Adds more capabilities for bulk procession.
+#### - [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics)
+  - Adds a new schematic type to Create to make building pattern-like structures more convenient.
+
+</details>
+
+
 
 ### Notes
 - This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there, except the Full screen and the max FPS options which are up to you to tweak.
