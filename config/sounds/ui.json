@@ -5,7 +5,7 @@
 		"enabledDynamic": true,
 		"id": "hotbarScroll",
 		"soundEvent": "minecraft:block.note_block.hat",
-		"shouldPlay": false
+		"shouldPlay": true
 	},
 	"hotbarPickSoundEffect": {
 		"pitch": 1.8,
@@ -32,7 +32,7 @@
 		"shouldPlay": true
 	},
 	"inventoryScrollSoundEffect": {
-		"shouldPlay": false,
+		"shouldPlay": true,
 		"pitch": 1.8,
 		"volume": 0.2,
 		"id": "inventoryScroll",
@@ -84,7 +84,7 @@
 		"enabledDynamic": true,
 		"id": "itemPick",
 		"soundEvent": "minecraft:block.stone.hit",
-		"shouldPlay": false
+		"shouldPlay": true
 	},
 	"ignoreEmptyHotbarSlots": false,
 	"itemSoundCooldown": 0.05,

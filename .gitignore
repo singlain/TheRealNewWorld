@@ -6,3 +6,8 @@
 
 # Exclude changelog.txt
 *changelog.txt
+
+# Exclude packwiz jars
+* packwiz-installer.jar
+* packwiz-installer-bootstrap.jar
+* pakku.jar

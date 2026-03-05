@@ -54,7 +54,7 @@ configVersion = 2
 
 	# Strength of the camera roll rotation caused by strafing, or sideway horizontal velocity.
 	# Default: 10.0
-	strafingRollFactor = 3.0
+	strafingRollFactor = 4.0
 	# Strength of camera pitch rotations caused by moving forward or backwards.
 	# Default: 7.0
 	forwardVelocityPitchFactor = 4.0

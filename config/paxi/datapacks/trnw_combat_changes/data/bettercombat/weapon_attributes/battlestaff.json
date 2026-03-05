@@ -1,6 +1,6 @@
 {
   "attributes": {
-    "range_bonus": 1,
+    "range_bonus": 0,
     "two_handed": true,
     "category": "battlestaff",
     "attacks": [
@@ -16,7 +16,7 @@
       },
       {
         "hitbox": "HORIZONTAL_PLANE",
-        "damage_multiplier": 1,
+        "damage_multiplier": 0.7,
         "angle": 180,
         "upswing": 0.5,
         "animation": "bettercombat:two_handed_slash_horizontal_left",
@@ -36,7 +36,7 @@
       },
       {
         "hitbox": "VERTICAL_PLANE",
-        "damage_multiplier": 1.4,
+        "damage_multiplier": 1.2,
         "angle": 160,
         "upswing": 0.5,
         "animation": "bettercombat:two_handed_slam",
@@ -46,7 +46,7 @@
       },
       {
         "hitbox": "FORWARD_BOX",
-        "damage_multiplier": 0.8,
+        "damage_multiplier": 0.7,
         "upswing": 0.5,
         "animation": "bettercombat:two_handed_stab_left",
         "swing_sound": {
@@ -55,7 +55,7 @@
       },
       {
         "hitbox": "FORWARD_BOX",
-        "damage_multiplier": 0.8,
+        "damage_multiplier": 0.7,
         "upswing": 0.5,
         "animation": "bettercombat:two_handed_stab_right",
         "swing_sound": {

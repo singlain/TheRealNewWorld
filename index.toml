@@ -26,7 +26,7 @@ hash = "270774d07e1741b38eb9a4a323677e03dd34e8dc6010563358e40cdd89b74525"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "8e34f98809a79162dd5520d87f0faa429239cff2f483dfac1bfc9c39b5f175a3"
+hash = "222698a644c32bb81bdac04eae75b40260c2ba2be557f03bbe0b05f5ae8dca70"
 
 [[files]]
 file = "config/bettercombat/server.json5"
@@ -58,7 +58,7 @@ hash = "6f9651e0ca2fbb2dcf4d1c046a75bc4e28e2d0ee83d43c099a50a8d968b48b3a"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
-hash = "c7eb0a3a327fb2d8fe72abff4c46fc9b74845d91f1b298140683a5196d6b036f"
+hash = "1475b5e69688ff2d7cce3878d2e017e86890dca484ad3ca3342f6e6e7c467e92"
 
 [[files]]
 file = "config/capes.json5"
@@ -69,16 +69,8 @@ file = "config/chatanimation.json"
 hash = "1c1acda5d77a5195bb2ddde74a4f187c5b86a3fc7be956ee187bba6513793793"
 
 [[files]]
-file = "config/combatnouveau-client.toml"
-hash = "6cba0dae7902f94fd5d4d6579eaa2a75897452d9ccf8c08111a19ca81cf04e31"
-
-[[files]]
-file = "config/combatnouveau-common.toml"
-hash = "1fe848042c11f13db1c0240639bf772053e0622df30738cced8aa1057ef65908"
-
-[[files]]
-file = "config/combatnouveau-server.toml"
-hash = "5c6b3b2363385d94faf9a89de92c5907e25961ce91e7cc4f3f5e2287957971db"
+file = "config/colorwheel-client.toml"
+hash = "a0dbf8a1a1930589874b5982755d9cc8b52c468ac7737e47f379990cda939e7e"
 
 [[files]]
 file = "config/connector.json"
@@ -118,7 +110,7 @@ hash = "5650f37aa50e0f3aa88ddd92d92d00ad2f844709deb7dd175450f87295eb7f44"
 
 [[files]]
 file = "config/dungeon_difficulty/difficulty_v2.json"
-hash = "e37135fa2b89d11684f889c8168a4bbbe0b7f2ae73c12be9068273a87fa08173"
+hash = "39d9c7448370ce707fcc9e4ce7da17adbcfe3c3b2163620bbfe9d5f623aa18fa"
 
 [[files]]
 file = "config/easyanvils-common.toml"
@@ -182,7 +174,7 @@ hash = "c449bc0fa1c9ba2606b23b28bc79828e20737ce69db70e18273b409013a6fca9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6fcda3436f7cf31872ac9216a02aec6cd0882c313cd2c66d65aae63017bc2c41"
+hash = "c08ec36524f2d5129aeaae00d03e971d404d21e7830ef46dd8b57fca02739702"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -237,94 +229,6 @@ file = "config/paxi/datapacks/Abandoned Villages.zip"
 hash = "a71f3efade3f266d031467172379a30ae0fe27387c1b98d31d32ed204bf78596"
 
 [[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_club.json"
-hash = "6d69bd697ea75a4ec11273e1f23c2ec3fe1f55b58990319db955f27c26fce9a5"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_dagger.json"
-hash = "7a67a74391f96c980afea3cb0625a994ba3cb6da8965cb1dd232e022cf089040"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_glaive.json"
-hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_hammer.json"
-hash = "c7fd50a1c3a033de6d1c24f7c3faf4ac79898ead24bd2a09655418ab002aaddc"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_quarterstaff.json"
-hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/basic_spear.json"
-hash = "c0d4c70035ec63cea7ac915fc9700adcedbdd7f8d53a920b5f3c2f36a7a98ef3"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/stone_glaive.json"
-hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/stone_spear.json"
-hash = "9bd427a8f8b698870e007cb34cff0b39eae0b1c23c7879ebdf734ba0f50abee9"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_glaive.json"
-hash = "37ea72cc848ea7eb5aa1fb44cec258510fb8b9d48ad986befd043ff118547f7b"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/basicweapons/weapon_attributes/wooden_spear.json"
-hash = "9bd427a8f8b698870e007cb34cff0b39eae0b1c23c7879ebdf734ba0f50abee9"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/axe.json"
-hash = "f7b2caece7474e5aa0f9445b598b644fbe68c9f12af953294b92345686025e54"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/battlestaff.json"
-hash = "ae18eeffe5c607dcf79f2c42631caa13cd1fa7bb75961ddeaa8e7062410bc915"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/dagger.json"
-hash = "8b49fc03f8253af9de9870b2654f8c988fc6d19eac1539324fb6a96e59f98502"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/double_axe.json"
-hash = "de99a0c2bf69a0f159b4680a49733a15892fded7e70afeb5b05d598c71b8a2d2"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/glaive.json"
-hash = "eddccace48d413c5c0301deea5f4fb4d0f657d9e0c6b43b3fe2c542e5c03d2f9"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/hammer.json"
-hash = "b5917f71e828063efc08e233cc2dcfdc1804bce733167f3c4d454c88adc8df9c"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/mace.json"
-hash = "c04fd310c118257ccea1982f5cc7cbd69334f48a76d1cf8f0d4467547cc52863"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/spear.json"
-hash = "c745873dae9eff437c8c6db0b73b64eb0b6e2867d74ba56c9e70016e22e818b0"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/sword.json"
-hash = "6456e8f840d373246a9a6b1bce7b85fcc1107444b39cba290b3ca1e85f92b7ed"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/trident.json"
-hash = "4fa56ae100530e0235f96a7e86d043a930790f1386985880d5254f24267f18bc"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/data/bettercombat/weapon_attributes/vanilla_mace.json"
-hash = "7c03eb614f5378f1f488a7dc947b23d50754edff922ae96578046ae2a783e962"
-
-[[files]]
-file = "config/paxi/datapacks/attack_range_nerf/pack.mcmeta"
-hash = "aa280f61445e162171929ad7c25502a8f3d6aa2e773140eef03b334fb06255e1"
-
-[[files]]
 file = "config/paxi/datapacks/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
 hash = "c0427aa39217e52393a3c42a209f676f5151db0990acf6dcced180406baf803f"
 
@@ -335,38 +239,6 @@ hash = "19e4bed6f87968000521570f66463fb866ea15f873ac96f807aebe67898efe4a"
 [[files]]
 file = "config/paxi/datapacks/bundle/pack.mcmeta"
 hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_beetroots.json"
-hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_cabbages.json"
-hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_carrots.json"
-hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_onions.json"
-hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_potatoes.json"
-hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_rice.json"
-hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_tomatoes.json"
-hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
-
-[[files]]
-file = "config/paxi/datapacks/farmers_delight_disable_wild_crops/pack.mcmeta"
-hash = "c493de80da34bfe6bff4da3e8e049622879c7e4dbf5a6f0296def9615f9bf4cf"
 
 [[files]]
 file = "config/paxi/datapacks/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_boots_4.json"
@@ -621,6 +493,126 @@ file = "config/paxi/datapacks/trade_rebalance/pack.mcmeta"
 hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/basic_club.json"
+hash = "6d69bd697ea75a4ec11273e1f23c2ec3fe1f55b58990319db955f27c26fce9a5"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/basic_dagger.json"
+hash = "8387cdcf358a39aa0d7ada6e2198c81a3b9abd4ebae8ff1238d81e2e0869d16c"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/basic_glaive.json"
+hash = "95e6c07f9f68202758db65d1dba6aaddede20d704f8fb9218699e9497392e84d"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/basic_hammer.json"
+hash = "841d04563c195df6d5c5aa7893a25a70d1a710bcf0695906f728da175887a66f"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/basic_quarterstaff.json"
+hash = "e489f8a4ad0a3de2ba6f5654528b5863f4683c20c601381b8fe160cb10e5f546"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/basic_spear.json"
+hash = "c0d4c70035ec63cea7ac915fc9700adcedbdd7f8d53a920b5f3c2f36a7a98ef3"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/stone_glaive.json"
+hash = "2f52318999a613a0535f436115b3491920efabd75218a109b32dda1bfa88f3c5"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/stone_spear.json"
+hash = "9bd427a8f8b698870e007cb34cff0b39eae0b1c23c7879ebdf734ba0f50abee9"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/wooden_glaive.json"
+hash = "95890737299055e7c9c873d0a94d4cf5cfbc16b1f59ce2df287fffabd7f9921e"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/basicweapons/weapon_attributes/wooden_spear.json"
+hash = "9bd427a8f8b698870e007cb34cff0b39eae0b1c23c7879ebdf734ba0f50abee9"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/axe.json"
+hash = "f7b2caece7474e5aa0f9445b598b644fbe68c9f12af953294b92345686025e54"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/battlestaff.json"
+hash = "b6b74f40bfb3cf92d9fff064fb0cc989b9fc19b2a6746e4e07e920b7e21792fc"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/dagger.json"
+hash = "8b49fc03f8253af9de9870b2654f8c988fc6d19eac1539324fb6a96e59f98502"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/double_axe.json"
+hash = "de99a0c2bf69a0f159b4680a49733a15892fded7e70afeb5b05d598c71b8a2d2"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/glaive.json"
+hash = "e0eb78f81a5dcac1f638dd331593aa6783fd21a31e7c7619954d8cedf5b35eac"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/hammer.json"
+hash = "7e84c7dcb49b66186a916c9755befbeccf8aaab8ab50e3e9b381565b73e7eeaa"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/mace.json"
+hash = "0dcab44f6870f4fdd5d64e6f494936216872b59c75e6b2c837ea331fac792776"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/spear.json"
+hash = "20a610fe87aeed6b9e390459cbf86ca331e5f2e7c1b77a94cf08eb5cdfc4a0b5"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/sword.json"
+hash = "6456e8f840d373246a9a6b1bce7b85fcc1107444b39cba290b3ca1e85f92b7ed"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/trident.json"
+hash = "4fa56ae100530e0235f96a7e86d043a930790f1386985880d5254f24267f18bc"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/data/bettercombat/weapon_attributes/vanilla_mace.json"
+hash = "7c03eb614f5378f1f488a7dc947b23d50754edff922ae96578046ae2a783e962"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_combat_changes/pack.mcmeta"
+hash = "515adc9afacc3386c9bce431a1645ba8aecaa350085648ee7da36c67d82a85da"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_beetroots.json"
+hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_cabbages.json"
+hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_carrots.json"
+hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_onions.json"
+hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_potatoes.json"
+hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_rice.json"
+hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/data/farmersdelight/neoforge/biome_modifier/wild_tomatoes.json"
+hash = "27f83930b3b91d981f7a90e097d91ca92216abc84c51e6c3374b14f6da942f03"
+
+[[files]]
+file = "config/paxi/datapacks/trnw_farmers_delight_disable_wild_crops/pack.mcmeta"
+hash = "c493de80da34bfe6bff4da3e8e049622879c7e4dbf5a6f0296def9615f9bf4cf"
+
+[[files]]
 file = "config/pfm.json"
 hash = "3ad5e98a7623f3f3f3c0b39a7be5ae7f16099d7c3a25039db91603edd84da4a1"
 
@@ -686,7 +678,7 @@ hash = "73bbae09724ff8b670c902211f355b73101fbe5e144c6134174ca84e49371818"
 
 [[files]]
 file = "config/sounds/ui.json"
-hash = "d1cd915aa656dc3f0e7282af99affbd8994b155e3ea7922e1a6d29b92cfa6e68"
+hash = "bf96b51f4e59e6782475b63f0b98db228fb7e3c621e140c4a067d36f784da7cf"
 
 [[files]]
 file = "config/sounds/world.json"
@@ -947,8 +939,13 @@ hash = "cc4e27df16cf39df1bf1d2b129403480060ef8c33f57fea6abeb3ea4d915274d"
 metafile = true
 
 [[files]]
-file = "mods/combat-nouveau.pw.toml"
-hash = "d561023ec46605245b614b96849d49a2b54eef5418fc97fe155814b8bbabe10d"
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "4416c1911dac506eed6162e8b66c966baec9bbb1e38ee9bc8570eac797d405f3"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "bc5ed6e4eb431bb63fbc0bc221357f02866e64444a66bb1f9089bc9163bb71c9"
 metafile = true
 
 [[files]]
@@ -1044,6 +1041,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+metafile = true
+
+[[files]]
+file = "mods/distinguished-potions.pw.toml"
+hash = "fa1ff0b4d2c6fc9c26b74ba4b06d30f1e6d77763c6e2823b42fb2c08f5b72f13"
 metafile = true
 
 [[files]]
@@ -1244,11 +1246,6 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "54719c957e6fade3f0a5a4fe7291d99d202523ce4316534000805e5044430229"
 metafile = true
 
 [[files]]
@@ -1563,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
-hash = "07dfcb55d64df74d004cea2745129ac9f8316472b14d38e5da2d405ddfdfbca2"
+hash = "56be38c77315d33f5f7128041761d7388b28182d6249210dc3cdc5b1622a4c59"
 metafile = true
 
 [[files]]

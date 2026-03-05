@@ -5,7 +5,7 @@
     "merge_item_modifiers": true
   },
   "announcement": {
-    "enabled": false,
+    "enabled": true,
     "check_interval_seconds": 5,
     "history_size": 2
   },
@@ -196,7 +196,7 @@
         },
         {
           "zone_matches": {
-            "biome": "~desert|frozen|snowy|ice|jungle"
+            "biome": "frozen|snowy|ice"
           },
           "difficulty": {
             "name": "adventure",
