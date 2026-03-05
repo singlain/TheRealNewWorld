@@ -1,4 +1,4 @@
-![Main Modpack Header Image](https://cdn.modrinth.com/data/cached_images/c8353c600300f08858a1a258aad17a2f2aeddb7b.png)
+![Header Logo](https://cdn.modrinth.com/data/cached_images/2707fbfc2bb53aa49f938cd8e87833294353664f_0.webp)
 > Too many mods to be Vanilla+ yet too few to be your average tech modpack.
 
 # Main Features 
@@ -28,20 +28,35 @@
 <summary>New Weapons</summary>
 
 #### [Basic Weapons](https://modrinth.com/mod/basicweapons) brings a wide array of new, fitting weapons to the game, further balanced and improved to not just be buffier versions of the classic options, but to be a playstyle options, rather than the most damage option. Among the new weapons there are:
-### - Glaive
-  - Perfect choice for The Reaper cosplayers. Swing left and right, up and down with a big reach at the cost of longer cooldowns between hits. Comes at the cost of not being able to use items in your off-hand while it's in the Main Hand.
-### - Spear
-  - Long range weapon that allows dealing with opponents without even being scratched while doing it. Comes at the cost of lower damage and slower attack speed.
-### - Hammer
-  - Does slightly more damage than the Glaive at the cost of being slower and having shorter range. Can also be dual wielded!
-### - Quarterstaff
-  - Having a decent range, attack speed, this weapon suffers from lower damage and not being able to use items in the off-hand while using it.
-### - Club
-  - Being Slightly tougher than the sword comes at the cost of a slower attack speed and not being able to use items in the off-hand.
-### - Dagger
-  - Arm yourself with a pair of those and stab your opponents at rabid rates. Has the fastest attack speed at the cost of having the shortest attack range and slightly lower damage than a regular sword.
-### - Knives
-  - While primarily used for chopping veggies at the kitchen, you can now throw them and use in both hands, just like the Daggers at the cost of slightly lower damage and attack speed that of the Daggers.
+
+## Glaive
+#### Perfect choice for The Reaper cosplayers. Swing left and right, up and down with a big reach at the cost of longer cooldowns between hits. Comes at the cost of not being able to use items in your off-hand while it's in the Main Hand.
+![Glaive in Action](https://i.imgur.com/6OQThQy.gif)
+
+## Spear
+#### Long range weapon that allows dealing with opponents without even being scratched while doing it. Comes at the cost of lower damage and slower attack speed.
+![Spear in Action](https://i.imgur.com/TjLzSNR.gif)
+
+## Hammer
+#### Does slightly more damage than the Glaive at the cost of being slower and having shorter range. Can also be dual wielded!
+![Hammer in Action](https://i.imgur.com/xswZNRn.gif)
+
+
+## Quarterstaff
+#### Having a decent range, attack speed, this weapon suffers from lower damage and not being able to use items in the off-hand while using it.
+![Quarterstaff in Action](https://i.imgur.com/spXUoqP.gif)
+
+## Club
+#### Being Slightly tougher than the sword comes at the cost of a slower attack speed and not being able to use items in the off-hand.
+![Club in Action](https://i.imgur.com/8Rzg9oA.gif)
+
+## Dagger
+#### Arm yourself with a pair of those and stab your opponents at rabid rates. Has the fastest attack speed at the cost of having the shortest attack range and slightly lower damage than a regular sword.
+![Daggers in Action](https://i.imgur.com/5Vj7LK0.gif)
+
+## Knives
+#### While primarily used for chopping veggies at the kitchen, you can now throw them and use in both hands, just like the Daggers at the cost of slightly lower damage and attack speed that of the Daggers.
+ ![Knives in Action](https://i.imgur.com/Flc6DYp.gif)
   - Also enchantable with Multishot and Loyalty!
 
 </details>
@@ -68,6 +83,8 @@
 <summary>The Third Person View</summary>
 
 ### [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded) is now offset to make third person combat more enjoyable. Press **Z** to swap shoulders.
+
+![Shoulder Surfing in Action](https://i.imgur.com/H52wEin.gif)
 
 </details>
 
