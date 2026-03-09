@@ -1,0 +1,13 @@
+name = "TAA-Distant Horizons port"
+filename = "TAA 3.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sdBzRG7h/versions/hByD4Pf9/TAA%203.1.zip"
+hash-format = "sha512"
+hash = "78040bf170f845c7aa99df38350a0e922fb17459f939f4e3e37a1f96828f223dda989137e9677434f03ff0dfc8b12d4fd0f3a45646d19c4bcc48bd81243e8582"
+
+[update]
+[update.modrinth]
+mod-id = "sdBzRG7h"
+version = "hByD4Pf9"

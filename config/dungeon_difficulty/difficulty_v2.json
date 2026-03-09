@@ -1,16 +1,16 @@
 {
   "meta": {
-    "sanitize_config": true,
+    "sanitize_config": false,
     "rounding_unit": 0.5,
     "merge_item_modifiers": true
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "check_interval_seconds": 5,
     "history_size": 2
   },
   "per_player_difficulty": {
-    "enabled": true,
+    "enabled": false,
     "counting": "EVERYWHERE",
     "cap": 10,
     "entities": [

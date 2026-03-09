@@ -1,17 +1,12 @@
-filename = 'moonlight-1.21-2.29.16-neoforge.jar'
-name = 'Moonlight Lib'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21-2.29.16-neoforge'
+name = "Moonlight Lib"
+filename = "moonlight-1.21-2.29.20-neoforge.jar"
 
 [download]
-hash = '563f277c5876cc9e0e4ddf04658c130efe257dba2ac827c37f530d746c9033b9e75a799ebf1b65076c65dbc2d33eab225fd54fd123c9fa84a8a7fffa9ea4569c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/xnc12XKg/moonlight-1.21-2.29.16-neoforge.jar'
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/X7j32itX/moonlight-1.21-2.29.20-neoforge.jar"
+hash-format = "sha512"
+hash = "29889fe15f80fbc3f1793289572a8c9dad15d4439a81ac8db5f1ab3b6d347877fc403c96a2021869f24df6f8c2af35b7160bd548a258004f3e59799da4864297"
 
+[update]
 [update.modrinth]
-mod-id = 'twkfQtEc'
-version = 'xnc12XKg'
+mod-id = "twkfQtEc"
+version = "X7j32itX"

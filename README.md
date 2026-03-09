@@ -1,7 +1,7 @@
-![Header Logo](https://cdn.modrinth.com/data/cached_images/2707fbfc2bb53aa49f938cd8e87833294353664f_0.webp)
-> Too many mods to be Vanilla+ yet too few to be your average tech modpack.
+![Header Logo 2](https://cdn.modrinth.com/data/cached_images/e01f9239aea28e26ef0da26dd00babd1528a746b_0.webp)
+#### _Too many mods to be Vanilla+ yet too few to be your average tech modpack._
 
-# Main Features 
+# Features
 - **Combat and Difficulty Overhauls**
 - **Progression Changes**
 - **Rebalanced Transportation**
@@ -10,6 +10,7 @@
 - **Create, Addons and Farmer's Delight**
 - **Tons of QoL Changes**
 - **...and more!**
+  
 > Being a spiritual successor of my previous, long forgotten modpack I made for a server of friends - **The Real New World** was remade from ground up for **NeoForge** and had preserved the charm from its predecessor, along with some great additions and improvements Hundreds of hours went into carefully picking each mod and fine-tuning each config to result in the most balanced and fun experience!
 
 ## Combat and Difficulty Overhauls
@@ -71,10 +72,26 @@
 ### Ever felt like all potions aside Water Breathing, Night Vision and _maybe_ Strength were useless? Ever wondered why do Fireballs even exist in the game? Think again!
   - Potions can now be stacked up to 16 per stack
   - Added one second cooldown to throwing potions
-  - Fireballs can now be thrown at a slightly slower speed than an egg or a snowball
+  - Tipped Arrows can now be made using Cauldrons
+  - Fireballs can now be thrown
   - Dragon Charges follow the same logic, and now can also be crafted and be JUST AS DEADLY as they are during the Ender Dragon fight!
 
 </details>
+
+
+<details>
+<summary>Wither Buff</summary>
+
+### Wither on Java Edition is more of a punching bag than anything, while on Bedrock Edition Wither is an opponent sometimes even tougher than the Ender Dragon, so thanks to [BE Style Wither](https://modrinth.com/mod/be-style-wither) you may face the challenge!
+
+- Wither has double the amount of health
+- Wither shoots blue wither skills more
+- Wither will explode once more and start summoning wither skeletons once its health is less than the half
+- Wither now explodes when it dies
+
+</details>
+
+
 
 <details>
 <summary>Dungeon Difficulty</summary>
@@ -223,8 +240,6 @@
 
 </details>
 
-
-
 <details>
 <summary>Presence Footsteps</summary>
 
@@ -236,8 +251,6 @@
 
 </details>
 
-
-
 <details>
 <summary>Distant Horizons</summary>
 
@@ -245,8 +258,6 @@
 #### There is a brief manual in the Notes section on how to make this mod work without having to worry about stuttering and your CPU choking up.
 
 </details>
-
-
 
 <details>
 <summary>Camera Adjustments</summary>
@@ -319,6 +330,82 @@
 
 </details>
 
+## Other Changes
+
+<details>
+<summary>Another Furniture</summary>
+
+#### [Anoter Furniture](https://modrinth.com/mod/another-furniture) is a simple mod furniture that adds only what's necessary:
+- Chairs
+- Tables
+- Benches
+- Sofas
+- Stools
+- Bar Stools
+- Lamps
+- Flower Boxes
+- Shelves
+- Curtains
+- Drawers
+- Shutters
+
+</details>
+
+
+<details>
+<summary>More Uses for Vanilla Blocks</summary>
+
+#### [Amendments](https://modrinth.com/mod/amendments) adds a ton of functionality to Vanilla blocks, the most notable ones are:
+- You can now stack cakes
+- You can put carpets on stairs and slabs
+- Cauldron
+  - You can now dye water like in Bedrock Edition and use it to dye any items
+- You can now hang Flower Pots and Banners from the ceiling
+- You can now put Lanterns on walls
+- You can now place blocks on top of Lily Pads
+- Skulls and Mob Heads
+  - You can now stack mob heads and skulls
+    - You can also put candles on top of them
+- ...and more!
+
+</details>
+
+<details>
+<summary>Easy Magic</summary>
+
+- Enchantment Reroll! 
+  - For five points of experience and one piece of Lapis Lazuli
+- Chiseled Bookshelves can now be used to empower the Enchanting Table
+  - You need three books for Chiseled Bookshelf to contribute to the empowerment
+
+</details>
+
+<details>
+<summary>Easy Anvils</summary>
+
+- "Too Expensive!" is gone
+  - Feel free to apply as many enchantments as you want; Just make sure to bring enough levels :>
+- Name Tags are now craftable
+- Renaming Items on an Anvil is now Free
+- Halved the cost for applying enchantments on an Anvil
+
+</details>
+
+</details>
+
+<details>
+<summary>Scholar Mod</summary>
+
+#### Ever feel like writing but the default book writing system in Minecraft is too underwhelming? [Scholar](https://modrinth.com/mod/scholar) might be the one you're looking for! New, overhauled books include:
+
+- Two-page view of the book you're reading/writing like on Bedrock Edition
+- Import / Export your books as .txt
+- Quick and Easy formatting options for any written text
+- Dye Books with any color
+  - Proper colors along with a stored book tooltip are also displayed on the Chiseled Bookshelves!
+
+</details>
+
 # Notes
 
 ## Regarding Distant Horizons
@@ -376,8 +463,9 @@
 - [Another Furniture](https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
-- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation
+- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation\# The description of the mod\. This is a simple multiline text string that is used for display purposes in the mod list\.
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
+- [BE Style Wither](https://modrinth.com/mod/OkmRZ5fH) by MORIMORI0317
 - [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
 - [Basic Weapons](https://modrinth.com/mod/sc2Pektv) by Khazoda
 - [Beautiful Enchanted Books](https://modrinth.com/mod/pcqEicMM) by CerbonXD
@@ -390,11 +478,11 @@
 - [Better World Loading](https://modrinth.com/mod/bmOyRapU) by H1ggsK
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) by Darkhax
 - [Bridging Mod](https://modrinth.com/mod/lO3s8hjs) by CG360
-- [CIT Resewn](https://modrinth.com/mod/otVJckYQ) by SHsuperCM
+- [CIT Resewn](https://citresewn.shcm.io/) by SHsuperCM
 - [CITResewnNeoPatcher](https://modrinth.com/mod/yYE9h4iu)
 - [CameraOverhaul](https://modrinth.com/mod/m0oRwcZx) by Mirsario
 - [Capes](https://modrinth.com/mod/89Wsn8GD) by Cael
-- [Catalogue](https://mrcrayfish.com/mods?id=catalogue) by MrCrayfish
+- [Catalogue](https://www.curseforge.com/projects/459701) by MrCrayfish
 - [Centered Crosshair](https://modrinth.com/mod/xUTHly0N) by JustAlittleWolf
 - [Chalk](https://modrinth.com/mod/YWGP4Y1d) by mortuusars
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
@@ -405,7 +493,7 @@
 - [Colorwheel](https://modrinth.com/mod/BzHgFoGz) by djefrey
 - [Colorwheel Patcher](https://modrinth.com/mod/KPsw5jDu) by djefrey
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR) by RelativityMC, ishland
-- [Configured](https://mrcrayfish.com/mods?id=configured) by MrCrayfish
+- [Configured](https://www.curseforge.com/projects/457570) by MrCrayfish
 - [Connector Extras](https://modrinth.com/mod/FYpiwiBR) by Su5eD
 - [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
 - [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
@@ -424,7 +512,6 @@
 - [Death Finder](https://modrinth.com/mod/wNxIBREV) by Fuzs
 - [Delete Worlds To Trash](https://modrinth.com/mod/7diJQfvM) by Fuzs
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
-- [Distinguished Potions](https://modrinth.com/mod/lX1xTFBZ) by Fuzs
 - [Drip Sounds](https://modrinth.com/mod/T8MMXTpr) by PieKing1215
 - [Dungeon Difficulty](https://modrinth.com/mod/ENZmbSFZ) by Daedelus
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665 & LostLuma
@@ -432,7 +519,8 @@
 - [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
-- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge/files/5567664) by Matyrobbrt
+- [Eating Animation](https://modrinth.com/mod/X8CISwXp) by Matyrobbrt
+- [Enchanted Bookshelves](https://modrinth.com/mod/CIfCvYLI) by boyonk
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -445,11 +533,11 @@
 - [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) by Kneelawk, abbie, KirboEatsFood
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) by vectorwing
-- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) by Shadows of Fire
+- [Fast Workbench](https://www.curseforge.com/projects/288885) by Shadows\_of\_Fire
 - [Fastquit](https://modrinth.com/mod/itFaO2Tg) by KingContaria, Kaleb Langley
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) by Sinytra, FabricMC
-- [Framework](https://mrcrayfish.com/mods?id=framework) by MrCrayfish
+- [Framework](https://www.curseforge.com/projects/549225) by MrCrayfish
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
 - [Geophilic](https://modrinth.com/mod/hl5OLM95) by bebebea\_loste
 - [Golden Apple Recipe Back](https://modrinth.com/mod/FJjunGFx) by Arthur Orsi
@@ -464,7 +552,6 @@
 - [Immersive Thunder](https://modrinth.com/mod/uKjKoMsj) by netcatgirl
 - [Immersive Winds](https://modrinth.com/mod/smYLXoRt) by Vibzz
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
-- [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) by Leon
 - [Item Borders](https://modrinth.com/mod/b1fMg6sH) by Grend
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
 - [Kaffee's Dual Ride](https://modrinth.com/mod/dv1QW2PN) by Kaffee
@@ -478,7 +565,7 @@
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) by 2No2Name, JellySquid
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) by Apollo
 - [Log Begone](https://modrinth.com/mod/9ON3zv6e) by AzureDoom
-- [M.R.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 \(mineblock11\)
+- [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 \(mineblock11\)
 - [MaFgLib](https://modrinth.com/mod/SKI34J7B) by TexTrue, CagayakeGirls
 - [Main Menu Credits](https://modrinth.com/mod/qJDfP7WN) by isXander
 - [MidnightLib](https://modrinth.com/mod/codAaoxh) by TeamMidnightDust, Motschen
@@ -505,10 +592,11 @@
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Paxi](https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
-- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) by Shadows_of_Fire
+- [Placebo](https://www.curseforge.com/projects/283644) by Shadows\_of\_Fire
 - [Player Animator](https://modrinth.com/mod/gedNE4y2) by KosmX
 - [Polymorph](https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 - [Polytone](https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
+- [Potion Cauldron](https://github.com/maxoduke/Potion-Cauldron) by Maxoduke
 - [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) by Hurricaaane \(Ha3\), Sollace
 - [PrickleMC](https://modrinth.com/mod/aaRl8GiW) by Darkhax
 - [Prism](https://modrinth.com/mod/1OE8wbN0) by Grend
@@ -517,6 +605,7 @@
 - [Recipe Fixer](https://modrinth.com/mod/Nmc13D4j) by Mysticpasta1, TonimatasDEV
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
+- [Scholar](https://modrinth.com/mod/fX4dIQCo) by mortuusars
 - [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) by comp500
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/kepjj2sy) by Exopandora
@@ -540,9 +629,11 @@
 - [ToastBegone](https://modrinth.com/mod/g8reZf3x) by Raxdiam
 - [Totem of Undying Death Messages](https://modrinth.com/mod/HpUX4N2X) by n\_bonnie2
 - [Universal Bone Meal](https://modrinth.com/mod/66VIiT1y) by Fuzs
+- [Updating World Icon](https://modrinth.com/mod/ZlX3EVmE) by CursedFlames
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) by Fuzs
 - [Void Totem](https://modrinth.com/mod/q6eiiQ07) by Affehund
 - [What Are They Up To](https://modrinth.com/mod/AtB5mHky) by Corosus
+- [World Play Time](https://modrinth.com/mod/YkKeggdl) by Khajiitos
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) by YUNGNICKYOUNG
 - [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) by YUNGNICKYOUNG
@@ -559,7 +650,6 @@
 
 - [Vanilla Tweaks](https://vanillatweaks.net/) by Vanilla Tweaks Team
 - [C418 Songs Only](https://modrinth.com/resourcepack/c418-songs-only) by redsquare
-- [Extended illumina(3D lantern and torch)](https://modrinth.com/mod/qznifDTe) by Ilyastik
 
 </details>
 

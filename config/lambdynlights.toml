@@ -45,7 +45,7 @@ chunk_rebuild_scheduler = "culling"
 				silverfish = true
 				giant = true
 				drowned = true
-				item = true
+				item = false
 				goat = true
 				horse = true
 				vindicator = true
@@ -171,6 +171,9 @@ chunk_rebuild_scheduler = "culling"
 				reaper = true
 				seed_drill = true
 
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+
 			[light_sources.settings.entities.create]
 				carriage_contraption = true
 				seat = true
@@ -189,6 +192,9 @@ chunk_rebuild_scheduler = "culling"
 
 			[light_sources.settings.entities.another_furniture]
 				seat = true
+
+			[light_sources.settings.entities.kitchenprojectiles]
+				knife = true
 
 			[light_sources.settings.entities.railways]
 				conductor = true

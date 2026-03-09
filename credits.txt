@@ -8,11 +8,12 @@ Animatica (https://modrinth.com/mod/PRN43VSY) by FoundationGames
 Another Furniture (https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
 AppleSkin (https://modrinth.com/mod/EsAfCjCV) by squeek
 Architectury (https://modrinth.com/mod/lhGA9TYQ) by shedaniel
-Armour Sound Tweak Updated (https://modrinth.com/mod/zN5Zb52E) by mr_chumbucket
 AstikorCarts Redux (https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation# The description of the mod. This is a simple multiline text string that is used for display purposes in the mod list.
 AttributeFix (https://modrinth.com/mod/lOOpEntO) by Darkhax
+BE Style Wither (https://modrinth.com/mod/OkmRZ5fH) by MORIMORI0317
 Balm (https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
 Basic Weapons (https://modrinth.com/mod/sc2Pektv) by Khazoda
+Beautiful Enchanted Books (https://modrinth.com/mod/pcqEicMM) by CerbonXD
 Better Advancements (https://modrinth.com/mod/Q2OqKxDG) by way2muchnoise
 Better Babies (https://modrinth.com/mod/W9qgAZfz) by GenMode
 Better Biome ReBlend (https://modrinth.com/mod/Xh8hkQmD) by FionaTheMortal, UTMG
@@ -22,28 +23,32 @@ Better Statistics Screen (https://modrinth.com/mod/n6PXGAoM) by TheCSDev
 Better World Loading (https://modrinth.com/mod/bmOyRapU) by H1ggsK
 Bookshelf (https://modrinth.com/mod/uy4Cnpcm) by Darkhax
 Bridging Mod (https://modrinth.com/mod/lO3s8hjs) by CG360
-CIT Resewn (https://modrinth.com/mod/otVJckYQ) by SHsuperCM
+CIT Resewn (https://citresewn.shcm.io/) by SHsuperCM
 CITResewnNeoPatcher (https://modrinth.com/mod/yYE9h4iu)
 CameraOverhaul (https://modrinth.com/mod/m0oRwcZx) by Mirsario
 Capes (https://modrinth.com/mod/89Wsn8GD) by Cael
 Catalogue (https://www.curseforge.com/projects/459701) by MrCrayfish
+Centered Crosshair (https://modrinth.com/mod/xUTHly0N) by JustAlittleWolf
 Chalk (https://modrinth.com/mod/YWGP4Y1d) by mortuusars
 Chat Heads (https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
 ChatAnimation (https://modrinth.com/mod/DnNYdJsx) by Ezzenix
 Cherished Worlds (https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
 Cloth Config v15 API (https://modrinth.com/mod/9s6osm5g) by shedaniel
 Collective (https://modrinth.com/mod/e0M1UDsY) by Rick South
-Combat Nouveau (https://modrinth.com/mod/Iv3kcKZn) by Fuzs
+Colorwheel (https://modrinth.com/mod/BzHgFoGz) by djefrey
+Colorwheel Patcher (https://modrinth.com/mod/KPsw5jDu) by djefrey
 Concurrent Chunk Management Engine (https://modrinth.com/mod/COlSi5iR) by RelativityMC, ishland
 Configured (https://www.curseforge.com/projects/457570) by MrCrayfish
 Connector Extras (https://modrinth.com/mod/FYpiwiBR) by Su5eD
 Continuity (https://modrinth.com/mod/1IjD5062) by PepperCode1
 Controlling (https://modrinth.com/mod/xv94TkTM) by Jaredlll08
 Cool Rain (https://modrinth.com/mod/IgftU6Mn) by Leclowndu93150
+CoroUtil (https://modrinth.com/mod/rLLJ1OZM) by Corosus
 Create (https://modrinth.com/mod/LNytGWDc) by simibubi
-Create Slice & Dice (https://modrinth.com/mod/GmjmRQ0A) by possible_triangle
-Create: Bells & Whistles (https://modrinth.com/mod/gJ5afkVv) by lev
+Create: Central Kitchen (https://modrinth.com/mod/btq68HMO) by DragonsPlus
+Create: Dragons Plus (https://modrinth.com/mod/dzb1a5WV) by DragonsPlus
 Create: EMI Schematics (https://modrinth.com/mod/5bgqgixq) by LiukRast, swzo
+Create: Pattern Schematics (https://modrinth.com/mod/cpqKG67r) by Cake
 Create: Steam 'n' Rails 1.21.1 (https://modrinth.com/mod/L3Jv0QZI) by PoppyBlossom, Chameleon538
 CreativeCore (https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 Cubes Without Borders (https://modrinth.com/mod/ETlrkaYF) by Kir_Antipov
@@ -52,7 +57,6 @@ Data API (https://modrinth.com/mod/ZS3lIxKu) by GenMode
 Death Finder (https://modrinth.com/mod/wNxIBREV) by Fuzs
 Delete Worlds To Trash (https://modrinth.com/mod/7diJQfvM) by Fuzs
 Distant Horizons (https://modrinth.com/mod/uCdwusMi)
-Distinguished Potions (https://modrinth.com/mod/lX1xTFBZ) by Fuzs
 Drip Sounds (https://modrinth.com/mod/T8MMXTpr) by PieKing1215
 Dungeon Difficulty (https://modrinth.com/mod/ENZmbSFZ) by Daedelus
 Dynamic FPS (https://modrinth.com/mod/LQ3K71Q1) by juliand665 & LostLuma
@@ -61,6 +65,7 @@ EMI Enchanting (https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
 Easy Anvils (https://modrinth.com/mod/OZBR5JT5) by Fuzs
 Easy Magic (https://modrinth.com/mod/9hx3AbJM) by Fuzs
 Eating Animation (https://modrinth.com/mod/X8CISwXp) by Matyrobbrt
+Enchanted Bookshelves (https://modrinth.com/mod/CIfCvYLI) by boyonk
 End Remastered (https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 Enhanced Attack Indicator (https://modrinth.com/mod/eTy17BBS) by Minenash
 Enhanced Block Entities (https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -76,7 +81,6 @@ Farmer's Delight (https://modrinth.com/mod/R2OftAxM) by vectorwing
 Fast Workbench (https://www.curseforge.com/projects/288885) by Shadows_of_Fire
 Fastquit (https://modrinth.com/mod/itFaO2Tg) by KingContaria, Kaleb Langley
 Ferrite Core (https://modrinth.com/mod/uXXizFIs) by malte0811
-Forgematica (https://modrinth.com/mod/dCKRaeBC) by TexTrue, CagayakeGirls
 Forgified Fabric API (https://modrinth.com/mod/Aqlf1Shp) by Sinytra, FabricMC
 Framework (https://www.curseforge.com/projects/549225) by MrCrayfish
 Fzzy Config (https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
@@ -86,16 +90,17 @@ GroovyModLoader (https://modrinth.com/mod/zg2tT2Vu) by Luke Bemish, Matyrobbrt, 
 Hide Experimental Warning (https://modrinth.com/mod/Rm4OOdHd) by Rick South
 Highlight (https://modrinth.com/mod/Vz96hXMh) by ThatGravyBoat
 Horseman (https://modrinth.com/mod/qIv5FhAA) by mortuusars
+I See My Armored Hand (https://modrinth.com/mod/o0hnW3gN) by RazorPlay01
 Ice Boat Nerf (https://modrinth.com/mod/Udjno5eL) by supersaiyansubtlety
 Iceberg (https://modrinth.com/mod/5faXoLqX) by Grend
 ImmediatelyFast (https://modrinth.com/mod/5ZwdcRci) by RK_01
 Immersive Thunder (https://modrinth.com/mod/uKjKoMsj) by netcatgirl
 Immersive Winds (https://modrinth.com/mod/smYLXoRt) by Vibzz
 Iris (https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212
-Iris Flywheel Compat (https://modrinth.com/mod/ndHYMY2K) by Leon
 Item Borders (https://modrinth.com/mod/b1fMg6sH) by Grend
 Just Enough Items (https://modrinth.com/mod/u6dRKJwZ) by mezz
 Kaffee's Dual Ride (https://modrinth.com/mod/dv1QW2PN) by Kaffee
+Kitchen Projectiles (https://modrinth.com/mod/BYmvNgRP) by ThePotatoArchivist
 Kiwi Library (https://modrinth.com/mod/ufdDoWPd) by Snownee
 Kotlin for Forge (https://modrinth.com/mod/ordsPcFz)
 LambDynamicLights (https://modrinth.com/mod/yBW8D80W) by LambdAurora
@@ -104,6 +109,7 @@ Leave My Bars Alone (https://modrinth.com/mod/gK9mebQg) by Fuzs
 Leaves Be Gone (https://modrinth.com/mod/AVq17PqV) by Fuzs
 Lithium (https://modrinth.com/mod/gvQqBUqZ) by 2No2Name, JellySquid
 Lithostitched (https://modrinth.com/mod/XaDC71GB) by Apollo
+Log Begone (https://modrinth.com/mod/9ON3zv6e) by AzureDoom
 M.R.U (https://modrinth.com/mod/SNVQ2c0g) by IMB11 (mineblock11)
 MaFgLib (https://modrinth.com/mod/SKI34J7B) by TexTrue, CagayakeGirls
 Main Menu Credits (https://modrinth.com/mod/qJDfP7WN) by isXander
@@ -120,8 +126,8 @@ Mouse Tweaks (https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh (YaLTeR)
 Netherite Horse Armor (https://modrinth.com/mod/nDFVOeq7) by JerryLu086
 No Chat Reports (https://modrinth.com/mod/qQyHxfxd) by Aizistral
 No Chat Restrictions (https://modrinth.com/mod/z440MEwJ) by Aizistral
-Noisium (https://modrinth.com/mod/hasdd01q) by Steveplays28
-Not Enough Crashes (https://modrinth.com/mod/yM94ont6) by Fudge
+No Resource Pack Warnings Forge (https://modrinth.com/mod/cWtswsPK) by 1foxy2
+NoRaidTotems (https://modrinth.com/mod/kobHIeJw) by Rochedo
 NotEnoughAnimations (https://modrinth.com/mod/MPCX6s5C) by tr7zw
 ObsidianUI (https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
 OctoLib (https://modrinth.com/mod/RH2KUdKJ) by OctoStudios
@@ -135,6 +141,7 @@ Placebo (https://www.curseforge.com/projects/283644) by Shadows_of_Fire
 Player Animator (https://modrinth.com/mod/gedNE4y2) by KosmX
 Polymorph (https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 Polytone (https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
+Potion Cauldron (https://modrinth.com/mod/yTSyrZpM) by Maxoduke
 Presence Footsteps (https://modrinth.com/mod/rcTfTZr3) by Hurricaaane (Ha3), Sollace
 PrickleMC (https://modrinth.com/mod/aaRl8GiW) by Darkhax
 Prism (https://modrinth.com/mod/1OE8wbN0) by Grend
@@ -143,19 +150,21 @@ Puzzles Lib (https://modrinth.com/mod/QAGBst4M) by Fuzs
 Recipe Fixer (https://modrinth.com/mod/Nmc13D4j) by Mysticpasta1, TonimatasDEV
 Reese's Sodium Options (https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 Resourceful Lib (https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic_Oreo
+Scholar (https://modrinth.com/mod/fX4dIQCo) by mortuusars
 Screenshot to Clipboard (https://modrinth.com/mod/1KiJRrTg) by comp500
 Searchables (https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
 Shoulder Surfing Reloaded (https://modrinth.com/mod/kepjj2sy) by Exopandora
 ShulkerBoxTooltip (https://modrinth.com/mod/2M01OLQq) by MisterPeModder
 ShutUpDeadEntities (https://modrinth.com/mod/9FJiZMp8) by diskree
 Sinytra Connector (https://modrinth.com/mod/u58R1TMW)
+Skeleton AI Fix (https://modrinth.com/mod/jn24bUJo) by Fuzs
 Smooth Swapping (https://modrinth.com/mod/ydZic5r4) by Schauweg
 Snow Under Trees (https://modrinth.com/mod/Q3vyMuj2) by bl4ckscor3
 Snow! Real Magic! (https://modrinth.com/mod/iJNje1E8) by Snownee
 Sodium (https://modrinth.com/mod/AANobbMI) by JellySquid (jellysquid3), IMS212
 Sodium Extra (https://modrinth.com/mod/PtjYWJkn) by FlashyReese
-Sound Physics Perfected (https://modrinth.com/mod/KS6Hbu9Z) by RedLife
 Sounds (https://modrinth.com/mod/ZouiUX7t) by IMB11, cassiancc
+Stackable Potions (https://modrinth.com/mod/yppxDTPT) by CursedFlames
 Stylish Effects (https://modrinth.com/mod/onDuQF5e) by Fuzs
 Subtle Effects (https://modrinth.com/mod/4q8UOK1d) by MincraftEinstein
 TCD Commons API (https://modrinth.com/mod/Eldc1g37) by TheCSDev
@@ -163,9 +172,13 @@ Tectonic (https://modrinth.com/mod/lWDHr9jE) by Apollo
 Tiny Item Animations (https://modrinth.com/mod/wMkevcSR) by Trivaxy
 Tiny Skeletons (https://modrinth.com/mod/A2xcMSUn) by Fuzs
 ToastBegone (https://modrinth.com/mod/g8reZf3x) by Raxdiam
+Totem of Undying Death Messages (https://modrinth.com/mod/HpUX4N2X) by n_bonnie2
 Universal Bone Meal (https://modrinth.com/mod/66VIiT1y) by Fuzs
+Updating World Icon (https://modrinth.com/mod/ZlX3EVmE) by CursedFlames
 Visual Workbench (https://modrinth.com/mod/kfqD1JRw) by Fuzs
 Void Totem (https://modrinth.com/mod/q6eiiQ07) by Affehund
+What Are They Up To (https://modrinth.com/mod/AtB5mHky) by Corosus
+World Play Time (https://modrinth.com/mod/YkKeggdl) by Khajiitos
 YUNG's API (https://modrinth.com/mod/Ua7DFN59) by YUNGNICKYOUNG
 YUNG's Better End Island (https://modrinth.com/mod/2BwBOmBQ) by YUNGNICKYOUNG, Acarii
 YUNG's Better Mineshafts (https://modrinth.com/mod/HjmxVlSr) by YUNGNICKYOUNG
@@ -173,14 +186,13 @@ YUNG's Better Nether Fortresses (https://modrinth.com/mod/Z2mXHnxP) by YUNGNICKY
 YUNG's Better Strongholds (https://modrinth.com/mod/kidLKymU) by YUNGNICKYOUNG, Acarii
 YUNG's Menu Tweaks (https://modrinth.com/mod/Hcy2DFKF) by YUNGNICKYOUNG
 YetAnotherConfigLib (https://modrinth.com/mod/1eAoo2KR) by isXander
+citresewn-1.2.2+1.21.jar.disabled_by_citresewn_neopatcher
 e4mc (https://modrinth.com/mod/qANg5Jrr) by skyevg
 
 :: Resource Packs ::
 
 Vanilla Tweaks (https://vanillatweaks.net/) by Vanilla Tweaks Team
 C418 Songs Only (https://modrinth.com/resourcepack/c418-songs-only) by redsquare
-Classic Menu Panorama (https://modrinth.com/resourcepack/classic-menu-panorama) by UsernameGeri
-Extended illumina (3D lantern and torch) (https://modrinth.com/mod/qznifDTe) by Ilyastik
 
 :: Datapacks ::
 

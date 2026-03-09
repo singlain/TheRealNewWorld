@@ -1,6 +1,6 @@
 {
   "general": {
-    "doEffectsInCreative": false,
+    "doEffectsInCreative": true,
     "waterSubstractFactor": 10,
     "enableDamageDebug": false,
     "fixBlurShader": true

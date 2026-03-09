@@ -1,0 +1,13 @@
+name = "Potion Cauldron"
+filename = "potioncauldron-fabric-1.0.1+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yTSyrZpM/versions/OmwLoYhO/potioncauldron-fabric-1.0.1%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "68db277569a73ebbb99bd600b4c6d648bb8728338eb384be29f1b34124ebbe7ab81a47d67b3ddabe216574a93418df32dc410c4d0176e4c0cb06ebda968f14ce"
+
+[update]
+[update.modrinth]
+mod-id = "yTSyrZpM"
+version = "OmwLoYhO"
