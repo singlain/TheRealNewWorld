@@ -453,6 +453,10 @@
 - @RalseiFromDeltarune
   - General Help, Updating the mods/configs, Troubleshooting, Playtesting, Feedback
 
+
+<details>
+<summary>Other Credits</summary>
+
 <details>
 <summary>Mods</summary>
 
@@ -671,3 +675,6 @@
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 
 </details>
+
+</details>
+
