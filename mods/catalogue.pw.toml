@@ -1,8 +1,0 @@
-name = "catalogue"
-filename = "catalogue-neoforge-1.21.1-1.11.2-signed.jar"
-side = "both"
-
-[download]
-url = "https://github.com/MrCrayfish/Catalogue/releases/download/v1.21.1-1.11.2/catalogue-neoforge-1.21.1-1.11.2-signed.jar"
-hash-format = "sha256"
-hash = "b3c958772c61354fccf04b52264f2e398c8bf9a28d192d675bf82359b647ef43"

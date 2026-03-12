@@ -1,0 +1,13 @@
+name = "Better Mod List Button Fix"
+filename = "aemodbtnfix-1.0.0+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YGGYzDd4/versions/XcfMdMxC/aemodbtnfix-1.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "9625bd1926338f4a501388985a890df25e10ed41adadaf72a4e434a927cbb35213b8a7963a6fc86780fc0a63828d0842dc4c07c9fd443b52a977ae3d82ddc570"
+
+[update]
+[update.modrinth]
+mod-id = "YGGYzDd4"
+version = "XcfMdMxC"
