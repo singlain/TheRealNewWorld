@@ -1,7 +1,7 @@
 ![Header Logo 2](https://cdn.modrinth.com/data/cached_images/e01f9239aea28e26ef0da26dd00babd1528a746b_0.webp)
 #### _Too many mods to be Vanilla+ yet too few to be your average tech modpack._
 
-# Features
+# 🔶 Features
 - **Combat and Difficulty Overhauls**
 - **Progression Changes**
 - **Rebalanced Transportation**
@@ -13,7 +13,7 @@
   
 > Being a spiritual successor of my previous, long forgotten modpack I made for a server of friends - **The Real New World** was remade from ground up for **NeoForge** and had preserved the charm from its predecessor, along with some great additions and improvements Hundreds of hours went into carefully picking each mod and fine-tuning each config to result in the most balanced and fun experience!
 
-## Combat and Difficulty Overhauls
+## 🔷 Combat and Difficulty Overhauls
 
 <details>
 <summary>Better Combat</summary>
@@ -119,7 +119,7 @@
 
 </details>
 
-## Progression Changes
+## 🔷 Progression Changes
 
 <details>
 <summary>Your New Journey to The End</summary>
@@ -155,7 +155,7 @@
 
 </details>
 
-## Rebalanced Transportation
+## 🔷 Rebalanced Transportation
 
 <details>
 <summary>Ice Boats</summary>
@@ -187,7 +187,7 @@
 </details>
 
 
-## Worldgen Overhaul
+## 🔷 Worldgen Overhaul
 
 <details>
 <summary>Tectonic, Geophilic and Others</summary>
@@ -204,7 +204,7 @@
 
 </details>
 
-## Sound and Atmosphere Improvements
+## 🔷 Sound and Atmosphere Improvements
 
 <details>
 <summary>Euphonium</summary>
@@ -283,7 +283,7 @@
 
 
 
-## Create, Addons and Farmer's Delight
+## 🔷 Create, Addons and Farmer's Delight
 
 <details>
 <summary>Create</summary>
@@ -330,7 +330,7 @@
 
 </details>
 
-## Other Changes
+## 🔷 Other Changes
 
 <details>
 <summary>Another Furniture</summary>
@@ -406,11 +406,11 @@
 
 </details>
 
-# Notes
+# 🔶 Notes
 
-## Regarding Distant Horizons
+## 🔷 Regarding Distant Horizons
 
-#### Please keep in mind that Distant Horizons is still in Beta and **WILL** have __some__ performance issues regardless of how well you tweak it.
+#### _Please keep in mind that Distant Horizons is still in Beta and **WILL** have __some__ performance issues regardless of how well you tweak it._
 
 #### By Default, Distant Horizons' world generator is disabled to reduce the CPU strain and load the LODs and the world gradually. Enabling therefore mentioned world generator will result in poor client performance, poor server performance or both.
 
@@ -433,17 +433,18 @@
 
 ##### (*) Keep in mind, lower CPU Load options will drastically lower the speed of LODs showing up when loading into the world.
 
-## RAM
+## 🔷 RAM
 #### Regarding RAM, it is mandatory for you to allocate __at least__ **4 GB of RAM** or more for this modpack; it's a good call to increase it up to **6 GB** or **8 GB** client-side. Stress tests have shown that server-side only needs about 4 GB of RAM to run mostly smoothly. If you experience server lags with complex contraptions, feel free to increase it.
 
-## Other Notes
+## 🔷 Other Notes
 - This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there, except the Full screen and the max FPS options which are up to you to tweak.
+- The Recipe Book now acts as a toogle for the EMI Recipe Viewer. You can also use CTRL+O shortcut to open it.
 - Me and the team tried our best to make this modpack pefrorm well but regardless of our attempts, there will still be some server lag present, unless you remove the core mods of this modpack, which of course is not an option.
 - The main issue performance-wise is the server tickrate. It **will** be pretty horrible when you create a new world, but as you explore it and generate new chunks, it will eventually wane.
 - Balancing is always ongoing!
 - Before reporting issues on GitHub's Issue Tracker make sure your issue isn't listed in the **Known Issues** section of the latest modpack changelog.
 
-## Credits
+## 🔷 Credits
 
 ### Special Thanks
 
@@ -451,6 +452,10 @@
   - General Help, Playtesting, Feedback
 - @RalseiFromDeltarune
   - General Help, Updating the mods/configs, Troubleshooting, Playtesting, Feedback
+
+
+<details>
+<summary>Other Credits</summary>
 
 <details>
 <summary>Mods</summary>
@@ -463,7 +468,7 @@
 - [Another Furniture](https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
-- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation\# The description of the mod\. This is a simple multiline text string that is used for display purposes in the mod list\.
+- [AstikorCarts Redux](https://modrinth.com/mod/mnLFouB0) by jusipat, MennoMax, pau101, talhanation
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) by Darkhax
 - [BE Style Wither](https://modrinth.com/mod/OkmRZ5fH) by MORIMORI0317
 - [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
@@ -670,3 +675,6 @@
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 
 </details>
+
+</details>
+
