@@ -1,0 +1,13 @@
+name = "Shield Fixes"
+filename = "ShieldFixes-2.0.0-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfLFMeJe/versions/5GTURuF4/ShieldFixes-2.0.0-1.21.jar"
+hash-format = "sha512"
+hash = "f08bdc425647a906ee65da630583db033621f9760bb4334ff89eec1315923d1a75cd81c3e02be89ca6c140e2a1b9f768e07c1bf89d1c68c555029e1ff55ef3b2"
+
+[update]
+[update.modrinth]
+mod-id = "HfLFMeJe"
+version = "5GTURuF4"

@@ -167,7 +167,7 @@
 <details>
 <summary>Buffed Minecarts</summary>
 
-### Thanks to [Darceno's Minecarts](https://modrinth.com/datapack/darcenos-minecarts), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
+### Thanks to [Fast Minecart](https://modrinth.com/mod/fast-minecart), minecarts can now reach twice their previous speed, making them a pretty viable transportation method!
 
 </details>
 
@@ -437,11 +437,12 @@
 #### Regarding RAM, it is mandatory for you to allocate __at least__ **4 GB of RAM** or more for this modpack; it's a good call to increase it up to **6 GB** or **8 GB** client-side. Stress tests have shown that server-side only needs about 4 GB of RAM to run mostly smoothly. If you experience server lags with complex contraptions, feel free to increase it.
 
 ## 🔷 Other Notes
-- This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there, except the Full screen and the max FPS options which are up to you to tweak.
-- The Recipe Book now acts as a toogle for the EMI Recipe Viewer. You can also use CTRL+O shortcut to open it.
-- Me and the team tried our best to make this modpack pefrorm well but regardless of our attempts, there will still be some server lag present, unless you remove the core mods of this modpack, which of course is not an option.
-- The main issue performance-wise is the server tickrate. It **will** be pretty horrible when you create a new world, but as you explore it and generate new chunks, it will eventually wane.
 - Balancing is always ongoing!
+- This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there, except the Full screen and the max FPS options which are up to you to tweak.
+- For the intended experience it is recommended to not tinker with configs of any the mods except therefore mentioned Distant Horizons, many have shown to cause crashes when changed in-game and will probably ruin your experience.
+  - However, if you know what you're doing - go for it; however, as the modpack grew it size it has became more and more difficult to manage, expect a lot of errors, crashes and inconsistencies throughout editing the modpack on your own.
+- The Recipe Book now acts as a toogle for the EMI Recipe Viewer. You can also use CTRL+O shortcut to open it.
+- The main issue performance-wise is the server tickrate. It **will** be pretty horrible when you create a new world, but as you explore it and generate new chunks, it will eventually wane.
 - Before reporting issues on GitHub's Issue Tracker make sure your issue isn't listed in the **Known Issues** section of the latest modpack changelog.
 
 ## 🔷 Credits
@@ -463,6 +464,7 @@
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) by Yanny
+- [AmbientEnvironment](https://modrinth.com/mod/DyTvM1dv) by Jaredlll08
 - [Amendments](https://modrinth.com/mod/6iTJugQR) by MehVahdJukaar, Plantkillable
 - [Animatica](https://modrinth.com/mod/PRN43VSY) by FoundationGames
 - [Another Furniture](https://modrinth.com/mod/ulloLmqG) by Starfish Studios, Crispytwig, Synthestra
@@ -478,21 +480,22 @@
 - [Better Babies](https://modrinth.com/mod/W9qgAZfz) by GenMode
 - [Better Biome ReBlend](https://modrinth.com/mod/Xh8hkQmD) by FionaTheMortal, UTMG
 - [Better Combat](https://modrinth.com/mod/5sy6g3kz) by Daedelus
+- [Better Mod List Button Fix](https://modrinth.com/mod/YGGYzDd4) by hanana
+- [Better ModList](https://modrinth.com/mod/sbpqhzIG) by foxy, Prospector, haykam821, TerraformersMC
 - [Better Mods Button](https://modrinth.com/mod/KUZAAwdD) by Fuzs
 - [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) by TheCSDev
+- [Better Tooltips](https://modrinth.com/mod/Z7rKZJ8k) by isXander, 1foxy2
 - [Better World Loading](https://modrinth.com/mod/bmOyRapU) by H1ggsK
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) by Darkhax
-- [Bridging Mod](https://modrinth.com/mod/lO3s8hjs) by CG360
-- [CIT Resewn](https://citresewn.shcm.io/) by SHsuperCM
+- [CIT Resewn](https://modrinth.com/mod/otVJckYQ) by SHsuperCM
 - [CITResewnNeoPatcher](https://modrinth.com/mod/yYE9h4iu)
 - [CameraOverhaul](https://modrinth.com/mod/m0oRwcZx) by Mirsario
-- [Capes](https://modrinth.com/mod/89Wsn8GD) by Cael
-- [Catalogue](https://www.curseforge.com/projects/459701) by MrCrayfish
 - [Centered Crosshair](https://modrinth.com/mod/xUTHly0N) by JustAlittleWolf
 - [Chalk](https://modrinth.com/mod/YWGP4Y1d) by mortuusars
-- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) by Ezzenix
 - [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
+- [Clean F3](https://modrinth.com/mod/5lvjfaRs)
+- [Clean Tooltips](https://modrinth.com/mod/vMoHe8uI) by stal111
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Collective](https://modrinth.com/mod/e0M1UDsY) by Rick South
 - [Colorwheel](https://modrinth.com/mod/BzHgFoGz) by djefrey
@@ -512,20 +515,20 @@
 - [Create: Steam 'n' Rails 1\.21\.1](https://modrinth.com/mod/L3Jv0QZI) by PoppyBlossom, Chameleon538
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 - [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) by Kir\_Antipov
-- [Darceno's Minecarts](https://modrinth.com/mod/RZw0JtqY) by darceno
 - [Data API](https://modrinth.com/mod/ZS3lIxKu) by GenMode
 - [Death Finder](https://modrinth.com/mod/wNxIBREV) by Fuzs
 - [Delete Worlds To Trash](https://modrinth.com/mod/7diJQfvM) by Fuzs
+- [Difficulty Lock](https://modrinth.com/mod/9yvZtixz) by Rick South
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
 - [Drip Sounds](https://modrinth.com/mod/T8MMXTpr) by PieKing1215
 - [Dungeon Difficulty](https://modrinth.com/mod/ENZmbSFZ) by Daedelus
+- [Dyed Flames](https://modrinth.com/mod/66H5fc9R) by Fuzs
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665 & LostLuma
 - [EMI](https://modrinth.com/mod/fRiHVvU7) by Emi
-- [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) by fzzyhmstrs
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
-- [Eating Animation](https://modrinth.com/mod/X8CISwXp) by Matyrobbrt
 - [Enchanted Bookshelves](https://modrinth.com/mod/CIfCvYLI) by boyonk
+- [Enchantment Level Language Patch](https://modrinth.com/mod/Lf4kDKU9) by teddyxlandlee
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
@@ -538,7 +541,6 @@
 - [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) by Kneelawk, abbie, KirboEatsFood
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) by vectorwing
-- [Fast Workbench](https://www.curseforge.com/projects/288885) by Shadows\_of\_Fire
 - [Fastquit](https://modrinth.com/mod/itFaO2Tg) by KingContaria, Kaleb Langley
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) by Sinytra, FabricMC
@@ -550,7 +552,6 @@
 - [Hide Experimental Warning](https://modrinth.com/mod/Rm4OOdHd) by Rick South
 - [Highlight](https://modrinth.com/mod/Vz96hXMh) by ThatGravyBoat
 - [Horseman](https://modrinth.com/mod/qIv5FhAA) by mortuusars
-- [I See My Armored Hand](https://modrinth.com/mod/o0hnW3gN) by RazorPlay01
 - [Ice Boat Nerf](https://modrinth.com/mod/Udjno5eL) by supersaiyansubtlety
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
@@ -573,6 +574,8 @@
 - [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 \(mineblock11\)
 - [MaFgLib](https://modrinth.com/mod/SKI34J7B) by TexTrue, CagayakeGirls
 - [Main Menu Credits](https://modrinth.com/mod/qJDfP7WN) by isXander
+- [Map Tooltip](https://modrinth.com/mod/GNtptqqU) by VendoAU
+- [MaxHealthFix](https://modrinth.com/mod/mH8wdmqr) by Darkhax
 - [MidnightLib](https://modrinth.com/mod/codAaoxh) by TeamMidnightDust, Motschen
 - [Minecart Backport](https://modrinth.com/mod/v5VvyByz) by N0t\_UN\_Owen/NotUnaNancyOwen
 - [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable
@@ -587,21 +590,23 @@
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Chat Restrictions](https://modrinth.com/mod/z440MEwJ) by Aizistral
 - [No Resource Pack Warnings Forge](https://modrinth.com/mod/cWtswsPK) by 1foxy2
+- [No Telemetry](https://modrinth.com/mod/hg77g4Pw) by kb1000
 - [NoRaidTotems](https://modrinth.com/mod/kobHIeJw) by Rochedo
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
 - [ObsidianUI](https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
 - [OctoLib](https://modrinth.com/mod/RH2KUdKJ) by OctoStudios
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) by TonimatasDEV
-- [Paginated Advancements](https://modrinth.com/mod/pJogNFap) by DaFuqs
+- [Palladium](https://modrinth.com/mod/JNRr4jji) by Mr\.Toad
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
+- [Particle Effects](https://modrinth.com/mod/PLAGcSFJ) by LopyMine, KlashRaick
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Paxi](https://modrinth.com/mod/CU0PAyzb) by YUNGNICKYOUNG
 - [Placebo](https://www.curseforge.com/projects/283644) by Shadows\_of\_Fire
 - [Player Animator](https://modrinth.com/mod/gedNE4y2) by KosmX
 - [Polymorph](https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 - [Polytone](https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
-- [Potion Cauldron](https://github.com/maxoduke/Potion-Cauldron) by Maxoduke
+- [Potion Cauldron](https://modrinth.com/mod/yTSyrZpM) by Maxoduke
 - [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) by Hurricaaane \(Ha3\), Sollace
 - [PrickleMC](https://modrinth.com/mod/aaRl8GiW) by Darkhax
 - [Prism](https://modrinth.com/mod/1OE8wbN0) by Grend
@@ -613,31 +618,38 @@
 - [Scholar](https://modrinth.com/mod/fX4dIQCo) by mortuusars
 - [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) by comp500
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
+- [Shield Fixes](https://modrinth.com/mod/HfLFMeJe) by Walksy
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/kepjj2sy) by Exopandora
 - [ShulkerBoxTooltip](https://modrinth.com/mod/2M01OLQq) by MisterPeModder
 - [ShutUpDeadEntities](https://modrinth.com/mod/9FJiZMp8) by diskree
 - [Sinytra Connector](https://modrinth.com/mod/u58R1TMW)
-- [Skeleton AI Fix](https://modrinth.com/mod/jn24bUJo) by Fuzs
+- [Skeleton Aiming Fix](https://modrinth.com/mod/afi6lIuM) by Xiaolin2
+- [Smooth Skies](https://modrinth.com/mod/uvlgIwBD) by Microcontrollers
 - [Smooth Swapping](https://modrinth.com/mod/ydZic5r4) by Schauweg
 - [Snow Under Trees](https://modrinth.com/mod/Q3vyMuj2) by bl4ckscor3
 - [Snow\! Real Magic\!](https://modrinth.com/mod/iJNje1E8) by Snownee
+- [SnowyLeavesPlus](https://modrinth.com/mod/of7wIinq) by theRookieCoder
 - [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\), IMS212
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
 - [Sounds](https://modrinth.com/mod/ZouiUX7t) by IMB11, cassiancc
 - [Stackable Potions](https://modrinth.com/mod/yppxDTPT) by CursedFlames
 - [Stylish Effects](https://modrinth.com/mod/onDuQF5e) by Fuzs
 - [Subtle Effects](https://modrinth.com/mod/4q8UOK1d) by MincraftEinstein
+- [Suggestion Tweaker](https://modrinth.com/mod/MBLj38R0) by VelizarBG
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) by TheCSDev
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) by Apollo
 - [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) by Trivaxy
 - [Tiny Skeletons](https://modrinth.com/mod/A2xcMSUn) by Fuzs
+- [ToadLib](https://modrinth.com/mod/CYQ7VYrM) by Mr\.Toad
 - [ToastBegone](https://modrinth.com/mod/g8reZf3x) by Raxdiam
 - [Totem of Undying Death Messages](https://modrinth.com/mod/HpUX4N2X) by n\_bonnie2
+- [TxniLib](https://modrinth.com/mod/vBbPDuOs) by Toni
 - [Universal Bone Meal](https://modrinth.com/mod/66VIiT1y) by Fuzs
 - [Updating World Icon](https://modrinth.com/mod/ZlX3EVmE) by CursedFlames
+- [Villager Trade Fix](https://modrinth.com/mod/K2YWwbQ8) by Globox\_Z
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) by Fuzs
 - [Void Totem](https://modrinth.com/mod/q6eiiQ07) by Affehund
-- [What Are They Up To](https://modrinth.com/mod/AtB5mHky) by Corosus
+- [Walksy Lib](https://modrinth.com/mod/7P86n6Vg) by Walksy
 - [World Play Time](https://modrinth.com/mod/YkKeggdl) by Khajiitos
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) by YUNGNICKYOUNG
 - [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) by YUNGNICKYOUNG, Acarii
@@ -670,11 +682,8 @@
 
 > The following mods were bundled as .jar(s) in the overrides due to them being unavailable on Modrinth/GitHub or being CurseForge exclusives.
 
-- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge/files/5567664)
-- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 
 </details>
 
 </details>
-
