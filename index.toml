@@ -194,7 +194,7 @@ hash = "ceee9a0f955af30cdf1045e7d30b3c5b68ed93262d7c9b53ba24c612186aea1b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2bd75a042e72eb396ac5d07e24517502c7e8157bf8349dec4ca8754799eb7bd8"
+hash = "283ca7f4342cf4312d475ce77803270f570075cea46acb6511e975eecfdb376f"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -645,6 +645,10 @@ file = "config/potion-cauldron.json"
 hash = "8ec97495610398f186b33a4c28f008b51be2653da85082446350f46c46c0050f"
 
 [[files]]
+file = "config/preferred-gamerules.properties"
+hash = "2c6336149e59a0340b6e2bddddc26a89b36539360af129320282f37f7f03688a"
+
+[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
@@ -966,11 +970,6 @@ hash = "308ce6e292aaae5f74def7cebffdca789545a298eb04a4a00838a169a498d1c9"
 metafile = true
 
 [[files]]
-file = "mods/clean-tooltips.pw.toml"
-hash = "bfae48d707113dd178b25b16620c8f4bf5a27ea82c9b1975edeb89a7f196048d"
-metafile = true
-
-[[files]]
 file = "mods/cliff-face.pw.toml"
 hash = "9dab271f4bfd98a5a5dc5366048073d65e61625d334bc668e9db50e096ff4e39"
 metafile = true
@@ -1133,11 +1132,6 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "5273a4eb5e9f0591bd0c79d21c2a3f92ea1968e4aa5fc2625684d72002691381"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "a722ce2dba2a27f5754a9d0ee05f8004a49d309673b3d27939301eeae2b6e89e"
 metafile = true
 
 [[files]]
@@ -1501,6 +1495,11 @@ hash = "98e6183c07de15c2565ee2afa70b930a877fc8d03722985f2c8137fd67da894d"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "c443eccbc1eed06bb80f1956e492a5822b9e42011e0e5bf5ef4b5f405dbc5e63"
 metafile = true
@@ -1563,6 +1562,11 @@ metafile = true
 [[files]]
 file = "mods/potion-cauldron.pw.toml"
 hash = "02588300a7ce079e5f41dd4aa1e58144bbb5ae449f14060dfcfa67875c923c91"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
 metafile = true
 
 [[files]]
@@ -1832,7 +1836,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "10c49783bb0146d3a5922cb381465320e0546bbc67aa053930e00c5353cd930b"
+hash = "0a1c1645f1d0c6272ff4267286313ca25255a113b49c1a692f09644fcb82d9a6"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r679409_MC1.21.x.zip"
@@ -1981,11 +1985,11 @@ hash = "d0f6f4ca1d012472ededc530f9e488229970a5fbf6b3c2cf6b7c198cdf4d4fed"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "7207390de6c0152d2142a892a93e09324d647b4078c872de2f8b08a6ff6eb9c8"
+hash = "a11a4afe8a129aa6c36037abd90deaf0249b07bd1a45f4f243fef320c4604cc8"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
-hash = "a567287829aa653319bd5637a80e6e6ca629cc52bf81516051cfd349f6d9d9e1"
+hash = "bbccf864dca179c813854330218d83dd07c7a62cc4cb43c0c65789d159d28bb9"
 
 [[files]]
 file = "shaderpacks/TAA 3.1.zip.txt"
