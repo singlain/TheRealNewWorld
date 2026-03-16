@@ -416,7 +416,7 @@
 
 #### Below you can see the instuctions generating LODs around you the most efficient way possible.
 
-1. Find a safe place to AFK in; ideailly in the light-dominant area indoors so the Phantoms and Monsters can't disturb you
+1. (*) Find a safe place to AFK in; ideailly in the light-dominant area indoors so the Phantoms and Monsters can't disturb you
 2. Press ESC for the Pause Menu
 3. Open the mod menu by pressing **Mods** button
 4. Go to the top-left corner and search for **Distant Horizons**
@@ -426,23 +426,24 @@
 8. (Optional) Change **Show Generation Progress** option from **Disabled** to **Overlay** to see the distant generation progress logged on your screen to know when it's finished
 9. AFK until the Overlay Text from Distant Horizons' Distant Generator vanishes
 10. Follow steps from 2 to 5 once more
-11. (*) Change CPU Load option from **5. I Paid For The Whole CPU** to anything from **1. Minimal Impact** to **3. Balanced** depending on how beefy your PC is.
+11. (**) Change CPU Load option from **5. I Paid For The Whole CPU** to anything from **1. Minimal Impact** to **3. Balanced** depending on how beefy your PC is.
 12. Change "Enable Distant Generation" setting to be **False**
 13. (Optional) if you followed step 8, set **Show Generation Progress** setting to "False"
 14. Done!
 
-##### (*) Keep in mind, lower CPU Load options will drastically lower the speed of LODs showing up when loading into the world.
+##### (*) If you're in Singleplayer, you can just wait through the process in the Pause Menu
+##### (**) Keep in mind, lower CPU Load options will drastically lower the speed of LODs showing up when loading into the world.
 
 ## 🔷 RAM
 #### Regarding RAM, it is mandatory for you to allocate __at least__ **4 GB of RAM** or more for this modpack; it's a good call to increase it up to **6 GB** or **8 GB** client-side. Stress tests have shown that server-side only needs about 4 GB of RAM to run mostly smoothly. If you experience server lags with complex contraptions, feel free to increase it.
 
 ## 🔷 Other Notes
-- Balancing is always ongoing!
-- This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there, except the Full screen and the max FPS options which are up to you to tweak.
-- For the intended experience it is recommended to not tinker with configs of any the mods except therefore mentioned Distant Horizons, many have shown to cause crashes when changed in-game and will probably ruin your experience.
-  - However, if you know what you're doing - go for it; however, as the modpack grew it size it has became more and more difficult to manage, expect a lot of errors, crashes and inconsistencies throughout editing the modpack on your own.
-- The Recipe Book now acts as a toogle for the EMI Recipe Viewer. You can also use CTRL+O shortcut to open it.
-- The main issue performance-wise is the server tickrate. It **will** be pretty horrible when you create a new world, but as you explore it and generate new chunks, it will eventually wane.
+- Balancing is always **ongoing**!
+- **The Recipe Book** now acts as a toogle for the **Recipe Viewer**. You can also use CTRL+O shortcut to open it.
+- Due to how large this modpack grew, it will take a lot of time to fully flesh it out, so expect **bugs**, **inconsistencies** and **other issues** throughout your journey!
+- This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there.
+- For the intended experience it is not **recommended** to tinker with configs of any the mods except therefore mentioned **Distant Horizons**, many have shown to cause crashes when changed in-game and will probably ruin your experience.
+- The main issue performance-wise is the server tickrate. It **will** be pretty horrible when you create a new world and start exploring the nearby area, but as you explore it and generate new chunks, it will eventually wane.
 - Before reporting issues on GitHub's Issue Tracker make sure your issue isn't listed in the **Known Issues** section of the latest modpack changelog.
 
 ## 🔷 Credits
@@ -461,6 +462,7 @@
 <details>
 <summary>Mods</summary>
 
+- \.connector
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) by Yanny
@@ -495,7 +497,6 @@
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) by Ezzenix
 - [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
 - [Clean F3](https://modrinth.com/mod/5lvjfaRs)
-- [Clean Tooltips](https://modrinth.com/mod/vMoHe8uI) by stal111
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Collective](https://modrinth.com/mod/e0M1UDsY) by Rick South
 - [Colorwheel](https://modrinth.com/mod/BzHgFoGz) by djefrey
@@ -531,7 +532,6 @@
 - [Enchantment Level Language Patch](https://modrinth.com/mod/Lf4kDKU9) by teddyxlandlee
 - [End Remastered](https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) by Minenash
-- [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
 - [Enhanced Boss Bars](https://modrinth.com/mod/J5bVsBt9)
 - [EnhancedVisuals](https://modrinth.com/mod/KjL0jE2w) by CreativeMD, AriaFreeze
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
@@ -593,6 +593,7 @@
 - [No Telemetry](https://modrinth.com/mod/hg77g4Pw) by kb1000
 - [NoRaidTotems](https://modrinth.com/mod/kobHIeJw) by Rochedo
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
+- [Nullscape](https://modrinth.com/mod/LPjGiSO4) by Stardust Labs
 - [ObsidianUI](https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
 - [OctoLib](https://modrinth.com/mod/RH2KUdKJ) by OctoStudios
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2
@@ -607,6 +608,7 @@
 - [Polymorph](https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 - [Polytone](https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
 - [Potion Cauldron](https://modrinth.com/mod/yTSyrZpM) by Maxoduke
+- [Preferred Gamerules](https://modrinth.com/mod/kKib77nY) by Estecka
 - [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) by Hurricaaane \(Ha3\), Sollace
 - [PrickleMC](https://modrinth.com/mod/aaRl8GiW) by Darkhax
 - [Prism](https://modrinth.com/mod/1OE8wbN0) by Grend
