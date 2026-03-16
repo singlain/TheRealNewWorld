@@ -27,4 +27,4 @@
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	tooltipTransparency = 1.0
-	removeFirstLinePadding = true
+	removeFirstLinePadding = false

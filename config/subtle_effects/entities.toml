@@ -36,10 +36,10 @@ improvedWetWolfShakeEffects = true
 improvedVillagerSweatingEffects = true
 
 [sleeping]
-playerSnoreChance = 1.0
+playerSnoreChance = 0.0
 playerSnoreSoundVolume = 1.0
 playersHaveSleepingZs = true
-villagerSnoreChance = 1.0
+villagerSnoreChance = 0.0
 villagerSnoreSoundVolume = 1.0
 villagersHaveSleepingZs = true
 foxesHaveSleepingZs = true

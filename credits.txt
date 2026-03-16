@@ -34,7 +34,6 @@ Chalk (https://modrinth.com/mod/YWGP4Y1d) by mortuusars
 ChatAnimation (https://modrinth.com/mod/DnNYdJsx) by Ezzenix
 Cherished Worlds (https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
 Clean F3 (https://modrinth.com/mod/5lvjfaRs)
-Clean Tooltips (https://modrinth.com/mod/vMoHe8uI) by stal111
 Cloth Config v15 API (https://modrinth.com/mod/9s6osm5g) by shedaniel
 Collective (https://modrinth.com/mod/e0M1UDsY) by Rick South
 Colorwheel (https://modrinth.com/mod/BzHgFoGz) by djefrey
@@ -70,7 +69,6 @@ Enchanted Bookshelves (https://modrinth.com/mod/CIfCvYLI) by boyonk
 Enchantment Level Language Patch (https://modrinth.com/mod/Lf4kDKU9) by teddyxlandlee
 End Remastered (https://modrinth.com/mod/ZJTGwAND) by Jack Bagel
 Enhanced Attack Indicator (https://modrinth.com/mod/eTy17BBS) by Minenash
-Enhanced Block Entities (https://modrinth.com/mod/OVuFYfre) by FoundationGames
 Enhanced Boss Bars (https://modrinth.com/mod/J5bVsBt9)
 EnhancedVisuals (https://modrinth.com/mod/KjL0jE2w) by CreativeMD, AriaFreeze
 Entity Model Features (https://modrinth.com/mod/4I1XuqiY) by Traben
@@ -132,6 +130,7 @@ No Resource Pack Warnings Forge (https://modrinth.com/mod/cWtswsPK) by 1foxy2
 No Telemetry (https://modrinth.com/mod/hg77g4Pw) by kb1000
 NoRaidTotems (https://modrinth.com/mod/kobHIeJw) by Rochedo
 NotEnoughAnimations (https://modrinth.com/mod/MPCX6s5C) by tr7zw
+Nullscape (https://modrinth.com/mod/LPjGiSO4) by Stardust Labs
 ObsidianUI (https://modrinth.com/mod/E0L8mfJZ) by TexTrue, ThinkingStudio
 OctoLib (https://modrinth.com/mod/RH2KUdKJ) by OctoStudios
 OptiGUI (https://modrinth.com/mod/JuksLGBQ) by opekope2
@@ -146,6 +145,7 @@ Player Animator (https://modrinth.com/mod/gedNE4y2) by KosmX
 Polymorph (https://modrinth.com/mod/tagwiZkJ) by Illusive Soulworks
 Polytone (https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
 Potion Cauldron (https://modrinth.com/mod/yTSyrZpM) by Maxoduke
+Preferred Gamerules (https://modrinth.com/mod/kKib77nY) by Estecka
 Presence Footsteps (https://modrinth.com/mod/rcTfTZr3) by Hurricaaane (Ha3), Sollace
 PrickleMC (https://modrinth.com/mod/aaRl8GiW) by Darkhax
 Prism (https://modrinth.com/mod/1OE8wbN0) by Grend

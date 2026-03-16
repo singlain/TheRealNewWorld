@@ -26,7 +26,7 @@ hash = "738ac945db2c57e9365bdcb48233a269209388d18f547686561b66a4e3607795"
 
 [[files]]
 file = "config/better_tooltips-client.toml"
-hash = "6ff015fd7f1f6e9c7a43090177b4de2963f43a35465c742327204b5e0f2e76f1"
+hash = "a5bb52cc67f1c274ec69e0b1b6f082d5513a92bdc5130036b75f94d17995c143"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
@@ -65,6 +65,10 @@ file = "config/cameraoverhaul.toml"
 hash = "1475b5e69688ff2d7cce3878d2e017e86890dca484ad3ca3342f6e6e7c467e92"
 
 [[files]]
+file = "config/chatanimation.json"
+hash = "6f7cf73fd1216de8dcc85abe1d0184ff08ef26810aa8e958788857e783baee61"
+
+[[files]]
 file = "config/colorwheel-client.toml"
 hash = "a0dbf8a1a1930589874b5982755d9cc8b52c468ac7737e47f379990cda939e7e"
 
@@ -98,7 +102,7 @@ hash = "60365c2488f466addee4b3556e348162121a91ecb13dd3f6176f73a3f2f46966"
 
 [[files]]
 file = "config/deathfinder-server.toml"
-hash = "43e108309b21c97d961ddeb0fb701359c4fa6b5560ca285c31ff55b12d42d5c4"
+hash = "27281f5f90e0b053dbafad0fca67d8b75786b61460d67fd9bd81dae0c6aa2943"
 
 [[files]]
 file = "config/difficultylock.json5"
@@ -194,7 +198,7 @@ hash = "ceee9a0f955af30cdf1045e7d30b3c5b68ed93262d7c9b53ba24c612186aea1b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "283ca7f4342cf4312d475ce77803270f570075cea46acb6511e975eecfdb376f"
+hash = "0e71d602cd51f388d97df048c5b6aa9c77a3ca73fb2fb3aef1e1708939bac27b"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -730,11 +734,11 @@ hash = "c4ba01733500d419a5e03dc64b7d2c76b3b8c8102dd02a89ec84bf8b0357021a"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "6151da033741d51642c5f6cb28b077aeb5c0256114f2f38457a4d045bba11797"
+hash = "2076f1a31598b23178b6ca187c0dd67b11b976ba989365815f5d5857418acb8f"
 
 [[files]]
 file = "config/subtle_effects/environment.toml"
-hash = "b7419b293f9077a87d33ae78dee9c06b4d3eb0388c9a518364754b9de93ddeee"
+hash = "c5da754b96ec5876cc401db163eb79504677374104b307a1d76e3aa268b59263"
 
 [[files]]
 file = "config/subtle_effects/general.toml"
@@ -781,8 +785,12 @@ file = "config/waterdripsound.json"
 hash = "29fbc1ba9d55eae756ef5f3ed4ab2a0250e00085e4a249abe9dede3b080a22f2"
 
 [[files]]
+file = "config/worldplaytime/config.json"
+hash = "ac99279e8b3766b658f7cf2867736cfd78d7dc9bc11555fedb9f11f968b2c1ec"
+
+[[files]]
 file = "credits.txt"
-hash = "bddd4a5fe905bbb3be211508e1f46ad5860f74553422840748c19100d2e2fe45"
+hash = "9efa015f8bf2b64ca5ca27b3d24aa6fa74292ba1041512845f9f695f8aecd412"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1566,7 +1574,7 @@ metafile = true
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
-hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
+hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
 metafile = true
 
 [[files]]
