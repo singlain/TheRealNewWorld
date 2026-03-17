@@ -1,6 +1,6 @@
 name = "Horse Stonks"
 filename = "horse-stonks-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Vj70oKlA/versions/1.0.1/horse-stonks-1.0.1.jar"
