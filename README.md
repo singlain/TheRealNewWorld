@@ -3,7 +3,7 @@
 
 # 🔶 Features
 - **Combat and Difficulty Overhauls**
-- **Progression Changes**
+- **Progression Fixes**
 - **Rebalanced Transportation**
 - **Sound and Atmosphere Improvements**
 - **Worldgen Overhaul**
@@ -14,6 +14,8 @@
 > Being a spiritual successor of my previous, long forgotten modpack I made for a server of friends - **The Real New World** was remade from ground up for **NeoForge** and had preserved the charm from its predecessor, along with some great additions and improvements Hundreds of hours went into carefully picking each mod and fine-tuning each config to result in the most balanced and fun experience!
 
 ## 🔷 Combat and Difficulty Overhauls
+
+#### My goal here was to spice up the combat by introducing different fighting playstyles, so you can not only just use a Sword or an Axe, but also try the new available weapons! On top of that, there are also some adjustments to the overall difficulty - read more below!
 
 <details>
 <summary>Better Combat</summary>
@@ -91,7 +93,12 @@
 
 </details>
 
+<details>
+<summary>Shields</summary>
 
+### Vanilla has a very annoying 5-tick delay between you pulling out the shield and actually being able to activate it; [Responsive Shields](https://modrinth.com/mod/responsiveshields) addresses that - unfair deaths will be much less frequent now!
+
+</details>
 
 <details>
 <summary>Dungeon Difficulty</summary>
@@ -119,7 +126,10 @@
 
 </details>
 
-## 🔷 Progression Changes
+## 🔷 Progression Fixes
+
+#### Over the years, Minecraft's progression has started to become more and more broken, with the final nail in the coffin being the **Village & Pillage**, which made it possible to obtain nearly all of the rarest enchantments in the game within the first hour of play, not to mention the Totem Farms that made therefore mentioned Totem of Undying a thing everyone just carries in their pocket!
+#### The added adjustments may seem boring; I thought so too until I went playtesting and found out how fun actually playing this game and exploring the world for rare loot no longer available through Villagers can get!
 
 <details>
 <summary>Your New Journey to The End</summary>
@@ -142,9 +152,16 @@
 </details>
 
 <details>
+<summary>More Trade Rebalances!</summary>
+
+### [VillagerTradeFix](https://modrinth.com/mod/villagertradefix) makes it impossible to "re-roll" villager trades, significinantly extending the timespan for you to build a Villager hub with all sweet deals at your disposal!
+
+</details>
+
+<details>
 <summary>Village Spawnrates</summary>
 
-### Added [80% Abandoned Villages](https://modrinth.com/datapack/abandoned-villages), so that villages aren't as overabundant as before, plus, why not restore a village or two?
+### Villages are now 5 times more rare!
 
 </details>
 
@@ -157,10 +174,12 @@
 
 ## 🔷 Rebalanced Transportation
 
+#### All the Transportation Methods in this game are made obsolete by two things: Elytras and Ice Boat Highways. In the meantime, The Horses and The Good Ol' Minecarts are left to rot without anyone using them, so check out what's changed transportation-wise with this modpack!
+
 <details>
 <summary>Ice Boats</summary>
 
-### [Nerfed Ice Boats!](https://modrinth.com/mod/ice-boat-nerf) No more boats traveling at 50 blocks per second! Go and build a railroad!
+### [Nerfed Ice Boats!](https://modrinth.com/mod/ice-boat-nerf) No more boats traveling at 50 blocks per second! Go and build a railroad! Or, if you wish - explore other means of quick transportation!
 
 </details>
 
@@ -189,6 +208,8 @@
 
 ## 🔷 Worldgen Overhaul
 
+#### The Vanilla Worldgen is pretty decent, but it can certainly be made better!
+
 <details>
 <summary>Tectonic, Geophilic and Others</summary>
 
@@ -205,6 +226,8 @@
 </details>
 
 ## 🔷 Sound and Atmosphere Improvements
+
+#### Vanilla Minecraft has always struck me as too quiet. Except for occasional background music the only sounds around you are the ones you and the other mobs make, and in this modpack I tried being close to Vanilla vibe-wise, but also introduce more things along the way!
 
 <details>
 <summary>Euphonium</summary>
@@ -237,6 +260,13 @@
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vzjLaJr7DMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</details>
+
+<details>
+<summary>Immersive Winds</summary>
+
+### [Immersive Winds](modrinth.com/mod/immersive-winds) will put some wind in your ears, but that's just the side-effect. Now nearly all the particles in-game, including the ones added by **Subtle Effects** will obey the wind; that also includes the smoke emitted from Campfires. Now your chimney will have much more vibe to it!
 
 </details>
 
@@ -284,6 +314,8 @@
 
 
 ## 🔷 Create, Addons and Farmer's Delight
+
+#### And now for the elephants in the room - Create and Farmer's Delight will surely keep you busy building factories, food farms and of course, Trains!
 
 <details>
 <summary>Create</summary>
@@ -462,7 +494,6 @@
 <details>
 <summary>Mods</summary>
 
-- \.connector
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) by Yanny
@@ -499,6 +530,7 @@
 - [Clean F3](https://modrinth.com/mod/5lvjfaRs)
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Collective](https://modrinth.com/mod/e0M1UDsY) by Rick South
+- [Colorful Hearts](https://modrinth.com/mod/wQfMUdZT) by Terrails
 - [Colorwheel](https://modrinth.com/mod/BzHgFoGz) by djefrey
 - [Colorwheel Patcher](https://modrinth.com/mod/KPsw5jDu) by djefrey
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR) by RelativityMC, ishland
@@ -554,6 +586,7 @@
 - [Horseman](https://modrinth.com/mod/qIv5FhAA) by mortuusars
 - [Ice Boat Nerf](https://modrinth.com/mod/Udjno5eL) by supersaiyansubtlety
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
+- [Icebreak](https://modrinth.com/mod/dossS7yO) by IMB11
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Immersive Thunder](https://modrinth.com/mod/uKjKoMsj) by netcatgirl
 - [Immersive Winds](https://modrinth.com/mod/smYLXoRt) by Vibzz
@@ -586,6 +619,7 @@
 - [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS, 1Foxy2
 - [More Sounds](https://modrinth.com/mod/8jvcOd6S) by DVOA
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh \(YaLTeR\)
+- [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) by mt1006
 - [Netherite Horse Armor](https://modrinth.com/mod/nDFVOeq7) by JerryLu086
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Chat Restrictions](https://modrinth.com/mod/z440MEwJ) by Aizistral
@@ -619,6 +653,7 @@
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
 - [Scholar](https://modrinth.com/mod/fX4dIQCo) by mortuusars
 - [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) by comp500
+- [Seamless](https://modrinth.com/mod/rhyHyQke) by LarsMans
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
 - [Shield Fixes](https://modrinth.com/mod/HfLFMeJe) by Walksy
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/kepjj2sy) by Exopandora
@@ -669,13 +704,6 @@
 
 - [Vanilla Tweaks](https://vanillatweaks.net/) by Vanilla Tweaks Team
 - [C418 Songs Only](https://modrinth.com/resourcepack/c418-songs-only) by redsquare
-
-</details>
-
-<details>
-<summary>Data Packs</summary>
-
-- [80% Abandoned Villages](modrinth.com/datapack/abandoned-villages) by lunaStellarii
 
 </details>
 

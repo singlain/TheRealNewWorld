@@ -36,6 +36,7 @@ Cherished Worlds (https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
 Clean F3 (https://modrinth.com/mod/5lvjfaRs)
 Cloth Config v15 API (https://modrinth.com/mod/9s6osm5g) by shedaniel
 Collective (https://modrinth.com/mod/e0M1UDsY) by Rick South
+Colorful Hearts (https://modrinth.com/mod/wQfMUdZT) by Terrails
 Colorwheel (https://modrinth.com/mod/BzHgFoGz) by djefrey
 Colorwheel Patcher (https://modrinth.com/mod/KPsw5jDu) by djefrey
 Concurrent Chunk Management Engine (https://modrinth.com/mod/COlSi5iR) by RelativityMC, ishland
@@ -91,6 +92,7 @@ Highlight (https://modrinth.com/mod/Vz96hXMh) by ThatGravyBoat
 Horseman (https://modrinth.com/mod/qIv5FhAA) by mortuusars
 Ice Boat Nerf (https://modrinth.com/mod/Udjno5eL) by supersaiyansubtlety
 Iceberg (https://modrinth.com/mod/5faXoLqX) by Grend
+Icebreak (https://modrinth.com/mod/dossS7yO) by IMB11
 ImmediatelyFast (https://modrinth.com/mod/5ZwdcRci) by RK_01
 Immersive Thunder (https://modrinth.com/mod/uKjKoMsj) by netcatgirl
 Immersive Winds (https://modrinth.com/mod/smYLXoRt) by Vibzz
@@ -123,6 +125,7 @@ More Chat History (https://modrinth.com/mod/8qkXwOnk) by JackFred
 More Culling (https://modrinth.com/mod/51shyZVL) by FX - PR0CESS, 1Foxy2
 More Sounds (https://modrinth.com/mod/8jvcOd6S) by DVOA
 Mouse Tweaks (https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh (YaLTeR)
+NBT Autocomplete (https://modrinth.com/mod/UR0ocuEt) by mt1006
 Netherite Horse Armor (https://modrinth.com/mod/nDFVOeq7) by JerryLu086
 No Chat Reports (https://modrinth.com/mod/qQyHxfxd) by Aizistral
 No Chat Restrictions (https://modrinth.com/mod/z440MEwJ) by Aizistral
@@ -156,6 +159,7 @@ Reese's Sodium Options (https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 Resourceful Lib (https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic_Oreo
 Scholar (https://modrinth.com/mod/fX4dIQCo) by mortuusars
 Screenshot to Clipboard (https://modrinth.com/mod/1KiJRrTg) by comp500
+Seamless (https://modrinth.com/mod/rhyHyQke) by LarsMans
 Searchables (https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
 Shield Fixes (https://modrinth.com/mod/HfLFMeJe) by Walksy
 Shoulder Surfing Reloaded (https://modrinth.com/mod/kepjj2sy) by Exopandora
@@ -203,7 +207,3 @@ e4mc (https://modrinth.com/mod/qANg5Jrr) by skyevg
 
 Vanilla Tweaks (https://vanillatweaks.net/) by Vanilla Tweaks Team
 C418 Songs Only (https://modrinth.com/resourcepack/c418-songs-only) by redsquare
-
-:: Datapacks ::
-
-80% Abandoned Villages (modrinth.com/datapack/abandoned-villages) by lunaStellarii

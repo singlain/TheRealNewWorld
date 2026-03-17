@@ -49,6 +49,10 @@ file = "config/bettermodsbutton-client.toml"
 hash = "ff91cbe1cdd398a63f545e0509f1fd392fde747a266980894152317280ea5f65"
 
 [[files]]
+file = "config/betterstats.json"
+hash = "3c936b9cbeef62de66be5f06f51dc424cfc0df7989751c8cfc52ad767a8b4d94"
+
+[[files]]
 file = "config/betterstrongholds-neoforge-1_21.toml"
 hash = "96a848f0e0ebe18c5b584a3699d5ac1e9ac6cd5e8206a1bef093ec86400304e9"
 
@@ -67,6 +71,10 @@ hash = "1475b5e69688ff2d7cce3878d2e017e86890dca484ad3ca3342f6e6e7c467e92"
 [[files]]
 file = "config/chatanimation.json"
 hash = "6f7cf73fd1216de8dcc85abe1d0184ff08ef26810aa8e958788857e783baee61"
+
+[[files]]
+file = "config/colorfulhearts.toml"
+hash = "dc7501c8e4577415c7fa1b794036942dd438aff50d4f7c3e5fddf8cf3c29e154"
 
 [[files]]
 file = "config/colorwheel-client.toml"
@@ -198,7 +206,7 @@ hash = "ceee9a0f955af30cdf1045e7d30b3c5b68ed93262d7c9b53ba24c612186aea1b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0e71d602cd51f388d97df048c5b6aa9c77a3ca73fb2fb3aef1e1708939bac27b"
+hash = "f16f63403de86d7b0c39ecafc330e94c33060d14c4ed5c4a77e576156fb10c79"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -247,10 +255,6 @@ hash = "6a5ff28a6b905d7291caee975e89cf42056f2a71e2f26663d8d62497bafecd44"
 [[files]]
 file = "config/particlerain.json"
 hash = "981bc8696044b77a8b63dca322bee9171517a9ecff09bb7d7143cdbe54ab5e69"
-
-[[files]]
-file = "config/paxi/datapacks/Abandoned Villages.zip"
-hash = "a71f3efade3f266d031467172379a30ae0fe27387c1b98d31d32ed204bf78596"
 
 [[files]]
 file = "config/paxi/datapacks/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
@@ -674,7 +678,7 @@ hash = "62e10948b3244c03963ea88598770268cd3d89e6d4e23706885b3542633e820b"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
-hash = "9e0c2b0e51b11d72d00849430529e3e27aca2499ede372daf1cb5954bee18dff"
+hash = "e104bac7ad426d32c3bb6fcc9d5f00add7e97120d76728ca65698562b39eb646"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
@@ -723,6 +727,10 @@ hash = "bf96b51f4e59e6782475b63f0b98db228fb7e3c621e140c4a067d36f784da7cf"
 [[files]]
 file = "config/sounds/world.json"
 hash = "fac62faf5f718be93c64081e1681f00c5a97a4ab712d7784af26b2edb155b5a4"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "ff7f637991956e6071814da20c7aa07d02346c534cc048be84e87687145019ca"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
@@ -790,7 +798,7 @@ hash = "ac99279e8b3766b658f7cf2867736cfd78d7dc9bc11555fedb9f11f968b2c1ec"
 
 [[files]]
 file = "credits.txt"
-hash = "9efa015f8bf2b64ca5ca27b3d24aa6fa74292ba1041512845f9f695f8aecd412"
+hash = "afad93a5cf6d726b2ac917208524d96de50961d031d9bffcf4563ec768cf1a8c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -805,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "a3e5ded49ba85b7dc425f811a2f6df2a56f89a7e29c281d27a9e0dc86237deb5"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
 
 [[files]]
@@ -990,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "3f6e74711a0c2677548ec3a5ef36a3fbf79b5a9f2b406aab73b1ca678fc518f9"
 metafile = true
 
 [[files]]
@@ -1293,6 +1311,11 @@ hash = "5e980c7a60f1cbf1bdad868a326b8d546c46d7ecb36fa2d9bdc8e9d8c11c929a"
 metafile = true
 
 [[files]]
+file = "mods/icebreak.pw.toml"
+hash = "755d4f2da7ccd5c2c1fc213b3a01b1260fbb775aa4e02be3be2e0e1a8509c950"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bbe8904034289bfaa834647be87a4c685e16605d2281a951ceb454e7b9a1a095"
 metafile = true
@@ -1310,6 +1333,11 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
+metafile = true
+
+[[files]]
+file = "mods/improved-village-placement.pw.toml"
+hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
 metafile = true
 
 [[files]]
@@ -1460,6 +1488,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "a87252ea5cefb7f1db42eaf2dd523e057fa6e690c213d803aa151c808bba2a9a"
 metafile = true
 
 [[files]]
@@ -1628,6 +1661,16 @@ hash = "99f8128b64007386a430d76399505447d72c9af45c69c373312d3c5b3620ae3e"
 metafile = true
 
 [[files]]
+file = "mods/responsive-knockback.pw.toml"
+hash = "8d08e2f3a114b4fe5473a875f9ab1bc4d3e5ef69b4a6db9ebe3c9c105db97e17"
+metafile = true
+
+[[files]]
+file = "mods/responsiveshields.pw.toml"
+hash = "6085325b661e439e982a471eddc3a390918db9be3dcd198e6faeb33f6d9aaff0"
+metafile = true
+
+[[files]]
 file = "mods/scholar.pw.toml"
 hash = "9dd83b8b7851c63402a0416ed5ed84a74d64c667d3ad390eaa4a54777e60cfa0"
 metafile = true
@@ -1635,6 +1678,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "98e1bfee9a65c072cb1849212288737d5ad987062473c263b8cec52973a762f0"
+metafile = true
+
+[[files]]
+file = "mods/seamless.pw.toml"
+hash = "68f035ae4bc3406765939fcb13fbcc087fc5094b96a565403e10fd402d239dfd"
 metafile = true
 
 [[files]]
@@ -1710,6 +1758,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
 metafile = true
 
 [[files]]

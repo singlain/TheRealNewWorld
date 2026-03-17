@@ -1,0 +1,13 @@
+name = "Icebreak"
+filename = "icebreak-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dossS7yO/versions/1blBoCvZ/icebreak-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8ea573171a0d277e6678f6fad36c6bbe09d78134e97c09eaa37b2f8ca75de08a09d69ceeb507c962a7086b7f94c12f3c58d9498587a9e60cefc8d9db4ce62086"
+
+[update]
+[update.modrinth]
+mod-id = "dossS7yO"
+version = "1blBoCvZ"

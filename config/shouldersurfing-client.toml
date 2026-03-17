@@ -30,20 +30,26 @@
 	#Whether to apply view bobbing in shoulder surfing perspective. Set to INHERIT to inherit vanilla setting.
 	#Allowed Values: INHERIT, ON, OFF
 	view_bobbing_mode = "INHERIT"
+	#Whether or not to follow the rotations of the player when camera is decoupled.
+	follow_player_rotations = true
+	#The delay in ticks after which the camera rotations will follow rotations of the player.
+	# Default: 40
+	# Range: > 1
+	follow_player_rotations_delay = 40
 
 	[camera.offset]
 		#Third person camera x-offset.
 		# Default: -0.75
 		# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_x = -0.8250000000000002
+		offset_x = -1.05
 		#Third person camera y-offset.
 		# Default: 0.0
 		# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_y = 0.0
+		offset_y = -0.02500000000000001
 		#Third person camera z-offset.
 		# Default: 4.0
 		# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		offset_z = 2.45
+		offset_z = 2.724999999999999
 
 		[camera.offset.presets]
 			#A list of x-offset presets that can be toggled via the 'Toggle X-Offset Presets' keybind. WARNING: Duplicate entries can result in undefined behavior!
