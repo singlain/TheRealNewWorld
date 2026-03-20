@@ -154,7 +154,7 @@ hash = "e635c51be73c00bf05d8c4f95ee23285da7feaeba9eedfed803d453f564cf458"
 
 [[files]]
 file = "config/enhanced_attack_indicator-client.toml"
-hash = "a55202ebcba99cc7f607d569828e4e864be22cd8a42a028a2e8fd9a71b5f36eb"
+hash = "64eb02ab07f79daae2c2d19e07923900fc7eeb7f33c55c1db774ba8196ff7d91"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -206,7 +206,7 @@ hash = "ceee9a0f955af30cdf1045e7d30b3c5b68ed93262d7c9b53ba24c612186aea1b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a5dfdf45e1d743ab950e4d1d755d40f9bb0790043f80a05d98cee8897bcdca32"
+hash = "08ccab778e9d17a169ac271530eee091187af4484bcc3c0aa4d6c6ccd2c277e4"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -1316,6 +1316,11 @@ hash = "755d4f2da7ccd5c2c1fc213b3a01b1260fbb775aa4e02be3be2e0e1a8509c950"
 metafile = true
 
 [[files]]
+file = "mods/illagers-wear-armor.pw.toml"
+hash = "7fdc80c6250ba6feee62da887f7877f983a9342cc02591712c7b34a9ba68ccd3"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bbe8904034289bfaa834647be87a4c685e16605d2281a951ceb454e7b9a1a095"
 metafile = true
@@ -1897,7 +1902,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0a1c1645f1d0c6272ff4267286313ca25255a113b49c1a692f09644fcb82d9a6"
+hash = "bf63c2fbfe1e9f1f0e46f5aba58072d6ec9778ea5ea87974f44051d8f7bd2d29"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r679409_MC1.21.x.zip"
