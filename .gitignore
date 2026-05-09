@@ -1,0 +1,12 @@
+# Exclude exported .zips
+*.zip
+
+# Exclude exported .mrpacks
+*.mrpack
+
+# Exclude changelog.txt
+*changelog.txt
+*changelogs.txt
+
+# Exclude pakku.jar
+* pakku.jar
