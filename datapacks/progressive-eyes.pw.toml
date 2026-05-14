@@ -1,0 +1,13 @@
+name = "Progressive Ender Eyes"
+filename = "RanoldsProgressiveEyes1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dfNH659H/versions/sllksUna/RanoldsProgressiveEyes1.1.zip"
+hash-format = "sha512"
+hash = "ab18c226db9f74717cdabd3914e7023077f654598958feac79ab7e1a65a961398a69b9d9a09c8c1ad3a96c1b13d97a4d4e8a76be2c70692cb4cbfd4176bfb208"
+
+[update]
+[update.modrinth]
+mod-id = "dfNH659H"
+version = "sllksUna"

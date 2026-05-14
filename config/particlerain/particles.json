@@ -1,0 +1,36 @@
+{
+  "rain": {},
+  "heavy_dust": {
+    "density": 0.497
+  },
+  "splatter": {},
+  "smoke": {},
+  "streak": {
+    "blockList": {
+      "entries": [
+        "#minecraft:impermeable",
+        "#c:glass_panes",
+        "#c:glass_blocks"
+      ],
+      "isWhitelist": true
+    }
+  },
+  "mist": {
+    "enabled": false
+  },
+  "shrub": {},
+  "snow_haze": {},
+  "mist_after_rain": {
+    "enabled": false
+  },
+  "ripple": {},
+  "rain_haze": {},
+  "snow": {
+    "density": 0.597,
+    "size": 2.0
+  },
+  "dust": {
+    "density": 1.0
+  },
+  "dust_haze": {}
+}

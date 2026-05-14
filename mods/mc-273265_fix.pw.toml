@@ -1,0 +1,13 @@
+name = "MC-273265 Fix"
+filename = "mc273265fix-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1BFjX2g/versions/zaz7DqCA/mc273265fix-1.0.jar"
+hash-format = "sha512"
+hash = "8fb3e0240f68a87e0eeaaf654dfae70f0f05067906ab7094a4b92a2def1a3e16267169146c9aa159c489944cd632f7b4fdf482c66f64a85efbca83277b8689d2"
+
+[update]
+[update.modrinth]
+mod-id = "L1BFjX2g"
+version = "zaz7DqCA"

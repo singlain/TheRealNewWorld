@@ -1,0 +1,13 @@
+name = "Fast Minecart"
+filename = "FastMinecart-v1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BHUz7jn9/versions/Mlbqwe0s/FastMinecart-v1.0.1.jar"
+hash-format = "sha512"
+hash = "31f4e1777ea824900efb5cb24cf5ef72bf367b064ee22532c7f702f9ba80495bdf0164f8b215cc25d043e0053652de0eff3d1bce2c7d1d9e7174c0624a27cdad"
+
+[update]
+[update.modrinth]
+mod-id = "BHUz7jn9"
+version = "Mlbqwe0s"

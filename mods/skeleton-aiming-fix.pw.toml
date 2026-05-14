@@ -1,0 +1,13 @@
+name = "Skeleton Aiming Fix"
+filename = "skeletonaimingfix-2.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/afi6lIuM/versions/h4tHry2B/skeletonaimingfix-2.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "ed7fc4075d35bfc74540e6b243f75e31fa977d261357189f057f823f3f52eb5b0ae8e3f6daad0d2d5efdf775aa54a262498bf8bf74bfe3a3bd9802f6a618746d"
+
+[update]
+[update.modrinth]
+mod-id = "afi6lIuM"
+version = "h4tHry2B"

@@ -1,0 +1,13 @@
+name = "Better \"Add Server\""
+filename = "BetterAddServer-1.21.1-neoforge-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4DtR8IM/versions/MnVanLhA/BetterAddServer-1.21.1-neoforge-1.3.0.jar"
+hash-format = "sha512"
+hash = "0e32d3d455f840e51012cd7ac1b0aa6076ee8762967f6c1f0d1688d30ab52f351ba1e332f8301e28d2c77ad3c3c565c8d57081b94a0d8355cdc6a0717f0827a1"
+
+[update]
+[update.modrinth]
+mod-id = "s4DtR8IM"
+version = "MnVanLhA"

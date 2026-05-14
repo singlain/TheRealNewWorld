@@ -1,0 +1,13 @@
+name = "Totem of Undying Death Messages"
+filename = "totemdeathmessagesV2.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HpUX4N2X/versions/SCLtUeak/totemdeathmessagesV2.5.zip"
+hash-format = "sha512"
+hash = "f57468569e80461c0485671632f3c2e2a406e4f79a81802ea78dfe2e7076f83758fd292d44b58d1051a3ccfb9e986a2837ce4f4e27a6c8dcf53d034e81853843"
+
+[update]
+[update.modrinth]
+mod-id = "HpUX4N2X"
+version = "SCLtUeak"
