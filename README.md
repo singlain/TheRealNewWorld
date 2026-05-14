@@ -8,7 +8,6 @@ A modpack focused around <font color="#F0DC82">**Create**</font> and its greates
 
 # <font color="#FCD748">Features</font>
 - **Create & Create Aeronautics 🚂**
-- **Worldgen Overhaul ⛰️** 
 - **Overhauled Combat 🗡️**
 - **Progression Rebalances ⚖️**
 - **Transportation Rebalances 🐎**
@@ -34,14 +33,6 @@ These two need no introduction, but in case they do - check out their trailers b
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SO8tpWfZjGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
-
-## <font color="#FCD748">Worldgen Overhaul ⛰️</font>
-
-Past **Caves & Cliffs** (1.18) Minecraft's worldgen was remade to favor mostly hilly terrain, which would make building train tracks on a flat / smooth surface a lot harder, not to mention the rivers that weren't given proper care since forever.
-
-This modpack, however, fixes all of those issues with [Tectonic](https://modrinth.com/datapack/tectonic) which was configured specifically to feature much wider rivers and bigger biomes, also favoring more smoother terrain than the constant hilliness of Vanilla.
-
-On top of that, the world now looks much more alive thanks to [Geophilic](https://modrinth.com/datapack/geophilic), adding many subtle changes to the world. As a bonus on top of that, the snow should now spawn properly spawn under trees upon worldgen!
 
 ## <font color="#FCD748">Overhauled Combat 🗡️</font>
 

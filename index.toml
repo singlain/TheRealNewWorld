@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "4d3a126373caa7367449e03c4d5fda8d79b31439f56318e1f07f9805928a47e7"
+hash = "ff761176a526d5c64dc9ebe7e2a2c8a503c935dacde9f26720a40ef06926caa2"
 
 [[files]]
 file = "changelog.txt"
@@ -230,11 +230,7 @@ hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "e4ad368f974e6b9213c09f251cedbfca7e5fe5637fdbfaa2990296c650fb9f7e"
-
-[[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
+hash = "b9975436d8abebb31e94cc30c538d4c4a87aec994640c820d089cf20e378e742"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -333,10 +329,6 @@ file = "config/subtle_effects/items.toml"
 hash = "6f577ccf5d61e9a2c845eb915b70eed0b9f89914b09ef9a0230185ef2d0a338b"
 
 [[files]]
-file = "config/tectonic.json"
-hash = "43136a45210545c616d3c2b7456291578759a9315eaefe1a668f6a7efc3f8c64"
-
-[[files]]
 file = "config/toadlib_config.txt"
 hash = "a59d2a34eb4d8f8752f5e99d5932c694a0e54515ab6418d0f785bb62b1a7ab57"
 
@@ -359,11 +351,6 @@ hash = "eeb055084344ac0ade7139dbb6c530eb3ba2018abfc3e14859bfa3ef33484266"
 [[files]]
 file = "datapacks/bundle/pack.mcmeta"
 hash = "339da10b2e91b8de425fd3623588624dcb9e2167571b1fa157c614376557b1e9"
-
-[[files]]
-file = "datapacks/geophilic.pw.toml"
-hash = "1c8fd9abeba4b7d8841943d2370c8420cafd523aad7d3350c9a6e3b9fea231b6"
-metafile = true
 
 [[files]]
 file = "datapacks/noraidtotems.pw.toml"
@@ -994,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "b87d40e986e10c0486115cfa2021c0657ddd51a2f989996cc07b75a63500c704"
+hash = "8a801f6101907154065cb49742b1fbbb95f781a07b8abeb40323bd58c747f201"
 metafile = true
 
 [[files]]
@@ -1045,11 +1032,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "08dc422d9c30fc19b569033f7cfd2abcd50134f618fe335b396b41dc6f5f3834"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "8811cad4006b00e3636c53eae7be888a8d64cd2f00d1c9b3baa9404921eb280b"
 metafile = true
 
 [[files]]
@@ -1109,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "38ec6a4a622a314a6eb430293839bc02df8f481e32b6369cf2e0cb73e0f91207"
+hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
 metafile = true
 
 [[files]]
@@ -1293,6 +1275,11 @@ hash = "b15bc42ba68b81848c6d942413b7b97850f172cc59aaf2100e46975781c34f38"
 metafile = true
 
 [[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "c5687771065e4a43266b38018cbdf142b216916dd73aa6532b8282e3d0f06b9c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
 metafile = true
@@ -1315,11 +1302,6 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "65afe097d1e9398cace283b6c510222e7cc0b4cfd19ddea54e9ee6d5ddbf06e2"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "fbf9ab3737984fbceaef5cc504dd497ba293118dd07c069caeed17065af21676"
 metafile = true
 
 [[files]]
