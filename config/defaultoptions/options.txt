@@ -12,7 +12,7 @@ joinedFirstServer:true
 skipMultiplayerWarning:true
 narrator:0
 lastServer:
-resourcePacks:["vanilla","mod_resources","file/VanillaTweaks_r309049_MC1.21.x.zip","file/newworld_panorama","file/newworld_splash_texts","continuity:default","continuity:glass_pane_culling_fix","mod/subtle_effects:resourcepacks/biome_color_water_particles","fabric","moonlight:merged_pack","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","tinyskeletons:dynamically_copied_skeleton_textures","file/§3§lC418 Songs Only.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","tinyskeletons:dynamically_copied_skeleton_textures","moonlight:merged_pack","file/VanillaTweaks_r309049_MC1.21.x.zip","continuity:default","continuity:glass_pane_culling_fix","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/newworld_splash_texts","file/newworld_panorama","file/§3§lC418 Songs Only.zip"]
 lang:en_uk
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -31,15 +31,4 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:0.75
 soundCategory_voice:0.7
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.unknown
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_iris.keybind.wireframe:key.keyboard.unknown
-key_key.astikorcartsredux.action:key.keyboard.c
-key_key.astikorcartsredux.slow:key.keyboard.v
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
-key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_key.presencefootsteps.settings:key.keyboard.unknown
-key_key.presencefootsteps.toggle:key.keyboard.unknown
 modelPart_cape:false
-
