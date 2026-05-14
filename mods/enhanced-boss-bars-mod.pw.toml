@@ -1,6 +1,6 @@
 name = "Enhanced Boss Bars"
 filename = "enhancedbossbars-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/J5bVsBt9/versions/cQKcPNVh/enhancedbossbars-1.0.0.jar"

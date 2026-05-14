@@ -1,6 +1,6 @@
 name = "MC-273265 Fix"
 filename = "mc273265fix-1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/L1BFjX2g/versions/zaz7DqCA/mc273265fix-1.0.jar"

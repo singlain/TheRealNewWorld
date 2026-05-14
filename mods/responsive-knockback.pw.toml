@@ -1,6 +1,6 @@
 name = "Responsive Knockback"
 filename = "responsiveknockback-1.1-neoforge-mc1.20.5-1.21.x.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FMQ7tQOa/versions/ptz4V6RX/responsiveknockback-1.1-neoforge-mc1.20.5-1.21.x.jar"

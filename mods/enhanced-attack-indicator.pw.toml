@@ -1,6 +1,6 @@
 name = "Enhanced Attack Indicator"
 filename = "enhanced_attack_indicator-1.1.1+1.21-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eTy17BBS/versions/cmUdkoBd/enhanced_attack_indicator-1.1.1%2B1.21-forge.jar"

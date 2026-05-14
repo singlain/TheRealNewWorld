@@ -1,6 +1,6 @@
 name = "Leave My Bars Alone"
 filename = "LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gK9mebQg/versions/27kYf7JI/LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar"

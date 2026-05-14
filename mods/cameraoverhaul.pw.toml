@@ -1,6 +1,6 @@
 name = "Camera Overhaul"
 filename = "CameraOverhaul-v2.0.6-neoforge+mc[1.21.0-1.21.1].jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/m0oRwcZx/versions/zTY9SqFy/CameraOverhaul-v2.0.6-neoforge%2Bmc%5B1.21.0-1.21.1%5D.jar"

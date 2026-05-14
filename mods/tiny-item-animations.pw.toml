@@ -1,6 +1,6 @@
 name = "Tiny Item Animations"
 filename = "tia-neoforge-1.21-1.2.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wMkevcSR/versions/mSJPeo1D/tia-neoforge-1.21-1.2.1.jar"

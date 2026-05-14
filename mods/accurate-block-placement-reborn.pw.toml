@@ -1,6 +1,6 @@
 name = "Accurate Block Placement Reborn"
 filename = "AccurateBlockPlacement-Reborn-1.4.4+mc-1.20.5-1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kzwxhsjp/versions/K8jC44Vl/AccurateBlockPlacement-Reborn-1.4.4%2Bmc-1.20.5-1.21.1.jar"

@@ -1,6 +1,6 @@
 name = "Better World Loading"
 filename = "betterworldloadingnf21-1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bmOyRapU/versions/9Nm7qDaq/betterworldloadingnf21-1.0.jar"

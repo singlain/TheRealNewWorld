@@ -1,6 +1,6 @@
 name = "Default Options"
 filename = "defaultoptions-neoforge-1.21.1-21.1.6.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WEg59z5b/versions/RHtZ1B17/defaultoptions-neoforge-1.21.1-21.1.6.jar"

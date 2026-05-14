@@ -1,6 +1,6 @@
 name = "Map Tooltip"
 filename = "maptooltip-5.0.1+1.21-neoforge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GNtptqqU/versions/Vh5SHo6M/maptooltip-5.0.1%2B1.21-neoforge.jar"

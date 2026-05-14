@@ -1,6 +1,6 @@
 name = "XP Stream"
 filename = "xp_stream-neoforge-1.21.1-1.1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QZqv3OuH/versions/xMgTcITM/xp_stream-neoforge-1.21.1-1.1.4.jar"

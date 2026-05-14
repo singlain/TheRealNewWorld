@@ -1,6 +1,6 @@
 name = "Smooth Swapping"
 filename = "smoothswapping-0.9.3.2-1.21.1-neoforge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ydZic5r4/versions/tnvwgXE6/smoothswapping-0.9.3.2-1.21.1-neoforge.jar"

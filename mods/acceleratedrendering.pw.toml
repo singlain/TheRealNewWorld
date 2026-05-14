@@ -1,6 +1,6 @@
 name = "Accelerated Rendering"
 filename = "acceleratedrendering-1.0.8-1.21.1-alpha.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DfECZO3a/versions/cNOung9q/acceleratedrendering-1.0.8-1.21.1-alpha.jar"

@@ -1,6 +1,6 @@
 name = "Smart Particles"
 filename = "smart_particles-21.8.10.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/l8rWP4Tc/versions/bsUPkcRL/smart_particles-21.8.10.jar"

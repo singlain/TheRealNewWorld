@@ -1,6 +1,6 @@
 name = "Armor Trim Item Fix"
 filename = "ArmorTrimItemFix-neoforge-1.21.1-1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kIhxG5zE/versions/58QHLI6Z/ArmorTrimItemFix-neoforge-1.21.1-1.2.0.jar"
