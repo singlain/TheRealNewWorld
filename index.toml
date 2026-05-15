@@ -29,6 +29,10 @@ file = "config/badoptimizations.txt"
 hash = "c7bd10cae72338e1f40a8482380358448ffb1e03b2a73c2c986100e772d2db11"
 
 [[files]]
+file = "config/better_tooltips-client.toml"
+hash = "a5bb52cc67f1c274ec69e0b1b6f082d5513a92bdc5130036b75f94d17995c143"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "679e42c62cb0f29e4bf0370ec3ef66ddf21e129098de2d2346160900075c8714"
 
@@ -79,10 +83,6 @@ hash = "77f86e18fff51b0c06b773b5bc9608b5b74e264e2220589d6b1723b044b18e10"
 [[files]]
 file = "config/create-client.toml"
 hash = "df2b1f5715e64f372752968e18f2d43c7afc5888ea480e0751da9bacbccbc022"
-
-[[files]]
-file = "config/cubes_without_borders.json"
-hash = "3828387c4a7c0ca58fd5f1a91f0206b69dbe557120f17cdd5e0eab185a80ef5d"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
@@ -1365,27 +1365,27 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "255c5876e74a91513c25def05f27c5c9049c996a1ff4c13d61baeec0fbcc6a0a"
+hash = "1c90ad2d564fc1ac0673b37da2330bae151fdd221b078a5bf0e4c8a26edde56a"
 
 [[files]]
 file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "9db3d8fbf00c460ea583d6b0ae570957eb06070feb88272275f559eff7a1b371"
+hash = "5a297419811368de33235561dc0b9fd24a2b2eae17e7ee9d35e3af85adcb2af0"
 
 [[files]]
 file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "7a9794f8310897f8ba797dda3970d5536a688776aa57fcbfde05aaf0e5d3e5f9"
+hash = "3d8faa7ea9e89965697e3694c3c63ca8fd622c1d1ef0eeb9fb70d3a258d32b8f"
 
 [[files]]
 file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "ba26e7259b815d1538921ac62dd03edf0216663e8bf139ca954fac90bdb4deeb"
+hash = "9027780d9e01b78cd05afb9925d293fb4adafbbc393437c201d072208832a581"
 
 [[files]]
 file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "6218cdc967072de0c316f1dd3579fab92653f544b90c95e7251675bf1f93dc48"
+hash = "0731a46b7e0b5e6643c60ca18615e095fb399728c48de5c8f411d7f606f36382"
 
 [[files]]
 file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "7c8fa39e04c0cb011e2cc8ec4504997e4cd97901c9dfb47ddbb1427331dc4d8f"
+hash = "35fa0740375533d96316da1ee0a6c3567a72aab382a9a6128e7b3738239fa9e6"
 
 [[files]]
 file = "resourcepacks/newworld_panorama/pack.mcmeta"
@@ -1393,7 +1393,39 @@ hash = "f683f2b731bef70252327b32852675e61e9f2c89f99c05c2c81956fbb2fd6181"
 
 [[files]]
 file = "resourcepacks/newworld_panorama/pack.png"
-hash = "862450712b6580c47e9dfd2108c2fef71d0f2e0db2b31b180861e584dc3e4526"
+hash = "d16f9c40060ede1fb393a9f6093752ff45573075ae7f2db2411c90301a43bbea"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "222b560f85dec5d55b8cab4c61d0be17f4c03c0c9637ff3979e74b668bee1055"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "ea4fd401cb17fff943f40631e2c3f0379c3abbe886e38db66e84d9901ee427e2"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "70f245a0fdee8b80ef1768243bf12809074bcf22654b11a00cb43c6ebacb8f8b"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "7f1bd71ce8cdedfda611c40b16de7a1630230aac1769a404c4e76e491aff0e7c"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "721caeb32f1cbb4019207ea9d5d5f20e6d236ba682025e7e8e102fbb67af5b68"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "5916b7deffc3ce099002fe6c7e67c9417154611a78e54e3c21167678b5e8d5f7"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/pack.mcmeta"
+hash = "6d1bb2ae8eded004ec9abb1a0d2f1828a0436e062a4a63dac93bb16fa747ee1f"
+
+[[files]]
+file = "resourcepacks/newworld_panorama_shaders/pack.png"
+hash = "a8e47dda6cd49f28dff3d9a16312d67a8aaab9cbcceff9740b2fc6f9e37f764d"
 
 [[files]]
 file = "resourcepacks/newworld_splash_texts/assets/minecraft/texts/splashes.txt"
