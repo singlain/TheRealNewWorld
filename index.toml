@@ -6,7 +6,7 @@ hash = "ff761176a526d5c64dc9ebe7e2a2c8a503c935dacde9f26720a40ef06926caa2"
 
 [[files]]
 file = "changelog.txt"
-hash = "dd29c150f805ab0c044b27329a91f0004b5a8dd5ad70f1fe085c6c76bfe406a8"
+hash = "23233c1344312da5b2be11c2d2e141317bccb40ec200dc846d17c1b9aacf0bbb"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -65,10 +65,6 @@ file = "config/cardboardchalkbox-common.toml"
 hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
 [[files]]
-file = "config/chat_heads.json5"
-hash = "6e8d6ef6679096cc3b7c2e42af23cea83722fb1ba12f5d4905e6f12f2c7264bc"
-
-[[files]]
 file = "config/colorfulhearts.toml"
 hash = "8e145eec99f3d361cf541f584f2e5bfabccb015353b53663f5e182ed2ddfc6c4"
 
@@ -106,7 +102,7 @@ hash = "f447750708cb0c1773477734490a287ec21161610edac38cf7551ce486702b83"
 
 [[files]]
 file = "config/easyanvils-server.toml"
-hash = "b5cc9077edec219449c6a80d1f69dfb2be96d08811230d30aa6f477dd6eee9e4"
+hash = "9badfff1815ef69a6721c541330d3c0b183b76ff85005c7b70e80870916ff059"
 
 [[files]]
 file = "config/easymagic-client.toml"
@@ -170,15 +166,15 @@ hash = "c395ca7bc3b7101f96251f0e0414f3bedd84ecbb50148ef78aa5a1784e426ca7"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f34d36719e7345f2a8f8ba1b90b2415ba624b3d0c18642b6c2ddf335a23cc474"
+hash = "c320a22eaf06da3791fa907f3522ae7335b51882b3a6509b3474727e96d45a77"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ec9cae1de3f52ece2cf41563cf6ad68f4407c6d448f67ddc8b684f6200b8a64f"
+hash = "8452063f8e77762f6203f96cd39d868540a1918a8ea8026a36948186bde79367"
 
 [[files]]
 file = "config/itemborders.toml"
-hash = "39f192a3e43346a95ba6da74796068e6ff271f0df95393f8ee81911b869d4cff"
+hash = "6217d2f4a8efdc5a6033c9055103b873535d6dc25d2e12d1315e7a66e055df14"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -250,15 +246,11 @@ hash = "e858a29b2d838a3304c16355f4f8366d9c4daedada7651319f08604a99f27478"
 
 [[files]]
 file = "config/scholar-client.toml"
-hash = "f3959e957253ab5631cdd55fae4acad3dd6ce39aef76791b00335ba3716e14db"
+hash = "ff672dc6e5265c70b61588bca57fcf0e16662c81083c566c10de97a32b2daa77"
 
 [[files]]
 file = "config/scholar-common.toml"
 hash = "62e10948b3244c03963ea88598770268cd3d89e6d4e23706885b3542633e820b"
-
-[[files]]
-file = "config/shouldersurfing-client.toml"
-hash = "6a3fb265a2c14b9b4d765b31af69508b333bd9a2bbeff2893c06039c30c1240e"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
@@ -271,6 +263,10 @@ hash = "b1e9fe5ff092f80aecf6d70b0f68261da7735ac601a2751720accb778d2ceafa"
 [[files]]
 file = "config/smart_particles/config.json"
 hash = "5f8f3d37ba5b194eeb5956127b80d801c3177e1297ec1c270e362219029588d1"
+
+[[files]]
+file = "config/smoothswapping.json"
+hash = "6b598560580b3fa3382de64bdb6df104b323f886cf858142231e6f1aa5f61b7b"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -294,7 +290,7 @@ hash = "73bbae09724ff8b670c902211f355b73101fbe5e144c6134174ca84e49371818"
 
 [[files]]
 file = "config/sounds/ui.json"
-hash = "d8da6da6eff95e5d9b0d394883970888b35bcc4b1dd5dd142341cc77e411c693"
+hash = "3dba607b5a93caec2827d258d4c8a27f66e2da6ab6980934be9645ed7631ea5c"
 
 [[files]]
 file = "config/sounds/world.json"
@@ -685,6 +681,11 @@ hash = "2730f188f260bffac933a869cab09b8fa13b49662a4ab801034ae4d79eb4a73f"
 metafile = true
 
 [[files]]
+file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
+hash = "af113c3d96796fd82f3b6232daab13d9a53c6d5ffdf750bd424be482468f4474"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "2677ab8dab9990ccd0813762f0feafaac269e4e567c414e20c13955bd78b975a"
 metafile = true
@@ -762,11 +763,6 @@ metafile = true
 [[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "80bf12995bcb7b615e0a741aeed36a9efa4fad645b7c10ace79dc05239d18c0e"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "99257c81ebabdedbd7a4759765eadf27e8825565f5e604dde1c209b7cd3abb5e"
 metafile = true
 
 [[files]]
@@ -936,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "e820288aad04b1328257bc595bc6491aeb612cbd8993732d31dff61a9d486cb0"
+hash = "f7e30e47cd2a581272f80becb7bf2812786b0ad8749c318e144986a32a149957"
 metafile = true
 
 [[files]]
@@ -981,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "8a801f6101907154065cb49742b1fbbb95f781a07b8abeb40323bd58c747f201"
+hash = "df97adaaeccd9dfcc1723e42799b72bcb760fc94077e00fe8150571d238464f2"
 metafile = true
 
 [[files]]
@@ -996,7 +992,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a16c8094b3a7d61e0286fdfd70faa9eeea79ee0a778d330d546a221c7bea5352"
+hash = "a94b56dea7472ec5354c8c131b2f397bc319fe8cafdb537a472f7dfc1894d167"
 metafile = true
 
 [[files]]
@@ -1081,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0b3619eced193d1e7e002ea97e1e3d5aef5e539e33983f076ef78ad3108e00e5"
+hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
 metafile = true
 
 [[files]]
@@ -1107,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "e077b43ba9f0976627b0412da3d93a88e686cbe9112c61a0169b3565f8360256"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
@@ -1222,11 +1223,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "bf7169e07f1e2868a3fa005bc145aaf4180207b8162b5ad082bfedeea41dfbd0"
-metafile = true
-
-[[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "1fe4ae157a8e1c31bc79a579e73a9215dbe9e88e2f7c90e974392820950d8930"
 metafile = true
 
 [[files]]

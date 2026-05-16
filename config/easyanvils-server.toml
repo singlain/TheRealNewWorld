@@ -68,13 +68,13 @@
 	anvil_break_chance = 0.05
 	#Solely renaming items in an anvil will never cause the anvil to break.
 	#Default Value: true
-	risk_free_anvil_renaming = true
+	risk_free_anvil_renaming = false
 	#Edit name tags without cost nor anvil, simply by sneak + right-clicking.
 	#Default Value: true
-	edit_name_tags_no_anvil = true
+	edit_name_tags_no_anvil = false
 	#The naming field in anvils and the name tag gui will support formatting codes for setting custom text colors and styles.
 	#Default Value: true
-	renaming_supports_formatting = true
+	renaming_supports_formatting = false
 	#Allow using iron blocks to repair an anvil by one damage stage. Can be automated using dispensers.
 	#Default Value: true
 	anvil_repairing = true

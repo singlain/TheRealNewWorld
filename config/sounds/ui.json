@@ -13,7 +13,7 @@
 		"enabledDynamic": true,
 		"id": "hotbarPick",
 		"soundEvent": "minecraft:block.note_block.hat",
-		"shouldPlay": true
+		"shouldPlay": false
 	},
 	"inventoryOpenSoundEffect": {
 		"pitch": 2.0,
