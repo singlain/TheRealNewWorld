@@ -2,7 +2,7 @@
 	"main_menu": {
 		"bottom_right": [
 			{
-				"text": "The Real New World (2.0-preview.1)",
+				"text": "The Real New World (2.0-preview.2)",
 				"clickEvent": {
 					"action": "open_url",
 					"value": "https://modrinth.com/modpack/the-real-new-world"

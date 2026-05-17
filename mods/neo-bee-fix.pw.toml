@@ -1,0 +1,13 @@
+name = "Neo Bee Fix"
+filename = "neobeefix-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DzSY371i/versions/RFt9dm5Q/neobeefix-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "b504330538e208547d3629b1dbee9bc22d09c87e6f75e961be928300534faa8cbec64e9ca88a2e6d2dca85ce5361f887c2fa6382af6ef59be917ab4b1f694e55"
+
+[update]
+[update.modrinth]
+mod-id = "DzSY371i"
+version = "RFt9dm5Q"

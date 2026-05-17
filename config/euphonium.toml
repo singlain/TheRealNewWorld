@@ -13,7 +13,7 @@ worldAmbienceEnabled = true
 	# Number of blocks above the ground that biome ambience will be silenced
 	# Set to zero to disable
 	# default: 32
-	cullSoundAboveGround = 16
+	cullSoundAboveGround = 32
 	# Number of blocks to check for neighbouring biomes
 	# Set to zero to disable
 	# default: 32
@@ -33,7 +33,7 @@ worldAmbienceEnabled = true
 	# Number of blocks above the ground that biome ambience will be silenced
 	# Set to zero to disable
 	# default: 32
-	cullSoundAboveGround = 16
+	cullSoundAboveGround = 48
 	# Plays ambient sounds while anywhere in the End
 	# default: true
 	alien = true

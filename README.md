@@ -9,9 +9,9 @@ A modpack focused around <font color="#F0DC82">**Create**</font> and its greates
 # <font color="#FCD748">Features</font>
 - **Create & Create Aeronautics 🚂**
 - **Overhauled Combat 🗡️**
-- **Progression Rebalances ⚖️**
+- **Progression and Other Rebalances ⚖️**
 - **Transportation Rebalances 🐎**
-- **Nutrition System 🍗**
+- ~~**Nutrition System 🍗**~~
 - **Sound and Atmosphere Improvements ✨**
 - **...and more! 📌**
 
@@ -19,6 +19,10 @@ Being a spiritual successor of my previous, long forgotten modpack I made for a 
 
 Hundreds of hours went into carefully picking each mod and fine-tuning each config to result in the most balanced and fun experience!
 ## <font color="#FCD748">Create & Create Aeronautics 🚂</font>
+
+<details>
+<summary>Spoiler</summary>
+
 These two need no introduction, but in case they do - check out their trailers below.
 
 <details>
@@ -34,7 +38,15 @@ These two need no introduction, but in case they do - check out their trailers b
 
 </details>
 
+
+</details>
+
+
 ## <font color="#FCD748">Overhauled Combat 🗡️</font>
+
+<details>
+<summary>Spoiler</summary>
+
 
 Ever since 1.9 Minecraft's Combat is mediocre at best despite it being present throughout the entirity of player's gameplay. [Better Combat](https://modrinth.com/mod/better-combat) and [Shoulder Surfing](https://modrinth.com/mod/shoulder-surfing-reloaded), plus a few other subtle additions make combat much more engaging and fun.
 
@@ -43,7 +55,15 @@ A few changes were made to the mods:
 - You can feint by pressing **X**
 - You may no longer hold for attack, but instead one click does one hit as it does in Vanilla
 
-## <font color="#FCD748">Progression Rebalances ⚖️</font>
+</details>
+
+
+
+## <font color="#FCD748">Progression and Other Rebalances ⚖️</font>
+
+<details>
+<summary>Spoiler</summary>
+
 To be honest, the entire Survival Mode of this game needs to be rebuilt from the ground-up to be balanced, but here is my take on rebalancing this game's progression to stretch the horizontal line of progression a bit further.
 
 <details>
@@ -97,7 +117,15 @@ See more about these two mods [here](https://modrinth.com/mod/easy-magic/) and [
 
 </details>
 
+</details>
+
+
+
 ## <font color="#FCD748">Transportation Rebalances 🐎</font>
+
+
+<details>
+<summary>Spoiler</summary>
 
 A heavy focus of this modpack goes into building networks of transportation, so it would only be natural to rebalance almost all transportation methods from Vanilla to make them more viable.
 
@@ -134,9 +162,17 @@ Probably the best of them all - [AstikorCarts](https://modrinth.com/mod/astikorc
 
 </details>
 
-## <font color="#FCD748">Nutrition System 🍗</font>
+</details>
+
+
+
+## <font color="#FCD748">~~Nutrition System 🍗~~</font>
 
 ## <font color="#FCD748">Sound and Atmosphere Improvements ✨</font>
+
+
+<details>
+<summary>Spoiler</summary>
 
 ### <font color="#FCD748">Sounds ✨</font>
 
@@ -175,7 +211,6 @@ It was rather hard to pick the fitting mod for the ambient sounds, given most of
 
 [Subtle Effects](https://modrinth.com/mod/subtle-effects) expands the visual side of Minecraft by adding a ton of subtle particle effects and more that you'll surely notice yourself ;)
 
-
 <details>
 <summary>Subtle Effects Mod Trailer</summary>
 
@@ -183,19 +218,28 @@ It was rather hard to pick the fitting mod for the ambient sounds, given most of
 
 </details>
 
+### <font color="#FCD748">Camera Overhaul ✨</font>
+
+[Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) was configured to be much less obvious than it is in its trailer, leaving only a subtle camera tilt when strafing on foot and more obvious one when swimming or riding a mount.
 
 
-# 🔶 Notes
 
-## 🔷 RAM
-#### Regarding RAM, minimal amount is __at least__ **4 GB of RAM**; recommended amount is **8 GB** client-side. Stress tests have shown that server-side only needs about 4 GB of RAM to run mostly smoothly. If you experience server lags with complex contraptions, feel free to increase it to 8 GB both server-side and client-side.
+</details>
+
+
+
+
+
+# ❗ Notes
+
+## ❗ RAM
+Regarding RAM, minimal amount is __at least__ **4 GB of RAM**; recommended amount is **8 GB** client-side. Stress tests have shown that server-side only needs about 4 GB of RAM to run mostly smoothly. If you experience server lags with complex contraptions, feel free to increase it to 8 GB both server-side and client-side.
 
 ## 🔷 Other Notes
 - Balancing is always **ongoing**!
 - **The Recipe Book** now acts as a toogle for the **Recipe Viewer**. You can also use CTRL+O shortcut to open it.
 - Due to how large this modpack grew, it will take a lot of time to fully flesh it out, so expect **bugs**, **inconsistencies** and **other issues** throughout your journey!
-- This modpack takes a good care of the welcoming experience, so all the settings you'd need are already there.
-- For the intended experience it is not **recommended** to tinker with configs of any the mods except therefore mentioned **Distant Horizons**, many have shown to cause crashes when changed in-game and will probably ruin your experience.
+- For the intended experience it is not **recommended** to tinker with configs of any the mods, many have shown to cause crashes when changed in-game and will probably ruin your experience.
 - The main issue performance-wise is the server tickrate. It **will** be pretty horrible when you create a new world and start exploring the nearby area, but as you explore it and generate new chunks, it will eventually wane.
 - Before reporting issues on GitHub's Issue Tracker make sure your issue isn't listed in the **Known Issues** section of the latest modpack changelog.
 
