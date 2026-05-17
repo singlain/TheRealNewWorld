@@ -1,0 +1,220 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+# The chunk rebuild scheduler mode (immediate, culling).
+chunk_rebuild_scheduler = "culling"
+
+[adaptive_ticking]
+	# How far away (in chunks) until light sources get ticked less often.
+	slow = 4
+	# How far away (in chunks) until light sources get ticked even less often.
+	slower = 8
+	# Reduces how often sources behind the camera get ticked.
+	background_sleep = true
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = false
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = false
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "off"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enables dynamic lighting of beacon or end gateway beams.
+	beam = false
+	# Enables dynamic lighting of firefly particles from Firefly Bushes.
+	firefly = true
+	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
+	guardian_laser = false
+	# Enables dynamic lighting of the Warden's sonic boom attack particles.
+	sonic_boom = false
+	# Enables dynamic lighting for entities that have the Glowing effect.
+	glowing_effect = false
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				chest_boat = false
+				hopper_minecart = false
+				allay = false
+				area_effect_cloud = false
+				armadillo = false
+				armor_stand = false
+				arrow = true
+				axolotl = false
+				bat = false
+				bee = false
+				blaze = false
+				block_display = false
+				boat = false
+				bogged = false
+				breeze = false
+				cat = false
+				cave_spider = false
+				chicken = false
+				cod = false
+				cow = false
+				creeper = false
+				dolphin = false
+				dragon_fireball = false
+				drowned = false
+				elder_guardian = false
+				end_crystal = false
+				enderman = false
+				endermite = false
+				evoker = false
+				evoker_fangs = false
+				experience_orb = false
+				eye_of_ender = false
+				falling_block = false
+				fireball = false
+				firework_rocket = false
+				fishing_bobber = false
+				fox = false
+				frog = false
+				ghast = false
+				giant = false
+				glow_squid = false
+				goat = false
+				guardian = false
+				hoglin = false
+				husk = false
+				illusioner = false
+				interaction = false
+				iron_golem = false
+				item = false
+				item_display = false
+				item_frame = false
+				leash_knot = false
+				lightning_bolt = false
+				llama_spit = false
+				magma_cube = false
+				marker = false
+				minecart = false
+				command_block_minecart = false
+				furnace_minecart = false
+				spawner_minecart = false
+				tnt_minecart = false
+				mooshroom = false
+				ocelot = false
+				ominous_item_spawner = false
+				painting = false
+				panda = false
+				parrot = false
+				phantom = false
+				pig = false
+				piglin = false
+				piglin_brute = false
+				pillager = false
+				player = false
+				polar_bear = false
+				potion = false
+				tnt = false
+				pufferfish = false
+				rabbit = false
+				ravager = false
+				salmon = false
+				sheep = false
+				shulker = false
+				shulker_bullet = false
+				silverfish = false
+				skeleton = false
+				slime = false
+				small_fireball = false
+				sniffer = false
+				snow_golem = false
+				snowball = false
+				spectral_arrow = false
+				spider = false
+				squid = false
+				stray = false
+				strider = false
+				tadpole = false
+				text_display = false
+				experience_bottle = false
+				egg = false
+				ender_pearl = false
+				trident = false
+				tropical_fish = false
+				turtle = false
+				vex = false
+				villager = false
+				vindicator = false
+				wandering_trader = false
+				warden = false
+				breeze_wind_charge = false
+				wind_charge = false
+				witch = false
+				wither_skeleton = false
+				wither_skull = false
+				wolf = false
+				zoglin = false
+				zombie = false
+				zombie_villager = false
+				zombified_piglin = false
+				camel = false
+				donkey = false
+				horse = false
+				llama = false
+				mule = false
+				skeleton_horse = false
+				trader_llama = false
+				zombie_horse = false
+				wither = false
+				ender_dragon = false
+				chest_minecart = false
+
+			[light_sources.settings.entities.astikorcartsredux]
+				animal_cart = false
+				hand_cart = false
+				plow = false
+				reaper = false
+				seed_drill = false
+				supply_cart = false
+				postilion = false
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_bogged = false
+				baby_skeleton = false
+				baby_stray = false
+				baby_wither_skeleton = false
+				mushroom = false
+
+			[light_sources.settings.entities.offroad]
+				borehead_contraption_entity = false
+
+			[light_sources.settings.entities.create]
+				carriage_contraption = false
+				contraption = false
+				crafting_blueprint = false
+				gantry_contraption = false
+				package = false
+				potato_projectile = false
+				seat = false
+				stationary_contraption = false
+				super_glue = false
+
+			[light_sources.settings.entities.simulated]
+				contraption_diagram = false
+				honey_glue = false
+				launched_plunger = false
+
+			[light_sources.settings.entities.aeronautics]
+				gust = false
+				propeller_bearing_contraption = false
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = false
+
+			[light_sources.settings.entities.amendments]
+				falling_lantern = false
+				medium_dragon_fireball = false
+				medium_fireball = false
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false

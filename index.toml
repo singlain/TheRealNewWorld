@@ -6,7 +6,7 @@ hash = "c9408edc5e3ce0e233bd3dbeaeeead2e5de45d305941acac929c261ead47c3a2"
 
 [[files]]
 file = "changelog.txt"
-hash = "5128f9b84f32e7c3d025c519d2ccc4d72c12c254dfdca7419e3426b7579b6ef3"
+hash = "b4b22d1a5a5e1c401f2678d2dccfdfc300fbd69012d0b03340e9d59f46b31952"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -89,10 +89,6 @@ file = "config/create-client.toml"
 hash = "df2b1f5715e64f372752968e18f2d43c7afc5888ea480e0751da9bacbccbc022"
 
 [[files]]
-file = "config/createdynlight-client.toml"
-hash = "ac008cf493d03d5fb5c7c78df5564d7dbae12990fbf94597cf7f2fc2c34bcfad"
-
-[[files]]
 file = "config/defaultoptions-common.toml"
 hash = "0d77a734fd47265db649974f10b6fbee9f87592d3063ab54489b64fe86c01a39"
 
@@ -146,7 +142,7 @@ hash = "3676e2b56210774cf1eddecd27231d7368f8e6e0310f9ebf65ba5fabf8346b19"
 
 [[files]]
 file = "config/fastquit.toml"
-hash = "3fa41df9274099b6792565ef6d90854dc744f45c1e04add3ba37a50f03c78fee"
+hash = "ba835cc92098160b4d9f93901dab8f4d28cbeda8d184da3a55d5f38cf85318f0"
 
 [[files]]
 file = "config/fml.toml"
@@ -178,7 +174,7 @@ hash = "f534b88ef504d256f5d0ff4b7fbe79df215cab1cf4219a0f081d9462397427d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "657ad368e2c023b2cd9dd1ad5096854cbf3fa9a120ba56a18cc2c459c59fe18a"
+hash = "cacdec0cdf2800c21acd436279ef07a3385a38fb6c19cde983165a35162832c0"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -187,6 +183,10 @@ hash = "6217d2f4a8efdc5a6033c9055103b873535d6dc25d2e12d1315e7a66e055df14"
 [[files]]
 file = "config/kiwi-client.yaml"
 hash = "79f08b9d1b0e5de6647e84e73c934223772e4b3bf2f9adc807aef3e626a6b13d"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "26a661f23f4b0f9f47941cfe7fdf6f595235842aaaf01c955b85d2a32c6b2b1a"
 
 [[files]]
 file = "config/legendarytooltips.toml"
@@ -295,10 +295,6 @@ hash = "af6c7eb2860d3e0589f0a78780a1b0c96469403ae8f44c87da1cf2a217e8d5dd"
 [[files]]
 file = "config/sodium-options.json"
 hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
-
-[[files]]
-file = "config/sodiumdynamiclights-client.toml"
-hash = "8807ac1e0e0e452a293087d726ec559f2300208616041af05efa525225b3cb3f"
 
 [[files]]
 file = "config/sounds/chat.json"
@@ -650,6 +646,10 @@ hash = "6af8fd242bd6f4af1e64a47e733b6752a23f9c56393844bd85b73520b002c9a5"
 metafile = true
 
 [[files]]
+file = "mods/Create_Sable_LambDynamicLights_2.4.1.jar"
+hash = "5966e447c596d1dfae9653eb377d5d8ba5bdbff97b426792663ca945c2b4ddf2"
+
+[[files]]
 file = "mods/acceleratedrendering.pw.toml"
 hash = "beea863bbd620216fabcec12adb9c3052eb26d2b46dae24786392219df2a5886"
 metafile = true
@@ -860,11 +860,6 @@ hash = "92fe3b729cfe20f24fc0870c71bbdf694f5a9ac8187bfba3a5692bae235f3e00"
 metafile = true
 
 [[files]]
-file = "mods/create-sable-dynamic-lights.pw.toml"
-hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "e66c8649557c5df5d660e64b635576f8aa836c05b14e915b8f4ae119c704d7bf"
 metafile = true
@@ -1052,6 +1047,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "541112d5a8c873c8e4ab280a9ce3b8bd2d4d8e8ee1b254ba6463ce6e171a6964"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
@@ -1355,18 +1355,8 @@ hash = "cc8a102cd12b068594fa91483c244d9f82a47bd2b6362a6582d2d806f5a7a648"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b15bc42ba68b81848c6d942413b7b97850f172cc59aaf2100e46975781c34f38"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
@@ -1513,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
-hash = "b58757bcc7efd2d2cbfba37159b50c98b8e0da9a5bed86962f5462cac4b184e1"
+hash = "8ce38ee0213aabc9c6b127371897e5f4f25d216a50a515113950a9e1f0ea7d4b"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
