@@ -1,0 +1,15 @@
+[
+  {
+    "action": "modify_tab",
+    "tabs": ["minecraft:ingredients"],
+    "remove_items": [
+      "astikorcartsredux:wheel"
+    ],
+    "add_items": [
+      {
+        "item": "astikorcartsredux:wheel",
+        "after": "minecraft:stick"
+      }
+    ]
+  }
+]

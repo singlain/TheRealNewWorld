@@ -1,0 +1,13 @@
+name = "Big Lush Cave Panorama (Shaders)"
+filename = "lush_cave_panorama_shaders.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/swDSPFL1/versions/4P56LaJS/lush_cave_panorama_shaders.zip"
+hash-format = "sha512"
+hash = "2ae56b33ec9e579c7b2b97cedc3de7e9c6d8b8f0a2137fb62b833a26b809e466f50920a664b1ca92732bb6f45b51d9aad8c10a7637ffe074bba833628431802a"
+
+[update]
+[update.modrinth]
+mod-id = "swDSPFL1"
+version = "4P56LaJS"

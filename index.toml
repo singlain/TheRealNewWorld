@@ -6,7 +6,11 @@ hash = "c9408edc5e3ce0e233bd3dbeaeeead2e5de45d305941acac929c261ead47c3a2"
 
 [[files]]
 file = "changelog.txt"
-hash = "b85ea8647aaa2e03c1824a54564adaf3fd8b30643cefdb2d63897355e58a060e"
+hash = "5128f9b84f32e7c3d025c519d2ccc4d72c12c254dfdca7419e3426b7579b6ef3"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "2faa0e160890637b705a0bcf10f87357ab154169684e91906d47086b5e73aa6e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -14,7 +18,7 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/acceleratedrendering-client.toml"
-hash = "e74b75a83715df01917029104a1fbc2117b8cca541a96e97068f0fce8f8e49ae"
+hash = "05c5179145ef868daff0857d9be454d0eafada12d275584f371877b368eec899"
 
 [[files]]
 file = "config/amendments-client.toml"
@@ -22,7 +26,7 @@ hash = "a6365dc59bf97129742327cdb021726c7d6b790471f41e40ac9d94f400fa3ca8"
 
 [[files]]
 file = "config/amendments-common.toml"
-hash = "626435c79ceb685d219fe3d0da9848d6b26739a6451e8204fbee7297d51bac40"
+hash = "4d29fcd08b67c8a1d48179ef0e2edb754376de7bc50f1fc23419d94ca842a481"
 
 [[files]]
 file = "config/badoptimizations.txt"
@@ -58,7 +62,7 @@ hash = "433038b80f9230f4640f73f9cc6096c6ea78da1bb5ede6cd12f6ec55cd7bbb3e"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
-hash = "01db50a4fad019692a1e4a9abf089bb1038231123cd2728ed6725ae60514fa6b"
+hash = "ac4341686486b0da47d3712881b38b7674c1d8c355904a5a698c084fd367ee12"
 
 [[files]]
 file = "config/cardboardchalkbox-common.toml"
@@ -77,8 +81,16 @@ file = "config/continuity.json"
 hash = "77f86e18fff51b0c06b773b5bc9608b5b74e264e2220589d6b1723b044b18e10"
 
 [[files]]
+file = "config/copycats-common.toml"
+hash = "633ec4f63a45c0caacfb9556f9a8d8ffd3d441d335b835d4f5ad6e8ea434e39d"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "df2b1f5715e64f372752968e18f2d43c7afc5888ea480e0751da9bacbccbc022"
+
+[[files]]
+file = "config/createdynlight-client.toml"
+hash = "ac008cf493d03d5fb5c7c78df5564d7dbae12990fbf94597cf7f2fc2c34bcfad"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
@@ -90,7 +102,7 @@ hash = "18c1b817a1f46af859bf277d3a220aaf1a42b46fe822e1daa01fd2b92c137eb5"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "dfdfbf10116a5e912d45b2aca2150072d9590148533facf46c9790a141decacd"
+hash = "dde5e34ab7f2605c1507561ea8d4223371013aabdf1a84d4508d1c70ad71471d"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -118,7 +130,7 @@ hash = "b2860a71cdc35a6f3cee847622a7085c35d3691f26ca7b4c84098e14bc4369dc"
 
 [[files]]
 file = "config/emi.css"
-hash = "c941fd290b0222b1254b05c21448d65cc045db86b0aac11e01a6d5b8f0ce239e"
+hash = "ccfe5b909dc80faf4daf5dbbf4a3bf1410db693e5a987198f86dfc0350861c0f"
 
 [[files]]
 file = "config/enhanced_attack_indicator-client.toml"
@@ -162,11 +174,11 @@ hash = "c395ca7bc3b7101f96251f0e0414f3bedd84ecbb50148ef78aa5a1784e426ca7"
 
 [[files]]
 file = "config/iris.properties"
-hash = "c320a22eaf06da3791fa907f3522ae7335b51882b3a6509b3474727e96d45a77"
+hash = "f534b88ef504d256f5d0ff4b7fbe79df215cab1cf4219a0f081d9462397427d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8b9d100e252b8d846656b85b624c85aae6fb46b5deae9506ba1afe23a4b2ec36"
+hash = "657ad368e2c023b2cd9dd1ad5096854cbf3fa9a120ba56a18cc2c459c59fe18a"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -237,8 +249,16 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "4966127272ae10d109afe4fb73df9d20a1cbad0dfef5e6f022edcb166fee0afb"
 
 [[files]]
-file = "config/recreative/example_tabs.json"
-hash = "6c6ed8bdd8fde11ae133823083a82ca303646a76ce033cd2a3e35aa4b52ca0a1"
+file = "config/recreative/removed_tabs.json"
+hash = "10237f761734fb3804c9cfac1d23a7d007c63e7d3108d3169ba74db8c64f3e15"
+
+[[files]]
+file = "config/recreative/tabs2.json"
+hash = "278d3e017b14f88ecb90b3da5112e4583385e78496ea629a6ea93a9a449f5b27"
+
+[[files]]
+file = "config/recreative/wheel.json"
+hash = "a2833474d37f3681b75f38d48d421a749c4155af75f4104812494fe4f683ca18"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -275,6 +295,10 @@ hash = "af6c7eb2860d3e0589f0a78780a1b0c96469403ae8f44c87da1cf2a217e8d5dd"
 [[files]]
 file = "config/sodium-options.json"
 hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "8807ac1e0e0e452a293087d726ec559f2300208616041af05efa525225b3cb3f"
 
 [[files]]
 file = "config/sounds/chat.json"
@@ -726,6 +750,11 @@ hash = "bf2323bb0eb9f2c74f536887a1137f0274c390ef75d461dc8ecf0e20403eb182"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "d51cfcc902b1e1b0cc61b56876c50dbb687543d64990b9563e085b28ff03cc19"
 metafile = true
@@ -811,6 +840,16 @@ hash = "64204c79adcf0ed4f87593d68e413d58d1c4d696b7987ebbd9dfea561ff0c35f"
 metafile = true
 
 [[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "c460ea61c0da90cba5859f0d192b7abcff42f1ec07a5de1aa375ea522df7d80f"
 metafile = true
@@ -818,6 +857,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "92fe3b729cfe20f24fc0870c71bbdf694f5a9ac8187bfba3a5692bae235f3e00"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
 
 [[files]]
@@ -838,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "24b6a9772c6c4a0cd477c5e6cb33e8d63a046642ab0cb672f479c693727dd255"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
@@ -1306,8 +1355,18 @@ hash = "cc8a102cd12b068594fa91483c244d9f82a47bd2b6362a6582d2d806f5a7a648"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b15bc42ba68b81848c6d942413b7b97850f172cc59aaf2100e46975781c34f38"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
@@ -1333,6 +1392,11 @@ metafile = true
 [[files]]
 file = "mods/stackable-stew-and-soup.pw.toml"
 hash = "594da49241ab61bc28dc9510cdc99136ebbc655686b4cf234c56e36f1d2acfa4"
+metafile = true
+
+[[files]]
+file = "mods/stackablepotions.pw.toml"
+hash = "fdd1b059d59daa27b007f61c1a06a1f111c7b1bef511952106c26caf8744406c"
 metafile = true
 
 [[files]]
@@ -1410,6 +1474,16 @@ file = "resourcepacks/VanillaTweaks_r309049_MC1.21.x.zip"
 hash = "13b46244402a50ba12ada9436b7c22eec18bbe7b9f338d947d354a6ec26e5f3c"
 
 [[files]]
+file = "resourcepacks/big-lush-cave-panorama-(shaders).pw.toml"
+hash = "403ace486ff86003ef25ce608323a115aec587a9587c1905a308f066f18b0c3d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/big-lush-cave-panorama.pw.toml"
+hash = "1eaec8971af97e89a2bd98f8e3056645f6cd3bde18898e820619a8b598673cb7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/c418-songs-only.pw.toml"
 hash = "688f6ab0f921ec5453532c52ea9ebfc704e3e835926877542374c502858769a5"
 metafile = true
@@ -1423,70 +1497,6 @@ metafile = true
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
-
-[[files]]
-file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "1c90ad2d564fc1ac0673b37da2330bae151fdd221b078a5bf0e4c8a26edde56a"
-
-[[files]]
-file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "5a297419811368de33235561dc0b9fd24a2b2eae17e7ee9d35e3af85adcb2af0"
-
-[[files]]
-file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "3d8faa7ea9e89965697e3694c3c63ca8fd622c1d1ef0eeb9fb70d3a258d32b8f"
-
-[[files]]
-file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "9027780d9e01b78cd05afb9925d293fb4adafbbc393437c201d072208832a581"
-
-[[files]]
-file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "0731a46b7e0b5e6643c60ca18615e095fb399728c48de5c8f411d7f606f36382"
-
-[[files]]
-file = "resourcepacks/newworld_panorama/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "35fa0740375533d96316da1ee0a6c3567a72aab382a9a6128e7b3738239fa9e6"
-
-[[files]]
-file = "resourcepacks/newworld_panorama/pack.mcmeta"
-hash = "f683f2b731bef70252327b32852675e61e9f2c89f99c05c2c81956fbb2fd6181"
-
-[[files]]
-file = "resourcepacks/newworld_panorama/pack.png"
-hash = "d16f9c40060ede1fb393a9f6093752ff45573075ae7f2db2411c90301a43bbea"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "222b560f85dec5d55b8cab4c61d0be17f4c03c0c9637ff3979e74b668bee1055"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "ea4fd401cb17fff943f40631e2c3f0379c3abbe886e38db66e84d9901ee427e2"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "70f245a0fdee8b80ef1768243bf12809074bcf22654b11a00cb43c6ebacb8f8b"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "7f1bd71ce8cdedfda611c40b16de7a1630230aac1769a404c4e76e491aff0e7c"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "721caeb32f1cbb4019207ea9d5d5f20e6d236ba682025e7e8e102fbb67af5b68"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "5916b7deffc3ce099002fe6c7e67c9417154611a78e54e3c21167678b5e8d5f7"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/pack.mcmeta"
-hash = "6d1bb2ae8eded004ec9abb1a0d2f1828a0436e062a4a63dac93bb16fa747ee1f"
-
-[[files]]
-file = "resourcepacks/newworld_panorama_shaders/pack.png"
-hash = "a8e47dda6cd49f28dff3d9a16312d67a8aaab9cbcceff9740b2fc6f9e37f764d"
 
 [[files]]
 file = "resourcepacks/newworld_splash_texts/assets/minecraft/texts/splashes.txt"
@@ -1503,7 +1513,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
-hash = "70a73920090d9596670f8f38e11e39f0842bd91dfa29ac31c8a61dfd0348d6ff"
+hash = "b58757bcc7efd2d2cbfba37159b50c98b8e0da9a5bed86962f5462cac4b184e1"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

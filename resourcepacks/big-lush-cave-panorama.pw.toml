@@ -1,0 +1,13 @@
+name = "Big Lush Cave Panorama"
+filename = "lush_cave_panorama.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V6uGannX/versions/BE3iseRy/lush_cave_panorama.zip"
+hash-format = "sha512"
+hash = "2233c055561998eb60f4c1cdd6ff6fd3ae6c1042c7e95734ad29db769a74bb4fa70daf8d5596e1721241ea6d43d4d2412e9851f278d7906e0b4dd6704cc857c7"
+
+[update]
+[update.modrinth]
+mod-id = "V6uGannX"
+version = "BE3iseRy"

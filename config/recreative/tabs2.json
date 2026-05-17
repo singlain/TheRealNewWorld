@@ -1,0 +1,18 @@
+[
+  {
+    "action": "modify_tab",
+    "tabs": ["create:palettes"],
+    "add_items": [
+      "copycats:copycat_stairs",
+      {
+        "item": "copycats:copycat_stairs",
+        "before": "create:copycat_step"
+      },
+      "copycats:copycat_block",
+      {
+        "item": "copycats:copycat_block",
+        "before": "create:copycat_step"
+      }
+    ]
+  }
+]

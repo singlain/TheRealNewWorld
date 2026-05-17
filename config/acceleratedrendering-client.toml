@@ -203,11 +203,11 @@
 	#- DISABLED: Block entity filter will be disabled and all block entities will be accelerated.
 	#- ENABLED: Block entity filter will test if the block entities should be accelerated when rendering based on the filter values and the filter type.
 	#Allowed Values: DISABLED, ENABLED
-	block_entity_filter = "DISABLED"
+	block_entity_filter = "ENABLED"
 	#- DISABLED: Item filter will be disabled and all items will be accelerated.
 	#- ENABLED: Item filter will test if the items should be accelerated when rendering based on the filter values and the filter type.
 	#Allowed Values: DISABLED, ENABLED
-	item_filter = "DISABLED"
+	item_filter = "ENABLED"
 	#- DISABLED: Custom rendering stage filter will be disabled and geometries in all custom rendering stages will be accelerated.
 	#- ENABLED: Custom rendering stage filter will test if geometries in specific custom rendering stage should be accelerated when rendering based on the filter values and the filter type.
 	#Allowed Values: DISABLED, ENABLED
@@ -237,10 +237,10 @@
 	menu_filter_values = ["minecraft:.*"]
 	#You can configure the entity filter by this list.
 	#Entity filter will use this list and the filter type to determine if an entity can pass the filter.
-	entity_filter_values = []
+	entity_filter_values = ["create:*", "aeronautics:*", "simulated:*", "offroad:*"]
 	#You can configure the block entity filter by this list.
 	#Block entity filter will use this list and the filter type to determine if a block entity can pass the filter.
-	block_entity_filter_values = ["minecraft:chest"]
+	block_entity_filter_values = ["minecraft:chest", "create*", "aeronautics:*", "offroad:*", "simulated:*"]
 	#You can configure the item filter by this list.
 	#Item filter will use this list and the filter type to determine if an item can pass the filter.
 	item_filter_values = []

@@ -2,5 +2,9 @@
     {
         "action": "remove_tab",
         "tabs": ["astikorcartsredux:astikorcartsredux_tab"]
-    }
+    },
+	{
+		"action": "remove_tab",
+        "tabs": ["copycats:main"]
+	}
 ]
