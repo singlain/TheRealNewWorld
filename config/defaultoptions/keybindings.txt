@@ -13,5 +13,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
-key_key.saveToolbarActivator:key.keyboard.c:SHIFT
-key_key.loadToolbarActivator:key.keyboard.x:SHIFT
+key_key.saveToolbarActivator:key.keyboard.c:ALT
+key_key.loadToolbarActivator:key.keyboard.x:ALT
+key_key.optigui.inspect:key.keyboard.unknown
+key_keyinfo.copycats.fill_copycat:key.keyboard.unknown

@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "c9408edc5e3ce0e233bd3dbeaeeead2e5de45d305941acac929c261ead47c3a2"
-
-[[files]]
-file = "changelog.txt"
-hash = "b4b22d1a5a5e1c401f2678d2dccfdfc300fbd69012d0b03340e9d59f46b31952"
-
-[[files]]
 file = "config/DistantHorizons.toml"
-hash = "2faa0e160890637b705a0bcf10f87357ab154169684e91906d47086b5e73aa6e"
+hash = "8e102ed38fdeb64c63868534f56ac486360f6111378b0ebb3484edc507b0dac6"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -94,7 +86,7 @@ hash = "0d77a734fd47265db649974f10b6fbee9f87592d3063ab54489b64fe86c01a39"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "18c1b817a1f46af859bf277d3a220aaf1a42b46fe822e1daa01fd2b92c137eb5"
+hash = "122a1b9c8ba21e2f3555b120ed9d0ab0615869e8086230672551110e0e5c02e0"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -126,7 +118,7 @@ hash = "b2860a71cdc35a6f3cee847622a7085c35d3691f26ca7b4c84098e14bc4369dc"
 
 [[files]]
 file = "config/emi.css"
-hash = "ccfe5b909dc80faf4daf5dbbf4a3bf1410db693e5a987198f86dfc0350861c0f"
+hash = "02b69915a427aaeb53ab1e7aa8efc2c642999b856362a9479aa6ca1a3ba49755"
 
 [[files]]
 file = "config/enhanced_attack_indicator-client.toml"
@@ -174,7 +166,7 @@ hash = "f534b88ef504d256f5d0ff4b7fbe79df215cab1cf4219a0f081d9462397427d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cacdec0cdf2800c21acd436279ef07a3385a38fb6c19cde983165a35162832c0"
+hash = "af94fecb454850ed23b8485cf40eea8afcc1db7143f0f79f7565250f1b76df1a"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -211,6 +203,14 @@ hash = "60c397ac558dd35c15051399a53089616f9c87b561c9155bb90e4e33da36988e"
 [[files]]
 file = "config/moreculling.toml"
 hash = "abe9943827e8e87fcc5f4732b6b2946d50c875db1ec4ecd2455c663c1ddbeebb"
+
+[[files]]
+file = "config/nerb/compat/emi.yaml"
+hash = "817fd8d706858ccba18fa35b4762dd415cbc56cbf098d2d2b4efbcec58f28fc8"
+
+[[files]]
+file = "config/nerb/general.yaml"
+hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -321,6 +321,10 @@ file = "config/sparsestructures.json5"
 hash = "8fa705edab1ae368eeb1d44564f2413ec1da94985e73356fda6084691562db5d"
 
 [[files]]
+file = "config/stackable_stew_and_soup.toml"
+hash = "1f8e8dc1ce2c544c44689032c1bf2a5eaad29177ac14d99751cd2cfe0a805ef5"
+
+[[files]]
 file = "config/stylisheffects-client.toml"
 hash = "6112124c6dfdb35a9f5466795f390443c411b646e56826376dc3d2cb9639f99f"
 
@@ -343,6 +347,10 @@ hash = "417ba30160a7554e59312ef60b65f149488eeeb95e788866d5f78382c99ba657"
 [[files]]
 file = "config/subtle_effects/items.toml"
 hash = "6f577ccf5d61e9a2c845eb915b70eed0b9f89914b09ef9a0230185ef2d0a338b"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "4d4b450f5a3ba396eea5ffff3f89c671fe3e12adb73e103c522b39a98c92a08b"
 
 [[files]]
 file = "config/toadlib_config.txt"
@@ -646,10 +654,6 @@ hash = "6af8fd242bd6f4af1e64a47e733b6752a23f9c56393844bd85b73520b002c9a5"
 metafile = true
 
 [[files]]
-file = "mods/Create_Sable_LambDynamicLights_2.4.1.jar"
-hash = "5966e447c596d1dfae9653eb377d5d8ba5bdbff97b426792663ca945c2b4ddf2"
-
-[[files]]
 file = "mods/acceleratedrendering.pw.toml"
 hash = "beea863bbd620216fabcec12adb9c3052eb26d2b46dae24786392219df2a5886"
 metafile = true
@@ -857,6 +861,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "92fe3b729cfe20f24fc0870c71bbdf694f5a9ac8187bfba3a5692bae235f3e00"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-lambdynamiclights.pw.toml"
+hash = "9ff25aa355fc8d0c2804b1f41b61abe56ac4f4240053cc5dbedaa188ebc27b36"
 metafile = true
 
 [[files]]
@@ -1075,6 +1084,11 @@ hash = "08dc422d9c30fc19b569033f7cfd2abcd50134f618fe335b396b41dc6f5f3834"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "3f1fe26d26eaf43c0d7916ee8f8cdf7714a478fc6e09883e931a1f354a6532f0"
+metafile = true
+
+[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "14718eff4f29449717d32fe8ea4cdb58ee28183b63c999c788763bedc2eafdf7"
 metafile = true
@@ -1187,6 +1201,16 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "d95580f167e7226b394c42b58cce879db39218cfd8fa37422df02faba7c5c92f"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
@@ -1402,6 +1426,11 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "65afe097d1e9398cace283b6c510222e7cc0b4cfd19ddea54e9ee6d5ddbf06e2"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]

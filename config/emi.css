@@ -46,7 +46,7 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-visibility;
+	recipe-book-action: default;
 
 	/**
 	 * Where to display status effects in the inventory.
@@ -310,7 +310,7 @@
 	/**
 	 * Toggle the visibility of EMI.
 	 */
-	toggle-visibility: "ctrl key.keyboard.o";
+	toggle-visibility: "shift key.keyboard.r";
 
 	/**
 	 * Focuses the search bar.
