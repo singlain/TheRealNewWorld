@@ -298,6 +298,7 @@ If you're a server owner or have OP rights, you can run commands to use the dist
 - For the intended experience it is **not recommended** to tinker with configs of any the mods except Distant Horizons; many have seen to cause crashes and inconsistecies when changed and will probably worsen your experience.
 - Due to how large this modpack grew, it will take a lot of time to fully flesh it out, so expect bugs, inconsistencies and other issues throughout your journey!
 - Before reporting issues on GitHub's Issue Tracker make sure your issue isn't listed in the **Known Issues** section of the latest modpack changelog.
+- Modrinth only hosts the latest releases of the modpack, hovewer, you can find all releases ever made on GitHub.
 - Balancing is always **ongoing**!
 
 </details>
@@ -355,7 +356,6 @@ If you're a server owner or have OP rights, you can run commands to use the dist
 - [Cool Rain](https://modrinth.com/mod/IgftU6Mn) by Leclowndu93150
 - [Create](https://modrinth.com/mod/LNytGWDc) by simibubi
 - [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) by Simulated Team
-- [Create/Sable LambDynamicLights](https://www.curseforge.com/projects/1529865) by Leon, rewritten for LambDynamicLights by OpenAI
 - [Create: Blocks & Bogies](https://modrinth.com/mod/j4ARnQwY) by Weido's Oddities \(@weidos\.oddities\), teacup \(@t\_\_cup\), Matt
 - [Create: Copycats\+](https://modrinth.com/mod/UT2M39wf) by Lysine, Bennyboy1695, Redcat\_XVIII
 - [Create: EMI Schematics](https://modrinth.com/mod/5bgqgixq) by LiukRast, swzo
@@ -400,6 +400,7 @@ If you're a server owner or have OP rights, you can run commands to use the dist
 - [Leave My Bars Alone](https://modrinth.com/mod/gK9mebQg) by Fuzs
 - [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) by Grend
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) by 2No2Name, JellySquid
+- [Lithostitched](https://modrinth.com/mod/XaDC71GB) by Apollo
 - [Log Begone](https://modrinth.com/mod/9ON3zv6e) by AzureDoom
 - [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 \(mineblock11\)
 - [MC\-273265 Fix](https://modrinth.com/mod/L1BFjX2g) by Singlain

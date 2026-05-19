@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8e102ed38fdeb64c63868534f56ac486360f6111378b0ebb3484edc507b0dac6"
+hash = "556547f4734731c610e63fbed97b8ea5d980ecb03f691a729b64b4f49ae94503"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -166,7 +166,7 @@ hash = "f534b88ef504d256f5d0ff4b7fbe79df215cab1cf4219a0f081d9462397427d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "af94fecb454850ed23b8485cf40eea8afcc1db7143f0f79f7565250f1b76df1a"
+hash = "93ed47871a754ff41bb07d35c1244e6f921d892e6f4922524761f3f8406d991a"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -1325,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "11145d74363caaf4fdf426955fab4776b34dee78dc51fa17a737e13659bd85d6"
+hash = "c6f5b8095215f4af965c15608799a096310592b59e9baabb59af86d4a8dbd641"
 metafile = true
 
 [[files]]
@@ -1519,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/newworld_splash_texts/assets/minecraft/texts/splashes.txt"
-hash = "56bc6f6349e52e97a26bb5c42afcead8375ba4afb8ccc80205ac005930cf7129"
+hash = "64e19be237525234c93a378702cb397438dae96ef4f56922e83a234227f03354"
 
 [[files]]
 file = "resourcepacks/newworld_splash_texts/pack.mcmeta"
