@@ -166,7 +166,7 @@ hash = "f534b88ef504d256f5d0ff4b7fbe79df215cab1cf4219a0f081d9462397427d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "93ed47871a754ff41bb07d35c1244e6f921d892e6f4922524761f3f8406d991a"
+hash = "815a9668ef859b664c12e8274526c14e897003f8cc1f3209eddbdf2780beeb11"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -1344,11 +1344,6 @@ hash = "d46ef885a2589d300e51c7bf67dcdaa3aea5a783cf7cb12f38116a5b2181db5b"
 metafile = true
 
 [[files]]
-file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "db093a6a69b76a1e0bd31a1232d780532b61f6306ec0c258d55e64a833051c03"
-metafile = true
-
-[[files]]
 file = "mods/skeleton-aiming-fix.pw.toml"
 hash = "09cf0039593e66e76245291da503c0dc23a4fc387d535b6052a383d6ddd201c9"
 metafile = true
@@ -1371,11 +1366,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "d9cef24a5882d26af4837ea5c4d0cc8e8ab275cf2089b37978340825c76a2b4d"
-metafile = true
-
-[[files]]
-file = "mods/snow-under-trees.pw.toml"
-hash = "cc8a102cd12b068594fa91483c244d9f82a47bd2b6362a6582d2d806f5a7a648"
 metafile = true
 
 [[files]]
