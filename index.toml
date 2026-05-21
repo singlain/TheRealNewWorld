@@ -90,7 +90,7 @@ hash = "122a1b9c8ba21e2f3555b120ed9d0ab0615869e8086230672551110e0e5c02e0"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "dde5e34ab7f2605c1507561ea8d4223371013aabdf1a84d4508d1c70ad71471d"
+hash = "e451b83d60254d22f476cd4537d0c24001232dfa26692ef06366b5f59faa9169"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "448400e915bc600b6a7e8ac1ff901fc7cfd8f94a7dea043d9ee5c7085da2ccd7"
+hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
 metafile = true
 
 [[files]]
@@ -1514,11 +1514,6 @@ hash = "64e19be237525234c93a378702cb397438dae96ef4f56922e83a234227f03354"
 [[files]]
 file = "resourcepacks/newworld_splash_texts/pack.mcmeta"
 hash = "d0f6f4ca1d012472ededc530f9e488229970a5fbf6b3c2cf6b7c198cdf4d4fed"
-
-[[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "650e427e81e32c45cc78b814d0096e832d4dc532788ff8dae8993236e2370608"
-metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"

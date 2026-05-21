@@ -12,7 +12,7 @@ joinedFirstServer:true
 skipMultiplayerWarning:true
 narrator:0
 lastServer:
-resourcePacks:["vanilla","fabric","mod_resources","tinyskeletons:dynamically_copied_skeleton_textures","moonlight:merged_pack","file/VanillaTweaks_r309049_MC1.21.x.zip","file/Recolourful Containers 3.1.1 (1.19.4+).zip","continuity:default","continuity:glass_pane_culling_fix","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/[1.5] Enhanced Boss Bars.zip","file/Fancy Crops v1.3.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","minecraft:supporteatinganimation","file/lush_cave_panorama.zip","file/newworld_splash_texts","file/§3§lC418 Songs Only.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","tinyskeletons:dynamically_copied_skeleton_textures","moonlight:merged_pack","file/VanillaTweaks_r309049_MC1.21.x.zip","continuity:default","continuity:glass_pane_culling_fix","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/[1.5] Enhanced Boss Bars.zip","file/Fancy Crops v1.3.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","minecraft:supporteatinganimation","file/lush_cave_panorama.zip","file/newworld_splash_texts","file/§3§lC418 Songs Only.zip"]
 lang:en_uk
 tutorialStep:none
 skipMultiplayerWarning:true
