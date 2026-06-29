@@ -1,16 +1,16 @@
 name = "The Real New World"
 author = "Singlain"
-version = "2.0b"
+version = "2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "df6a657a9a2fb304b2bd0ad33309f5f57d2cabd5303c5bca987dbc308f666269"
+hash = "b2d5313b63ac545284ce5e6eda5fe5bf6478a0e2f17dc8a18f299eb02cdef996"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.229"
+neoforge = "21.1.234"
 
 [options]
 datapack-folder = "./datapacks"
