@@ -166,7 +166,7 @@ hash = "f534b88ef504d256f5d0ff4b7fbe79df215cab1cf4219a0f081d9462397427d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dff6ddc9b6c94adf4967fde753c04dfde36db6e4fc3aa22ad7ea61c95fef8e0a"
+hash = "4834ef9a8477dcc7a27c2f9ffab25b9c860ed774552890cc029ec31c64af71ff"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -234,7 +234,7 @@ hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "b9975436d8abebb31e94cc30c538d4c4a87aec994640c820d089cf20e378e742"
+hash = "953f4c72af766677c1ac857ca10ccbe7b06370f86c231754e726acbf837db17e"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "eac365c8ec7e5c59649eef8d0fa4ff7d05e3ce284affac9a53ec331624ccf81c"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
 
 [[files]]

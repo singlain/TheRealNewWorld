@@ -1,7 +1,11 @@
 {
   "loadOrder": [
+	"bundle",
+	"trade_rebalance",
 	"Nullscape_1.21_v1.2.14.zip",
-	"CraftableEnchantedGoldenApple.zip",
-	"RanoldsProgressiveEnderEyes.zip",
-	"totemdeathmessagesV2.5.zip"]
+	"NoRaidTotems_1.14-26.1.zip",
+	"RanoldsProgressiveEyes1.1.zip",
+	"VanillaTweaks_c746477_MC1.21-1.21.11.zip",
+	"totemdeathmessagesV2.5.zip"
+	]
 }
