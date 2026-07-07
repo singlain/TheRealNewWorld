@@ -1,0 +1,13 @@
+name = "Immersive Engineering: Reimmersed"
+filename = "[Neoforge] IE Reimmersed v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ah9dJFtY/versions/KvvESqcD/%5BNeoforge%5D%20IE%20Reimmersed%20v1.1.zip"
+hash-format = "sha512"
+hash = "0ada03a4ca7811b3c6c6b37ced1096776edc142a6dd96895bbc778de36840ea499868f3a46345552b4554749372820ea358fd1e7be9bb6fe8a5af0f97d6805d6"
+
+[update]
+[update.modrinth]
+mod-id = "Ah9dJFtY"
+version = "KvvESqcD"

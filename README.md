@@ -1,14 +1,12 @@
 ![Pack Header 3](https://cdn.modrinth.com/data/cached_images/89b9de6aad009bf5e56c7ff7508474c511245f5a.png)
 
 <div align="center">
-
-A modpack focused around <font color="#F0DC82">**Create**</font> and its greatest addon - <font color="#57B9FF">**Create Aeronautics**</font>, also bringing many improvements and rebalances to the Vanilla Minecraft - Welcome to <font color="#74c476">**The Real New World!**</font>
-
+If you want something done right - do it yourself.
 </div>
 
 # <font color="#FCD748">Features</font>
 - **Create & Create Aeronautics 🚂**
-- **Worldgen Overhaul 🌍**
+- **Immersive Engineering 🚀**
 - **New Combat System 🗡️**
 - **Progression Rebalances ⚖️**
 - **Transportation Rebalances 🐎**
@@ -50,6 +48,22 @@ These two need no introduction, but in case they do - check out their trailers b
 
 </details>
 
+## <font color="#FCD748">Immersive Engineering 🚀</font>
+
+<details>
+<summary>Details</summary>
+
+Arguably, an even bigger tech mod than Create and Create Aeronautics, adding all sorts of new systems and mechanics, unlike other technology mods, making its technology realistic, among the most notable features being electrical grids, heavy machinery and new weaponry to terrorize your friends.
+
+On top of that, [Immersive Petroleum](https://modrinth.com/mod/immersivepetroleum) was also included, which adds oil and oil processing.
+
+However, the vanilla mod looks rather ugly, so to address that, [Immersive Engineering: Reimmersed](https://modrinth.com/resourcepack/ie-reimmersed) was added to make the textures look less ugly and update the 3D models this mod uses.
+
+Craft Engineer's Manual to get started!
+
+##### _I didn't know this many people want to build a refinery, to be honest._
+
+</details>
 
 ## <font color="#FCD748">New Combat System 🗡️</font>
 
@@ -59,18 +73,6 @@ These two need no introduction, but in case they do - check out their trailers b
 Ever since 1.9 Minecraft's Combat is mediocre at best despite it being present throughout the entirity of player's gameplay. [Better Combat](https://modrinth.com/mod/better-combat) with a few other subtle additions make combat a bit more engaging and fun.
 
 On top of that, now you can also stack soups, stews and potions to up to 16!
-
-</details>
-
-
-## <font color="#FCD748">Worldgen Overhaul 🌍</font>
-
-<details>
-<summary>Details</summary>
-
-Given that the main focus is on Create and Create Aeronautics means that you as a player, among other things would build a lot of planes, trains, cars and boats, so for that you'd need some plainy land, that's where [Tectonic](https://modrinth.com/datapack/tectonic) comes in - the world now consists of plains and plateaus, giving you much more freedom in places to build or inhabit.
-
-On top of that, for those who love snow, there are also mods to fix the snow generation under trees!
 
 </details>
 
@@ -240,7 +242,7 @@ It was rather hard to pick the fitting mod for the ambient sounds, given most of
 <details>
 <summary>Performance ❗</summary>
 
-Considering running both Create and Create Aeronautics equals running two separate rendering engines at the same time, then having a heavy terrain generation mod on top, plus Distant Horizons would equal a rather abysmal performance regardless of the amount of perfrormance mods shipped alongside it.
+Considering running both Create and Create Aeronautics equals running two separate rendering engines at the same time plus Distant Horizons would equal a rather abysmal performance regardless of the amount of perfrormance mods shipped alongside it.
 
 So, how can you get around it?
 

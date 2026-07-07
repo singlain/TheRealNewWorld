@@ -12,7 +12,7 @@ joinedFirstServer:true
 skipMultiplayerWarning:true
 narrator:0
 lastServer:
-resourcePacks:["vanilla","fabric","mod_resources","tinyskeletons:dynamically_copied_skeleton_textures","moonlight:merged_pack","file/VanillaTweaks_r309049_MC1.21.x.zip","continuity:default","continuity:glass_pane_culling_fix","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/[1.6] Enhanced Boss Bars.zip","file/Fancy Crops v1.3.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","minecraft:supporteatinganimation","file/lush_cave_panorama.zip","file/newworld_splash_texts","file/§3§lC418 Songs Only.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","tinyskeletons:dynamically_copied_skeleton_textures","moonlight:merged_pack","file/newworld_splash_texts","file/VanillaTweaks_r309049_MC1.21.x.zip","file/[Neoforge] IE Reimmersed v1.1.zip","continuity:default","continuity:glass_pane_culling_fix","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/[1.6] Enhanced Boss Bars.zip","file/Fancy Crops v1.3.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/§3§lC418 Songs Only.zip","file/lush_cave_panorama.zip"]
 lang:en_uk
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -21,14 +21,14 @@ showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 onboardAccessibility:false
-soundCategory_master:0.75
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:0.75
-soundCategory_weather:0.85
+soundCategory_weather:0.60
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.5
+soundCategory_ambient:0.35
 soundCategory_voice:0.7
 modelPart_cape:false
