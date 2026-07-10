@@ -94,7 +94,7 @@ hash = "122a1b9c8ba21e2f3555b120ed9d0ab0615869e8086230672551110e0e5c02e0"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "a36279d66d1e6c84583f35e87a1045104eb8ef1807f8a0e51343ded136971bda"
+hash = "8722ba6cb9755dc36cabc067205f45254fd795e1a40e74b09e178ff4f2d86199"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -170,7 +170,7 @@ hash = "f534b88ef504d256f5d0ff4b7fbe79df215cab1cf4219a0f081d9462397427d5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5ef09346184da1441e2b52af0f52589082e7c162173535fa747e44cc098ea800"
+hash = "41a81b3141c6ce2e7455d74201a2ac51fef9e2044ea953226d52fe1e74a2b139"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -350,7 +350,7 @@ hash = "934e4f18c9e78012f806078cc847924ab74c0cf4e37c9b75140a8312ef08c429"
 
 [[files]]
 file = "config/subtle_effects/environment.toml"
-hash = "f98cc3bbeb42479161b33e69dae4f7e6cc5477ad749ae02b576e06adeb1688d5"
+hash = "de81d2900cec203b396547b4ca7aebff9cbc07a056acd15758e40062c7c49e2c"
 
 [[files]]
 file = "config/subtle_effects/general.toml"
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7d5659cf745f95eedf7a907184698eb950d5ef067d011da028b72a578642fe90"
+hash = "b594dc1097013a09140b354465c2a85e5082f72a8b5c166ed8e7ebd60e30d187"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
-hash = "429cdcd154f7e7ab1f037296e96c9ce907902e59454ce6143dec0e4addfdbfae"
+hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "937a5af04455f2afb7bac9184749d36b0e340ab5c4e70fc21ae8ec74de043c08"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a28c70d2b3cdd535beae2007a4b7f77a8572b786c7e2d8a92f33ffbeddf1c2be"
+hash = "261885cca2c4fad2e0c53fdbc6eecb29982afccab576d5ddedfa1a7827bfc20e"
 metafile = true
 
 [[files]]
@@ -1239,11 +1239,6 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
-file = "mods/obe.pw.toml"
-hash = "d326942e99d1c84c38f2b3598c1894b5b0c98452d22be219a8987bc2ba3470f9"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
@@ -1251,11 +1246,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "256f90ac749470d31f840935002838c49d21bc515d3f9fa9e9dfb987763618aa"
 metafile = true
 
 [[files]]
@@ -1415,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "d379a43459f5d24be47e6518a804dcf303b344b9e8a870d30213efd392c7a05e"
+hash = "c490445e40a84c9e19bd3d3a7c8e8b9709b8cea0346a307eb7fb8a32a72a9504"
 metafile = true
 
 [[files]]
@@ -1511,6 +1501,11 @@ metafile = true
 [[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "1455ab6a9663f8e2ef3805447977184963c72768fc0f8050b64fbab21277c6b0"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "d1c97a86c2767df49d9c7668c3379c6cce4d61fdb9308e46f968863669f43ff8"
 metafile = true
 
 [[files]]
